@@ -1,0 +1,40 @@
+MANUAL DEL USUARIO - ITALIKA FT125
+
+1. SERVICIO DE MANTENIMIENTO
+- Para mantener el funcionamiento optimo de la motocicleta, se recomienda realizar el primer servicio a los 500 km y posteriormente cada 1000 km o cada mes, lo que ocurra primero. Cada servicio debe incluir cambio de aceite, revisión de bujía, filtro de aire, tensión de cadena y frenos.
+
+2. CAMBIO DE ACEITE
+- Utilizar aceite SAE 20W-50. El cambio de aceite debe hacerse en el primer servicio (500 km), posteriormente cada 1000 km. El motor debe estar caliente antes de drenar el aceite. La capacidad del carter es de 900 ml.
+
+3. PRESION DE LLANTAS
+- La presion recomendada es:
+- Llanta delantera: 25 psi
+- Llanta trasera: 33 psi
+- Verificar la presion de los neumaticos semanalmente.
+
+4. AJUSTE DE CADENA
+- La cadena debe tener una holgura de entre 2 y 3 cm. 
+- Ajustar si esta muy floja o tensa. 
+- Lubricarla cada 300 km.
+
+5. ESPECIFICACIONES GENERALES
+- Cilindraje: 124.6 cc
+- Capacidad del tanque: 13 L
+- Rendimiento estimado: 30 km/L
+- Encendido: CDI electrónico
+- Tipo de motor: 4 tiempos, monocilindrico
+
+6. SEGURIDAD
+- Usar casco protector en todo momento. 
+- No exceder la capacidad de carga recomendada: 150 kg. 
+- Evitar frenar bruscamente con la rueda delantera.
+
+7. FALLAS COMUNES
+- Motor no enciende: revisar bateria, bujia o nivel de gasolina.
+- Ruidos extraños: revisar tension de cadena, frenos o nivel de aceite.
+- Vibracion excesiva: verificar presion de llantas o elementos flojos.
+
+8. CUIDADOS GENERALES
+- Lavar con agua y jabon neutro.
+- No usar solventes sobre superficies plásticas o pintadas.
+- Guardar bajo techo o utilizar lona protectora.

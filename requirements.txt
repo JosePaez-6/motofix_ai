@@ -1,0 +1,17 @@
+# === Backend principal ===
+fastapi==0.115.2
+uvicorn==0.30.6
+python-dotenv==1.0.1
+
+# === LangChain + OpenAI (versiones compatibles 100 %)
+openai==1.61.1
+langchain==0.3.6
+langchain-community==0.3.4
+langchain-openai==0.3.0
+
+# === Vector storage (FAISS CPU estable)
+faiss-cpu==1.11.0.post1
+
+# === Utilidades ===
+tqdm==4.66.5
+requests==2.32.3

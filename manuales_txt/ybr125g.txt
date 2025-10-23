@@ -1,0 +1,5853 @@
+YBR125EGS
+
+43B-F8199-SA
+
+Lea este manual atentamente antes de utilizar este
+
+vehículo.
+
+SAU46090
+
+Lea este manual atentamente antes de utilizar este vehículo. Este manual debe acompañar al vehículo si este se vende.
+
+INTRODUCCIÓN
+
+SAU10102
+
+¡Bienvenido al mundo de las motocicletas Yamaha!
+
+Como propietario de una YBR125EGS, se beneficia usted de la amplia experiencia de Yamaha y de la más avanzada tecnología en el
+
+diseño y la fabricación de productos de alta calidad que han dado a Yamaha su reputación de fiabilidad.
+
+Lea este manual en su totalidad para disfrutar de todas las ventajas de su YBR125EGS. El manual del propietario no sólo le enseñará
+
+cómo utilizar, revisar y mantener su motocicleta, sino además cómo protegerse a sí mismo y a otros de problemas y accidentes.
+
+Además, los numerosos consejos contenidos en este manual le ayudarán a mantener su motocicleta en las mejores condiciones posibles.
+
+Si necesita cualquier aclaración adicional, no dude en ponerse en contacto con su concesionario Yamaha.
+
+El equipo de Yamaha le desea muchos paseos seguros y agradables. Recuerde, ¡la seguridad es lo primero!
+
+Yamaha mejora constantemente el diseño y la calidad de sus productos. Por tanto, aunque este manual contiene la información más ac tual en el momento de imprimirse, pueden existir pequeñas discrepancias entre su motocicleta y este manual. Si necesita cualquier acla ración relativa a este manual, consulte a su concesionario Yamaha.
+
+SWA10031
+
+Lea este manual atentamente y en su totalidad antes de utilizar esta motocicleta.
+
+INFORMACIÓN IMPORTANTE RELATIVA AL MANUAL
+
+SAU10133
+
+En este manual, la información particularmente importante se distingue mediante las siguientes anotaciones:
+
+El producto y las especificaciones pueden cambiar sin previo aviso.
+
+Este es el símbolo de aviso de seguridad. Se utiliza para avisarle de un posible peligro de da ños personales. Obedezca todos los mensajes de seguridad que siguen a este símbolo para
+
+evitar posibles daños personales o un accidente mortal.
+
+ADVERTENCIA indica una situación peligrosa que, de no evitarse, puede ocasionar un acci dente mortal o daños personales graves.
+
+ATENCIÓN indica precauciones especiales que se deben adoptar para evitar que el vehículo
+
+u otros bienes resulten dañados.
+
+NOTA proporciona información clave para facilitar o clarificar los procedimientos.
+
+ATENCIÓN
+
+INFORMACIÓN IMPORTANTE RELATIVA AL MANUAL
+
+SAU37230
+
+YBR125EGS
+
+©2012 Yamaha Motor Co., Ltd.
+
+1ª edición, mayo 2012
+
+Todos los derechos reservados.
+
+Toda reproducción o uso no autorizado
+
+sin el consentimiento escrito de
+
+Yamaha Motor Co., Ltd.
+
+quedan expresamente prohibidos.
+
+Impreso en China.
+
+INFORMACIÓN RELATIVA A LA
+
+Interruptor principal/Bloqueo de la
+
+Tirador del estárter
+
+Ajuste de los conjuntos
+
+Soportes de la correa del
+
+Sistema de corte del circuito de
+
+PARA SU SEGURIDAD –
+
+UTILIZACIÓN Y PUNTOS
+
+Consejos para reducir el consumo
+
+Cuadro de mantenimiento periódico
+
+del sistema de control de
+
+Cuadro general de
+
+Desmontaje y montaje de los
+
+Limpieza del elemento del filtro de
+
+Ajuste del juego libre del puño del
+
+Ajuste del juego libre de la maneta
+
+Comprobación del juego libre de
+
+Ajuste del juego libre del pedal de
+
+Comprobación del pedal de
+
+Comprobación de las pastillas de
+
+freno delantero y las zapatas de
+
+Comprobación del líquido de
+
+Juego de la cadena de
+
+Limpieza y engrase de la cadena
+
+Comprobación y engrase de los
+
+Comprobación y engrase del puño
+
+Comprobación y engrase de las
+
+manetas de freno y
+
+Comprobación y engrase del
+
+Verificación y engrase del
+
+caballete central y el caballete
+
+Engrase de los pivotes del
+
+Comprobación de la horquilla
+
+Comprobación de los cojinetes de
+
+Cambio de la bombilla de la luz de
+
+Cambio de la bombilla de un
+
+Cambio de la bombilla de la luz de
+
+Cuadro de identificación de
+
+Precaución relativa al color mate ... 7-1
+
+INFORMACIÓN PARA EL
+
+1-1
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+SAU1031B
+
+Sea un propietario responsable
+
+Como propietario del vehículo, es usted
+
+responsable de su funcionamiento seguro y
+
+adecuado.
+
+Las motocicletas son vehículos de dos rue das.
+
+La seguridad de su uso y funcionamiento
+
+depende de la aplicación de las técnicas de
+
+conducción apropiadas, así como de la ha bilidad del conductor. Todo conductor debe
+
+conocer los requisitos siguientes antes de
+
+conducir esta motocicleta.
+
+Debe: ●Obtener instrucciones completas de
+
+una fuente competente sobre todos
+
+los aspectos del funcionamiento de la
+
+motocicleta.
+
+●Observar las advertencias y los requi sitos de mantenimiento que se indican
+
+en el presente Manual del propietario.
+
+●Obtener una formación cualificada en
+
+las técnicas de conducción seguras y
+
+apropiadas.
+
+●Obtener un servicio técnico profesio nal según se indica en el presente Ma nual del propietario o cuando las
+
+condiciones mecánicas así lo requie ran.
+
+●Nunca conduzca una motocicleta sin
+
+la formación o la instrucción adecua da. Realice un curso de formación.
+
+Los principiantes deben recibir forma ción por parte de un instructor titulado.
+
+Póngase en contacto con un conce sionario autorizado de motocicletas
+
+para obtener información sobre los
+
+cursos de formación más cercanos a
+
+su zona.
+
+Seguridad en la conducción
+
+Realice las comprobaciones previas cada
+
+vez que vaya a utilizar el vehículo para es tar seguro de que se encuentra en condicio nes seguras de funcionamiento. Si no
+
+revisa o mantiene el vehículo correctamen te aumentarán las posibilidades de acci dente o daños materiales. Consulte en la
+
+página 4-1 el listado de comprobaciones
+
+previas.
+
+●Esta motocicleta está diseñada para
+
+llevar al conductor y un pasajero.
+
+●La mayor parte de los accidentes de
+
+tráfico entre coches y motocicletas se
+
+deben al hecho de que el conductor
+
+del coche no ha detectado ni reconoci do a la motocicleta. Muchos acciden tes se han producido porque el
+
+conductor del coche no ha visto la mo tocicleta. Una medida muy eficaz para
+
+reducir las posibilidades de este tipo
+
+de accidente es el hacerse bien visi ble.
+
+Por tanto: Lleve una chaqueta de color brillan-
+
+te.
+
+Sea especialmente prudente al
+
+aproximarse a cruces y pasarlos, ya
+
+que los cruces son los lugares en
+
+los que se producen accidentes de
+
+motocicleta con mayor frecuencia.
+
+Circule por donde los otros conduc tores puedan verle. Evite permane cer en los ángulos sin visión de
+
+tros conductores.
+
+Nunca realice el mantenimiento de
+
+una motocicleta sin los conocimien tos adecuados. Póngase en contac to con un concesionario autorizado
+
+de motocicletas para que le informe
+
+acerca del mantenimiento básico de
+
+la motocicleta. Únicamente el per sonal certificado puede llevar a
+
+cabo determinados tipos de mante nimiento.
+
+●En muchos accidentes están implica dos conductores inexpertos. De he cho, muchos conductores que han
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-2
+
+estado implicados en accidentes ni si quiera tienen un permiso de conducir
+
+motocicletas vigente.
+
+No conduzca sin estar cualificado y
+
+no preste su motocicleta a personas
+
+que no lo estén.
+
+Conozca sus capacidades y sus lí mites. El hecho de permanecer
+
+dentro de sus límites le ayudará a
+
+evitar un accidente.
+
+Le recomendamos que practique
+
+en un lugar donde no haya tráfico
+
+hasta que se haya familiarizado
+
+completamente con la motocicleta y
+
+todos sus mandos.
+
+●Muchos accidentes se han debido a
+
+un error del conductor de la motocicle ta. Un error típico consiste en abrirse
+
+demasiado en una curva a causa del
+
+exceso de velocidad o el subviraje (án gulo de ladeo insuficiente para la velo cidad).
+
+Respete siempre el límite de veloci dad y no circule nunca más rápido
+
+de lo que resulte adecuado según el
+
+estado de la calzada y el tráfico.
+
+Señale siempre antes de girar o
+
+cambiar de carril. Cerciórese de
+
+que los otros conductores puedan
+
+verle.
+
+●La postura del conductor y del pasaje ro es importante para poder mantener
+
+un control adecuado.
+
+Para mantener el control de la mo tocicleta durante la marcha, el con ductor
+
+debe
+
+mantener
+
+ambas
+
+manos en el manillar y ambos pies
+
+en las estriberas.
+
+El pasajero debe sujetarse siempre
+
+al conductor, a la correa del asiento
+
+al asidero con las dos manos y
+
+mantener ambos pies en las estri beras del pasajero. No lleve nunca
+
+a un pasajero que no pueda mante ner firmemente ambos pies en las
+
+estriberas.
+
+●No conduzca nunca bajo los efectos
+
+del alcohol u otras drogas.
+
+Protección personal
+
+La mayoría de las muertes en accidentes
+
+de motocicleta se producen por lesiones en
+
+la cabeza. El uso de un casco de seguridad
+
+es esencial en la prevención o reducción de
+
+las lesiones en la cabeza.
+
+●Utilice siempre un casco homologado.
+
+●Utilice una máscara o gafas. El viento
+
+en los ojos sin proteger puede reducir
+
+la visión y retrasar la percepción de un
+
+peligro.
+
+●El uso de una chaqueta, botas, panta lones y guantes resistentes, etc., re sulta eficaz para prevenir o reducir las
+
+abrasiones o laceraciones.
+
+●No lleve nunca prendas amplias que
+
+puedan engancharse en los mandos,
+
+las estriberas o en las ruedas y provo car lesiones o un accidente.
+
+●Utilice siempre ropa protectora que le
+
+cubra las piernas, los tobillos y los
+
+pies. El motor y el sistema de escape
+
+están muy calientes durante la marcha
+
+después y pueden provocar quema duras.
+
+●El pasajero debe observar también las
+
+precauciones indicadas anteriormen te.
+
+Evite el envenenamiento por monóxido
+
+de carbono
+
+Los gases de escape del motor contienen
+
+monóxido de carbono, un gas letal. La inha lación de monóxido de carbono puede pro vocar
+
+dolores
+
+de
+
+cabeza,
+
+mareo,
+
+somnolencia, nauseas, confusión y, por úl timo, la muerte.
+
+El monóxido de carbono es un gas incoloro,
+
+inodoro e insípido que puede estar presen te aunque no se vea ni se huela nada pro cedente del escape del motor. Se pueden
+
+acumular en tiempo muy breve niveles leta
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-3
+
+les de monóxido de carbono que le postra rán rápidamente y le impedirán salvarse.
+
+Asimismo, en lugares cerrados o mal venti lados pueden mantenerse niveles letales
+
+de monóxido de carbono durante horas o
+
+días. Si nota cualquier síntoma de envene namiento por monóxido de carbono aban done el lugar inmediatamente, respire aire
+
+fresco y SOLICITE TRATAMIENTO MÉDI CO.
+
+●No ponga el motor en marcha en un lu gar cerrado. Aunque intente eliminar
+
+los gases de escape con extractores o
+
+ventanas y puertas abiertas, el mo nóxido de carbono puede alcanzar rá pidamente niveles peligrosos.
+
+●No ponga en marcha el motor en luga res mal ventilados o parcialmente ce rrados como cobertizos, garajes o
+
+cocheras.
+
+●No ponga en marcha el motor en el ex terior cuando los gases de escape
+
+puedan penetrar en un edificio a tra vés de aberturas como ventanas y
+
+puertas.
+
+Carga
+
+La incorporación de accesorios o carga que
+
+modifiquen la distribución del peso de la
+
+motocicleta puede reducir su estabilidad y
+
+manejabilidad. Para evitar la posibilidad de
+
+un accidente, tenga mucho cuidado al aña dir carga o accesorios a la motocicleta. Si
+
+ha añadido carga o accesorios a la motoci cleta, conduzca con mucha precaución. A
+
+continuación, además de información sobre
+
+accesorios, exponemos algunas reglas ge nerales que se deben observar en caso de
+
+cargar equipaje o añadir accesorios a la
+
+motocicleta: El peso total del conductor, el pasajero, los
+
+accesorios y el equipaje no debe superar la
+
+carga máxima. La utilización de un vehí culo sobrecargado puede ocasionar un
+
+accidente.
+
+Cuando lo cargue dentro de este límite de
+
+peso, tenga en cuenta lo siguiente:
+
+●El peso del equipaje y los accesorios
+
+debe mantenerse lo más bajo y cerca
+
+posible de la motocicleta. Sujete bien
+
+los objetos más pesados lo más cerca
+
+posible del centro del vehículo y distri buya el peso lo más uniformemente
+
+posible en ambos lados de la motoci cleta a fin de reducir al mínimo el des equilibrio o la inestabilidad.
+
+●El desplazamiento de pesos puede
+
+crear un desequilibrio repentino. Veri fique que los accesorios y la carga es tén bien sujetos a la motocicleta antes
+
+de iniciar la marcha. Compruebe con
+
+frecuencia las fijaciones de los acce sorios y las sujeciones de la carga.
+
+Ajuste correctamente la suspensión
+
+en función de la carga que lleve
+
+(únicamente en los modelos con
+
+suspensión ajustable) y compruebe
+
+el estado y la presión de los neumá ticos.
+
+No sujete nunca objetos grandes o
+
+pesados al manillar, la horquilla de lantera o el guardabarros delantero.
+
+Tales objetos, como por ejemplo
+
+sacos de dormir, bolsas de lona o
+
+tiendas de campaña, pueden crear
+
+inestabilidad en el manejo o dismi nuir la respuesta de la dirección.
+
+●Este vehículo no está diseñado
+
+para arrastrar un remolque acoplar le un sidecar.
+
+Accesorios originales Yamaha
+
+La elección de los accesorios para el vehí culo es una decisión importante. Los acce sorios originales Yamaha que se pueden
+
+adquirir únicamente en los concesionarios
+
+Yamaha han sido diseñados, probados y
+
+aprobados por Yamaha para su vehículo.
+
+Carga máxima: 153 kg (337 lb)
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-4
+
+Muchas empresas sin relación con Yamaha
+
+fabrican repuestos y accesorios u ofrecen
+
+tras
+
+modificaciones
+
+para
+
+vehículos
+
+Yamaha. Yamaha no puede probar los pro ductos que fabrican estas empresas. Por
+
+tanto, Yamaha no puede respaldar ni reco mendar el uso de accesorios no vendidos
+
+por Yamaha ni modificaciones no recomen dadas específicamente por Yamaha, inclu so si las vende e instala un concesionario
+
+Yamaha.
+
+Repuestos, accesorios y modificaciones
+
+no originales
+
+Aunque algunos productos no originales
+
+pueden tener un diseño y una calidad simi lares a los accesorios originales Yamaha,
+
+debe tener presente que algunos de estos
+
+accesorios no originales o modificaciones
+
+no resultan adecuados debido a la posibili dad de que representen un peligro para us ted u otras personas. La instalación de
+
+productos no originales o las modificacio nes realizadas en su vehículo que alteren
+
+su diseño o sus características de funciona miento pueden representar, para usted y
+
+tras personas, un peligro de daños perso nales graves o un accidente mortal. Es us ted responsable de los daños personales
+
+relacionados con la alteración del vehículo.
+
+Cuando instale accesorios, tenga en cuenta
+
+las recomendaciones siguientes, así como
+
+las que se facilitan en el apartado “Carga”.
+
+●No instale nunca accesorios o lleve
+
+carga que puedan afectar a las presta ciones de la motocicleta. Revise cui dadosamente el accesorio antes de
+
+utilizarlo, a fin de cerciorarse de que
+
+de ningún modo reduzca la distancia
+
+al suelo ni el ángulo de inclinación, ni
+
+limite el recorrido de la suspensión, el
+
+recorrido de la dirección o el funciona miento de los mandos ni obstaculice
+
+las luces o reflectores.
+
+Los accesorios montados en el ma nillar o en la zona de la horquilla de lantera pueden crear inestabilidad
+
+por distribución de peso inadecua da o alteraciones aerodinámicas.
+
+Se debe limitar al máximo el núme ro de accesorios montados en el
+
+manillar o en la zona de la horquilla
+
+delantera y tales accesorios debe rán ser lo más ligeros posible.
+
+Los accesorios voluminosos o gran des pueden afectar gravemente a la
+
+estabilidad de la motocicleta por
+
+sus efectos aerodinámicos. La mo tocicleta puede adquirir una tenden cia a levantarse por efecto del
+
+viento de frente o hacerse inestable
+
+con viento de costado. Estos acce sorios, asimismo, pueden provocar
+
+inestabilidad al adelantar o ser ade lantado por vehículos de gran tama ño.
+
+Algunos accesorios pueden obligar
+
+al conductor a desplazarse de su
+
+posición normal de conducción.
+
+Esta posición inadecuada limita la li bertad de movimiento del conductor
+
+y puede limitar su capacidad de
+
+control; por tanto, no se recomien dan tales accesorios.
+
+●Tenga cuidado al añadir accesorios
+
+eléctricos. Si los accesorios eléctricos
+
+superan la capacidad del sistema
+
+eléctrico de la motocicleta puede pro ducirse una avería eléctrica, la cual
+
+puede provocar el apagado de las lu ces o la pérdida de potencia del motor,
+
+con el consiguiente peligro.
+
+Neumáticos y llantas no originales
+
+Los neumáticos y llantas con los que se en trega la motocicleta han sido diseñados
+
+conforme a las prestaciones de la misma y
+
+para aportar la combinación óptima de ma nejabilidad, frenada y confort. Es posible
+
+que otros neumáticos, llantas, medidas y
+
+combinaciones no resulten adecuados.
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-5
+
+Consulte en la página 6-16 las especifica ciones de los neumáticos e información adi cional sobre su sustitución.
+
+Transporte de la motocicleta
+
+Asegúrese de seguir las instrucciones si guientes antes de transportar la motocicleta
+
+en otro vehículo.
+
+●Retire cualquier elemento suelto de la
+
+motocicleta.
+
+●Compruebe que el grifo de gasolina
+
+(en caso pertinente) está en la posi ción “OFF” y que no hay fugas de com bustible.
+
+●Oriente la rueda delantera en línea
+
+recta al remolque o a la caja del ca mión y bloquéela en un canal para evi tar el movimiento.
+
+●Ponga una marcha (para modelos con
+
+transmisión manual).
+
+●Asegure la motocicleta con sujeciones
+
+correas adecuadas fijadas a piezas
+
+sólidas de la motocicleta, como el bas tidor o la brida triple de la horquilla su perior delantera (y no, por ejemplo, los
+
+manillares montados en goma, los in termitentes o cualquier pieza que pu diera romperse). Elija la ubicación de
+
+las correas con detenimiento para evi tar que generen fricción y rayen las su perficies
+
+pintadas
+
+durante
+
+el
+
+transporte.
+
+●Si es posible, la suspensión debería
+
+estar comprimida en parte mediante
+
+las sujeciones, para que la motocicleta
+
+no rebote excesivamente durante el
+
+transporte.
+
+DESCRIPCIÓN
+
+2-1
+
+SAU10410
+
+Vista izquierda
+
+1. Faro (página 6-33)
+
+2. Grifo de gasolina (página 3-7)
+
+3. Fusible (página 6-32)
+
+4. Batería (página 6-30)
+
+5. Juego de herramientas del propietario (página 6-2)
+
+6. Soporte de la correa del equipaje (página 3-10)
+
+7. Aro de ajuste de la precarga del muelle del conjunto amortiguador (pá gina 3-9)
+
+8. Perno de drenaje del aceite del motor (página 6-11)
+
+9. Pedal de cambio (página 3-4)
+
+DESCRIPCIÓN
+
+2-2
+
+SAU10420
+
+Vista derecha
+
+1. Portaequipajes (página 3-9)
+
+2. Filtro de aire (página 6-12)
+
+3. Tapón de llenado de aceite del motor (página 6-11)
+
+4. Pedal de freno (página 3-5)
+
+5. Sistema de arranque a pedal (página 3-8)
+
+6. Aro de ajuste de la precarga del muelle del conjunto amortiguador (pá gina 3-9)
+
+7. Soporte de la correa del equipaje (página 3-10)
+
+DESCRIPCIÓN
+
+2-3
+
+SAU10430
+
+Mandos e instrumentos
+
+4 5
+
+1. Maneta de embrague (página 3-4)
+
+2. Interruptores del lado izquierdo del manillar (página 3-3)
+
+3. Interruptor principal/Bloqueo de la dirección (página 3-1)
+
+4. Velocímetro (página 3-2)
+
+5. Medidor de gasolina (página 3-3)
+
+6. Tacómetro (página 3-3)
+
+7. Interruptor de arranque (página 3-3)
+
+8. Maneta de freno (página 3-5)
+
+9. Puño del acelerador (página 6-15)
+
+10.Tapón del depósito de gasolina (página 3-5)
+
+3-1
+
+SAU10461
+
+Interruptor principal/Bloqueo de
+
+la dirección
+
+El interruptor principal/bloqueo de la direc ción controla los sistemas de encendido y
+
+luces y se utiliza para bloquear la dirección.
+
+A continuación se describen las diferentes
+
+posiciones.
+
+SAU10630
+
+ABIERTO (ON)
+
+Todos los sistemas eléctricos reciben ten sión y se puede arrancar el motor. La llave
+
+no se puede extraer.
+
+SAU10661
+
+DESCONECTADO (OFF)
+
+Todos los sistemas eléctricos están desac tivados. Se puede extraer la llave.
+
+SWA10061
+
+No gire nunca la llave a la posición
+
+“OFF” o “LOCK” con el vehículo en mar cha. De lo contrario, el sistema eléctrico
+
+se desconectará y puede perder el con trol o sufrir un accidente.
+
+SAUP0050
+
+BLOQUEADO (LOCK)
+
+La dirección está bloqueada y todos los sis temas eléctricos están desactivados. Se
+
+puede extraer la llave.
+
+Para bloquear la dirección
+
+1. Gire el manillar completamente a la iz quierda o a la derecha.
+
+2. Empuje la llave hacia dentro desde la
+
+posición “OFF” y luego gírela a la posi ción “LOCK” sin dejar de empujarla.
+
+3. Extraiga la llave.
+
+Para desbloquear la dirección
+
+Introduzca la llave y gírela a la posición
+
+“OFF”.
+
+1. Empujar.
+
+2. Girar.
+
+1. Girar.
+
+3-2
+
+SAU10981
+
+Luz indicadora
+
+SAU11030
+
+Luces indicadoras de
+
+intermitencia “
+
+” y “
+
+”
+
+La luz indicadora correspondiente parpa dea cuando se empuja el interruptor de in termitencia hacia la izquierda o hacia la
+
+derecha.
+
+SAU11060
+
+Luz indicadora de punto muerto “
+
+”
+
+Esta luz indicadora se enciende cuando la
+
+transmisión se encuentra en posición de
+
+punto muerto.
+
+SAU11080
+
+Testigo de luces de carretera “
+
+”
+
+Este testigo se enciende cuando están co nectadas las luces de carretera.
+
+SAU11630
+
+Unidad velocímetro
+
+La unidad velocímetro está dotada de un
+
+velocímetro, un cuentakilómetros y un
+
+cuentakilómetros parcial. El velocímetro
+
+muestra la velocidad de desplazamiento. El
+
+cuentakilómetros muestra la distancia total
+
+recorrida.
+
+El
+
+cuentakilómetros
+
+parcial
+
+muestra la distancia recorrida desde que se
+
+puso a cero por última vez con la perilla de
+
+reposición. El cuentakilómetros parcial pue de utilizarse para estimar la distancia que
+
+se puede recorrer con un depósito lleno de
+
+gasolina. Esta información le permitirá pla nificar en el futuro las paradas para repos tar.
+
+1. Luz indicadora de intermitencia
+
+izquierda “
+
+”
+
+2. Luz indicadora de punto muerto “
+
+”
+
+3. Luz indicadora de la luz de carretera “
+
+”
+
+4. Luz indicadora de intermitencia
+
+derecha “
+
+”
+
+1. Velocímetro
+
+2. Cuentakilómetros
+
+3. Cuentakilómetros parcial
+
+4. Perilla de reposición a cero del cuentakiló metros parcial
+
+3-3
+
+SAU11851
+
+Tacómetro
+
+El tacómetro eléctrico permite al conductor
+
+vigilar el régimen del motor y mantenerlo
+
+dentro de los márgenes de potencia ade cuados.
+
+ATENCIÓN
+
+SCA10031
+
+No utilice el motor en la zona roja del ta cómetro.
+
+Zona roja: a partir de 10000 r/min
+
+SAU37052
+
+Medidor de gasolina
+
+El medidor de gasolina indica la cantidad de
+
+gasolina que contiene el depósito. La aguja
+
+se desplaza hacia la “E” (vacío) a medida
+
+que disminuye el nivel de gasolina. Cuando
+
+la aguja llega a la línea roja, quedan aproxi madamente
+
+3.0
+
+(0.79
+
+gal,
+
+0.66 Imp.gal) en el depósito. Cuando ocu rra esto, ponga gasolina lo antes posible.
+
+El interruptor principal debe encontrarse en
+
+“ON” para que el medidor de gasolina
+
+muestre una indicación precisa.
+
+SAU1234A
+
+Interruptores del manillar
+
+Izquierda
+
+Derecha
+
+1. Tacómetro
+
+2. Zona roja del tacómetro
+
+1. Medidor de gasolina
+
+2. Zona roja
+
+1. Conmutador de la luz de “
+
+”
+
+2. Interruptor de intermitencia “
+
+”
+
+3. Interruptor de la bocina “
+
+”
+
+1. Interruptor de arranque “
+
+”
+
+3-4
+
+SAU12400
+
+Conmutador de la luz de “
+
+”
+
+Sitúe este interruptor en “
+
+” para poner la
+
+luz de carretera y en “
+
+” para poner la luz
+
+de cruce.
+
+SAU12460
+
+Interruptor de intermitencia “
+
+”
+
+Para señalar un giro a la derecha pulse este
+
+interruptor hacia la posición “
+
+”. Para se ñalar un giro a la izquierda pulse este inte rruptor hacia la posición “
+
+”. Cuando lo
+
+suelte, el interruptor volverá a su posición
+
+central. Para apagar los intermitentes pulse
+
+el interruptor una vez éste haya regresado
+
+a su posición central.
+
+SAU12500
+
+Interruptor de la bocina “
+
+”
+
+Pulse este interruptor para hacer sonar la
+
+bocina.
+
+SAU12711
+
+Interruptor de arranque “
+
+”
+
+Pulse este interruptor para poner en mar cha el motor con el arranque eléctrico.
+
+Véanse las instrucciones de arranque en la
+
+página 5-1 antes de arrancar el motor.
+
+SAU31640
+
+Maneta de embrague
+
+La maneta de embrague está situada en el
+
+puño izquierdo del manillar. Para desem bragar tire de la maneta hacia el puño del
+
+manillar. Para embragar suelte la maneta.
+
+Para que el embrague funcione con suavi dad, debe tirar de la maneta rápidamente y
+
+soltarla lentamente.
+
+La maneta de embrague está dotada de un
+
+interruptor de embrague que forma parte
+
+del sistema de corte del circuito de arran que. (Véase la página 3-10).
+
+SAU12871
+
+Pedal de cambio
+
+El pedal de cambio está situado al lado iz quierdo de la motocicleta y se utiliza en
+
+combinación con la maneta de embrague
+
+para cambiar las marchas de la caja de
+
+cambios de 5 velocidades y engrane cons tante de la que está dotada esta motocicle ta.
+
+1. Maneta de embrague
+
+1. Pedal de cambio
+
+3-5
+
+SAU12891
+
+Maneta de freno
+
+La maneta de freno está situada en el lado
+
+derecho del manillar. Para aplicar el freno
+
+delantero, tire de la maneta hacia el puño
+
+del acelerador.
+
+SAU12941
+
+Pedal de freno
+
+El pedal de freno está situado en el lado de recho de la motocicleta. Para aplicar el fre no trasero pise el pedal.
+
+SAU13002
+
+Tapón del depósito de gasolina
+
+Para extraer el tapón del depósito de ga solina
+
+Introduzca la llave en la cerradura y gírela
+
+1/4 de vuelta en el sentido de las agujas del
+
+reloj. La cerradura se desbloquea y puede
+
+extraerse el tapón del depósito de gasolina.
+
+Para colocar el tapón del depósito de ga solina
+
+1. Empuje el tapón en su sitio con la llave
+
+en la cerradura.
+
+2. Gire la llave en el sentido contrario al
+
+de las agujas del reloj hasta su posi ción original y luego extráigala.
+
+1. Maneta de freno
+
+1. Pedal de freno
+
+1. Desbloquear.
+
+3-6
+
+No se puede colocar el tapón del depósito
+
+de gasolina si la llave no se encuentra en la
+
+cerradura. Además, la llave no se puede
+
+extraer si el tapón no está correctamente
+
+colocado y bloqueado.
+
+SWA11141
+
+Verifique que el tapón del depósito de
+
+gasolina esté correctamente colocado
+
+antes de emprender la marcha. Una fuga
+
+de gasolina significa peligro de incen dio.
+
+SAU13212
+
+Combustible
+
+Verifique que haya suficiente gasolina en el
+
+depósito.
+
+SWA10881
+
+La gasolina y los vapores de gasolina
+
+son muy inflamables. Para evitar incen dios y explosiones y reducir el riesgo de
+
+daños personales al repostar combusti ble, siga estas instrucciones.
+
+1. Antes de poner gasolina, pare el motor
+
+y compruebe que no haya nadie sen tado en el vehículo. No ponga nunca
+
+gasolina mientras fuma o en proximi dad de chispas, llamas vivas u otras
+
+fuentes de ignición como los pilotos lu minosos de calentadores de agua o
+
+secadoras de ropa.
+
+2. No llene en exceso el depósito de ga solina. Deje de llenar cuando la gaso lina llegue a la parte inferior del tubo
+
+de llenado. La gasolina se expande
+
+con el calor y, por tanto, el calor del
+
+motor o del sol puede provocar que la
+
+gasolina se desborde del depósito.
+
+3. Limpie inmediatamente la gasolina
+
+que se haya vertido. ATENCIÓN: Eli mine inmediatamente la gasolina
+
+derramada con un trapo limpio,
+
+seco y suave, ya que la gasolina
+
+puede dañar las superficies pinta das o las piezas de plástico. [SCA10071]
+
+4. Cierre bien el tapón del depósito de
+
+gasolina.
+
+SWA15151
+
+La gasolina es tóxica y puede provocar
+
+lesiones o la muerte. Manipule la gasoli na con cuidado. No trasvase nunca ga solina haciendo sifón con la boca. En
+
+caso de ingestión de gasolina, inhala ción de vapores de gasolina o contacto
+
+de gasolina con los ojos, acuda inmedia 1. Tubo de llenado del depósito de gasolina
+
+2. Marca de nivel máximo
+
+3-7
+
+tamente al médico. Si le cae gasolina so bre la piel, lávese con agua y jabón. Si le
+
+cae gasolina sobre la ropa, cámbiese.
+
+SAU13243
+
+ATENCIÓN
+
+SCA11400
+
+Utilice únicamente gasolina sin plomo.
+
+El uso de gasolina con plomo provocará
+
+graves averías en piezas internas del
+
+motor tales como las válvulas, los aros
+
+del pistón, así como el sistema de esca pe.
+
+SAUP0091
+
+Grifo de gasolina
+
+El grifo de gasolina suministra gasolina del
+
+depósito al carburador, al tiempo que la fil tra.
+
+El grifo de gasolina tiene tres posiciones: Off (cerrado)
+
+Con el grifo en esta posición, la gasolina no
+
+pasa. Sitúe siempre el grifo en esta posición
+
+cuando el motor esté parado.
+
+On (abierto)
+
+Con el grifo en esta posición, la gasolina
+
+pasa al carburador. La conducción normal
+
+se realiza con el grifo en esta posición.
+
+Reserva
+
+Gasolina recomendada: Únicamente gasolina normal sin
+
+plomo
+
+Capacidad del depósito de gasoli na: 12.0 L (3.17 US gal, 2.64 Imp.gal)
+
+Reserva: 3.0 L (0.79 US gal, 0.66 Imp.gal)
+
+1. Flecha hacia la izquierda
+
+1. Flecha hacia abajo
+
+1. Flecha hacia arriba
+
+3-8
+
+Esta posición es para utilizar la reserva de
+
+gasolina. Si se queda sin gasolina mientras
+
+conduce, sitúe el grifo en esta posición. Lle ne el depósito a la primera oportunidad. No
+
+lvide situar de nuevo la palanca en la posi ción abierta después de repostar.
+
+SAU13600
+
+Tirador del estárter
+
+(estrangulador) “
+
+”
+
+Para arrancar un motor en frío es necesaria
+
+una mezcla más rica de aire-gasolina; el es tárter (estrangulador) la suministra.
+
+Mueva el tirador en la dirección (a) para ac tivar el estárter (estrangulador).
+
+Mueva el tirador en la dirección (b) para
+
+desactivar el estárter (estrangulador).
+
+SAU13660
+
+Sistema de arranque a pedal
+
+Si el motor no arranca pulsando el interrup tor de arranque, inténtelo con el sistema de
+
+arranque a pedal. Para arrancar el motor
+
+despliegue la palanca de arranque, muéva la ligeramente hacia abajo con el pie hasta
+
+que el mecanismo engrane y seguidamente
+
+empújela hacia abajo suavemente, pero
+
+con fuerza. Este modelo está equipado con
+
+un sistema de arranque a pedal primario
+
+que permite arrancar el motor en cualquier
+
+marcha si está desembragado. No obstan te, se recomienda poner la transmisión en
+
+la posición de punto muerto antes de arran car.
+
+1. Tirador del estárter (estrangulador)
+
+1. Sistema de arranque a pedal
+
+3-9
+
+SAU14882
+
+Ajuste de los conjuntos amorti guadores
+
+SWA10210
+
+Ajuste siempre los dos conjuntos amor tiguadores por igual; de lo contrario
+
+pueden disminuir la manejabilidad y la
+
+estabilidad.
+
+Cada conjunto amortiguador está equipado
+
+con un aro de ajuste de la precarga del
+
+muelle.
+
+ATENCIÓN
+
+SCA10101
+
+Para evitar que el mecanismo resulte da ñado, no trate de giran más allá de las
+
+posiciones de ajuste máxima o mínima.
+
+Ajuste la precarga del muelle del modo si guiente.
+
+Para incrementar la precarga del muelle y
+
+endurecer la suspensión, gire el aro de
+
+ajuste de cada conjunto amortiguador en la
+
+dirección (a). Para reducir la precarga del
+
+muelle y ablandar la suspensión, gire el aro
+
+de ajuste de cada conjunto amortiguador en
+
+la dirección (b).
+
+Alinee la muesca correspondiente del aro
+
+de ajuste con el indicador de posición del
+
+amortiguador.
+
+SAU15112
+
+Portaequipajes
+
+SWA10171
+
+●No sobrepase el límite de carga de
+
+3 kg (6.6 lb) del portaequipajes.
+
+●No sobrepase la carga máxima de
+
+153 kg (337 lb) del vehículo.
+
+1. Aro de ajuste de la precarga del muelle
+
+2. Indicador de posición
+
+Posición de ajuste de la precarga
+
+del muelle: Mínima (blanda):
+
+Normal: 2
+
+Máxima (dura):
+
+1. Portaequipajes
+
+3-10
+
+SAU15190
+
+Soportes de la correa del equipa je
+
+Debajo de la parte trasera del asiento del
+
+pasajero hay cuatro soportes de la correa
+
+del equipaje.
+
+SAU37490
+
+Caballete lateral
+
+El caballete lateral se encuentra en el lado
+
+izquierdo del bastidor. Levante el caballete
+
+lateral o bájelo con el pie mientras sujeta el
+
+vehículo en posición vertical.
+
+SWA14190
+
+No se debe conducir el vehículo con el
+
+caballete lateral bajado o si éste no pue de subirse correctamente (o no se man tiene arriba); de lo contrario, el caballete
+
+lateral puede tocar el suelo y distraer al
+
+conductor, con el consiguiente riesgo
+
+de que éste pierda el control.
+
+SAUU0631
+
+Sistema de corte del circuito de
+
+arranque
+
+El sistema de corte del circuito de arranque
+
+(que comprende el interruptor del embra gue y el interruptor de punto muerto) impide
+
+poner en marcha el motor cuando hay una
+
+marcha puesta y no se está accionando la
+
+maneta de embrague.
+
+Compruebe periódicamente el funciona miento del sistema de corte del circuito de
+
+arranque conforme al procedimiento si guiente.
+
+Esta comprobación resulta más fiable si se
+
+realiza con el motor en caliente.
+
+1. Soporte de la correa del equipaje
+
+3-11
+
+Con el motor parado: 1. Gire la llave a la posición “ON”.
+
+2. Ponga punto muerto.
+
+3. Pulse el interruptor de arranque.
+
+¿Arranca el motor?
+
+Es posible que el interruptor de punto muerto
+
+no funcione correctamente.
+
+No debe utilizar la motocicleta hasta que la
+
+haya revisado un concesionario Yamaha.
+
+4. Pare el motor.
+
+5. Ponga una marcha.
+
+6. Mantenga accionada la maneta del embrague.
+
+7. Pulse el interruptor de arranque.
+
+¿Arranca el motor?
+
+Es posible que el interruptor del embrague no
+
+funcione correctamente.
+
+No debe utilizar la motocicleta hasta que la
+
+haya revisado un concesionario Yamaha.
+
+Sí
+
+El sistema está correcto. Se puede utilizar la motocicleta.
+
+Sí
+
+Si observa alguna anomalía, haga revisar el
+
+sistema en un concesionario Yamaha antes de
+
+utilizar el vehículo.
+
+PARA SU SEGURIDAD – COMPROBACIONES PREVIAS
+
+4-1
+
+SAU15596
+
+Revise el vehículo cada vez que lo utilice para estar seguro de que se encuentra en condiciones de funcionamiento seguras. Observe
+
+siempre los procedimientos y programas de revisión y mantenimiento que se describen en el manual.
+
+SWA11151
+
+Si no revisa o mantiene el vehículo correctamente aumentarán las posibilidades de accidente o daños materiales. No utilice el
+
+vehículo si observa cualquier anomalía. Si una anomalía no puede resolverse mediante los procedimientos que se facilitan en
+
+este manual, haga revisar el vehículo en un concesionario Yamaha.
+
+Antes de utilizar este vehículo, compruebe los puntos siguientes:
+
+PÁGINA
+
+Gasolina
+
+Comprobar nivel en el depósito de gasolina.
+
+Poner gasolina si es necesario.
+
+Comprobar si existen fugas en la línea de combustible.
+
+3-6
+
+Aceite de motor
+
+Comprobar nivel de aceite en el motor.
+
+Si es necesario, añadir aceite del tipo recomendado hasta el nivel especificado.
+
+Comprobar si existen fugas.
+
+6-11
+
+Freno delantero
+
+Comprobar funcionamiento.
+
+Si el funcionamiento es blando o esponjoso, solicitar a un concesionario Yamaha
+
+que purgue el sistema hidráulico.
+
+Compruebe el desgaste de las pastillas de freno.
+
+Cambiar si es necesario.
+
+Comprobar nivel de líquido en el depósito.
+
+Si es necesario, añada el líquido de freno recomendado hasta el nivel que se es pecifica.
+
+Comprobar si existen fugas en el sistema hidráulico.
+
+6-21, 6-22
+
+Freno trasero
+
+Comprobar funcionamiento.
+
+Comprobar el juego del pedal.
+
+Ajustar si es necesario.
+
+6-20, 6-21
+
+PARA SU SEGURIDAD – COMPROBACIONES PREVIAS
+
+4-2
+
+Embrague
+
+Comprobar funcionamiento.
+
+Lubricar el cable si es necesario.
+
+Comprobar el juego de la maneta.
+
+Ajustar si es necesario.
+
+6-18
+
+Puño del acelerador
+
+Verificar si el funcionamiento es suave.
+
+Compruebe el juego libre del puño del acelerador.
+
+Si es necesario, solicite a un concesionario Yamaha que ajuste el juego libre del
+
+puño del acelerador y lubrique el cable y la caja del puño.
+
+6-15, 6-27
+
+Cables de mando
+
+Verificar si el funcionamiento es suave.
+
+Lubricar si es necesario.
+
+6-26
+
+Cadena de transmisión
+
+Comprobar el juego de la cadena.
+
+Ajustar si es necesario.
+
+Comprobar estado de la cadena.
+
+Lubricar si es necesario.
+
+6-24, 6-26
+
+Ruedas y neumáticos
+
+Comprobar si están dañados.
+
+Comprobar estado de los neumáticos y profundidad del dibujo.
+
+Comprobar la presión.
+
+Corregir si es necesario.
+
+6-16, 6-18
+
+Pedal de cambio
+
+Verificar si el funcionamiento es suave.
+
+Corregir si es necesario.
+
+6-20
+
+Pedal de freno
+
+Verificar si el funcionamiento es suave.
+
+Lubricar el punto de pivote del pedal si es necesario.
+
+6-28
+
+Manetas de freno y embrague
+
+Verificar si el funcionamiento es suave.
+
+Lubricar los puntos de pivote de las manetas si es necesario.
+
+6-27
+
+Caballete central, caballete
+
+lateral
+
+Verificar si el funcionamiento es suave.
+
+Lubricar los pivotes si es necesario.
+
+6-28
+
+Fijaciones del bastidor
+
+Comprobar que todas las tuercas, pernos y tornillos estén correctamente apreta dos.
+
+Apretar si es necesario.
+
+—
+
+PÁGINA
+
+PARA SU SEGURIDAD – COMPROBACIONES PREVIAS
+
+4-3
+
+Instrumentos, luces, señales
+
+e interruptores
+
+Comprobar funcionamiento.
+
+Corregir si es necesario.
+
+—
+
+Batería
+
+Comprobar nivel de líquido.
+
+Añadir agua destilada si es necesario.
+
+6-30
+
+PÁGINA
+
+UTILIZACIÓN Y PUNTOS IMPORTANTES PARA LA CONDUCCIÓN
+
+5-1
+
+SAU15951
+
+Lea atentamente el manual para familiari zarse con todos los mandos. Si tiene dudas
+
+sobre algún mando o función, consulte a su
+
+concesionario Yamaha.
+
+SWA10271
+
+Si no se familiariza con los mandos pue de perder el control, con el consiguiente
+
+riesgo de accidente o daños personales.
+
+SAUP0113
+
+Arranque del motor en frío
+
+Para que el sistema de corte del circuito de
+
+arranque permita el arranque, debe cum plirse una de las condiciones siguientes: ●La transmisión esté en la posición de
+
+punto muerto.
+
+●Haya una marcha puesta, con la ma neta de embrague accionada.
+
+Para más información, consulte la pá gina 3-10.
+
+1. Gire la palanca del grifo de gasolina a
+
+la posición abierta.
+
+2. Gire la llave a la posición “ON”.
+
+3. Ponga punto muerto. La luz indicadora
+
+de punto muerto se debe encender. Si
+
+no se enciende, haga revisar el circui to eléctrico en un concesionario
+
+Yamaha.
+
+4. Accione el estárter (estrangulador) y
+
+cierre completamente el acelerador.
+
+(Véase la página 3-8).
+
+5. Arranque el motor pulsando el inte rruptor de arranque o accionando la
+
+palanca de arranque.
+
+Si el motor no arranca con el interrup tor de arranque, suelte el interruptor,
+
+espere unos segundos e inténtelo de
+
+nuevo. Cada intento de arranque debe
+
+ser lo más breve posible a fin de pre servar la batería. No accione el arran que durante más de 10 segundos
+
+seguidos. Si el motor no arranca con el
+
+motor de arranque, inténtelo con el
+
+sistema de arranque a pedal.
+
+6. Cuando el motor se haya calentado
+
+desactive el estárter (estrangulador).
+
+El motor está caliente cuando responde con
+
+normalidad al acelerador con el estárter
+
+(estrangulador) desactivado.
+
+ATENCIÓN
+
+SCA11042
+
+Para prolongar al máximo la vida útil del
+
+motor, ¡nunca acelere mucho con el mo tor frío!
+
+UTILIZACIÓN Y PUNTOS IMPORTANTES PARA LA CONDUCCIÓN
+
+5-2
+
+SAU16640
+
+Arranque del motor en caliente
+
+Utilice el mismo procedimiento que el des crito para el arranque en frío, salvo que el
+
+estárter (estrangulador) no es necesario
+
+cuando el motor está caliente.
+
+SAU16671
+
+Cambio
+
+El cambio de marchas le permite controlar
+
+la cantidad de potencia de motor disponible
+
+para iniciar la marcha, acelerar, subir pen dientes, etc.
+
+En la figura se muestran las posiciones del
+
+cambio de marchas.
+
+Para poner la transmisión en la posición de
+
+punto muerto, pise el pedal de cambio repe tidamente hasta que llegue al final de su re corrido
+
+y,
+
+continuación,
+
+levántelo
+
+ligeramente.
+
+ATENCIÓN
+
+SCA10260
+
+●Incluso con la transmisión en la po sición de punto muerto, no descien da pendientes durante periodos de
+
+tiempo prolongados con el motor
+
+parado ni remolque la motocicleta
+
+en distancias largas. La transmi sión sólo se engrasa correctamente
+
+cuando el motor está funcionando.
+
+Un engrase inadecuado puede ave riar la transmisión.
+
+●Utilice siempre el embrague para
+
+cambiar de marcha a fin de evitar
+
+que se averíe el motor, la transmi sión y la transmisión secundaria,
+
+los cuales no han sido diseñados
+
+para soportar el impacto de un cam bio forzado.
+
+1. Pedal de cambio
+
+2. Posición de punto muerto
+
+UTILIZACIÓN Y PUNTOS IMPORTANTES PARA LA CONDUCCIÓN
+
+5-3
+
+SAU16800
+
+Consejos para reducir el consu mo de gasolina
+
+El consumo de gasolina depende en gran
+
+medida del estilo de conducción. Considere
+
+los consejos siguientes para reducir el con sumo de gasolina: ●Desactive el estárter (estrangulador)
+
+lo antes posible.
+
+●No apure las marchas y evite revolu cionar mucho el motor durante la ace leración.
+
+●No fuerce el motor al reducir las mar chas y evite acelerar en punto muerto.
+
+●Pare el motor en lugar de dejarlo a ra lentí durante periodos prolongados (p.
+
+ej. en los atascos, en los semáforos o
+
+en los pasos a nivel).
+
+SAU16830
+
+Rodaje del motor
+
+No existe un periodo más importante para
+
+la vida del motor que el comprendido entre
+
+0 y 1000 km (600 mi). Por esta razón, debe
+
+leer atentamente el material siguiente.
+
+Puesto que el motor es nuevo, no lo fuerce
+
+excesivamente durante los primeros 1000
+
+km (600 mi). Las diferentes piezas del mo tor se desgastan y pulen hasta sus holguras
+
+correctas de trabajo. Durante este periodo
+
+debe evitar el funcionamiento prolongado a
+
+todo gas o cualquier condición que pueda
+
+provocar el sobrecalentamiento del motor.
+
+SAU37252
+
+0–500 km (0–300 mi)
+
+Evite el funcionamiento prolongado a más
+
+de 6000 r/min.
+
+Después de cada hora de funcionamiento,
+
+pare el motor y déjelo enfriar entre cinco y
+
+diez minutos.
+
+Varíe el régimen del motor periódicamente.
+
+No mantenga una posición fija del acelera dor.
+
+500–1000 km (300–600 mi)
+
+Evite el funcionamiento prolongado a más
+
+de 7500 r/min.
+
+Revolucione el motor libremente en todas
+
+las marchas, pero no lo ponga a todo gas
+
+en ningún momento. ATENCIÓN: A los
+
+1000 km (600 mi) de funcionamiento
+
+debe cambiarse el aceite del motor.
+
+[SCA10281]
+
+A partir de 1000 km (600 mi)
+
+Ya puede utilizar el vehículo normalmente.
+
+ATENCIÓN
+
+SCA10310
+
+●Mantenga el régimen del motor fue ra de la zona roja del tacómetro.
+
+●Si surge algún problema durante el
+
+rodaje del motor lleve inmediata mente el vehículo a un concesiona rio Yamaha para que lo revise.
+
+UTILIZACIÓN Y PUNTOS IMPORTANTES PARA LA CONDUCCIÓN
+
+5-4
+
+SAUP0080
+
+Estacionamiento
+
+Cuando haya estacionado, pare el motor,
+
+quite la llave del interruptor principal y gire
+
+la palanca del grifo de gasolina a la posición
+
+cerrada.
+
+SWA10311
+
+●El motor y el sistema de escape
+
+pueden calentarse mucho; estacio ne en un lugar en el que resulte difí cil que los peatones o los niños
+
+puedan tocarlos y quemarse.
+
+●No estacione en una pendiente o
+
+sobre suelo blando, ya que el vehí culo puede volcar, con el consi guiente riesgo de que se produzca
+
+una fuga de gasolina y un incendio.
+
+●No estacione cerca de restrojos u
+
+tros materiales inflamables en los
+
+que se pueda prender fuego.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-1
+
+SAU17244
+
+Con una revisión, un ajuste y un engrase
+
+periódicos su vehículo se mantendrá en un
+
+estado óptimo de seguridad y eficiencia. La
+
+seguridad es una obligación del propieta rio/usuario del vehículo. En las páginas si guientes se explican los puntos de revisión,
+
+ajuste y engrase del vehículo más impor tantes.
+
+Los intervalos que se indican en los cua dros de mantenimiento periódicos deben
+
+considerarse simplemente como una guía
+
+general para condiciones normales de utili zación. No obstante, según la meteorolo gía, el terreno, el área geográfica y las
+
+condiciones particulares de uso, puede ser
+
+necesario acortar los intervalos de manteni miento.
+
+SWA10321
+
+Si no se realiza el mantenimiento debido
+
+del vehículo o si los trabajos de manteni miento se realizan de forma incorrecta,
+
+puede aumentar el riesgo de sufrir da ños personales o un accidente mortal
+
+durante el mantenimiento o el uso del
+
+vehículo. Si no está familiarizado con el
+
+mantenimiento del vehículo, confíelo a
+
+un concesionario Yamaha.
+
+SWA15122
+
+Salvo que se especifique otra cosa, pare
+
+el motor para realizar cualquier opera ción de mantenimiento.
+
+●Con el motor en marcha, las piezas
+
+en movimiento pueden atrapar par tes del cuerpo o de la vestimenta y
+
+los componentes eléctricos pueden
+
+provocar descargas o un incendio.
+
+●El tener el motor en marcha durante
+
+el mantenimiento puede ocasionar
+
+lesiones oculares, quemaduras, un
+
+incendio o el envenenamiento por
+
+monóxido de carbono, que puede
+
+ser mortal. Consulte en la página
+
+1-2 información adicional sobre el
+
+monóxido de carbono.
+
+SWA15460
+
+Los discos de freno, las pinzas, los tam bores y los forros pueden alcanzar una
+
+temperatura muy alta durante el uso.
+
+Para evitar quemaduras, permita que los
+
+componentes del freno se enfríen antes
+
+de tocarlos.
+
+SAU17302
+
+Los controles de emisiones no solo sirven
+
+para mantener limpio el aire, sino que ade más resultan vitales para el funcionamiento
+
+correcto del motor y la obtención de unas
+
+prestaciones máximas. En los cuadros de
+
+mantenimiento periódico siguientes se han
+
+agrupado por separado los servicios rela cionados con el control de emisiones. Di chos
+
+servicios
+
+requieren
+
+datos,
+
+conocimientos y equipos especializados. El
+
+mantenimiento, la sustitución o la repara ción de los dispositivos y sistemas de con trol de emisiones pueden ser realizadas por
+
+cualquier taller o persona acreditados (si
+
+procede). Los concesionarios Yamaha es tán capacitados y equipados para realizar
+
+estos servicios específicos.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-2
+
+SAU17341
+
+Juego de herramientas
+
+El juego de herramientas se encuentra de trás del panel B. (Véase la página 6-8).
+
+El objeto de la información de servicio que
+
+se incluye en este manual y de las herra mientas que se suministran en el juego de
+
+herramientas es ayudarle a realizar las ope raciones de mantenimiento preventivo y las
+
+pequeñas reparaciones. Sin embargo, para
+
+realizar correctamente algunos trabajos de
+
+mantenimiento puede necesitar herramien tas adicionales, como por ejemplo una llave
+
+dinamométrica.
+
+Si no dispone de las herramientas o la ex periencia necesarias para realizar un traba jo determinado, confíelo a un concesionario
+
+Yamaha.
+
+1. Juego de herramientas del propietario
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-3
+
+SAU46871
+
+●Las revisiones anuales deben realizarse todos los años, salvo si el mantenimiento se basa en el kilometraje o en las millas,
+
+en el Reino Unido.
+
+●A partir de los 30000 km (17500 mi), repetir los intervalos de mantenimiento comenzando por el de los 6000 km (3500 mi).
+
+●Las operaciones marcadas con un asterisco debe realizarlas un concesionario Yamaha, ya que requieren herramientas y datos es peciales, así como cualificación técnica.
+
+SAU46920
+
+Cuadro de mantenimiento periódico del sistema de control de emisiones
+
+N.º
+
+COMPROBACIÓN U OPERACIÓN
+
+LECTURA DEL CUENTAKILÓMETROS
+
+COMPRO BACIÓN
+
+1000 km
+
+6000 km
+
+12000 km
+
+18000 km
+
+24000 km
+
+Línea de combusti ble
+
+Comprobar si los tubos de gasoli na están agrietados o dañados.
+
+Filtro del grifo de
+
+gasolina
+
+Comprobar estado.
+
+Bujía
+
+Comprobar estado.
+
+Limpiar y ajustar la distancia entre
+
+electrodos.
+
+Cambiar.
+
+Válvulas
+
+Comprobar holgura de la válvula.
+
+Ajustar.
+
+Carburador
+
+Comprobar funcionamiento del
+
+estárter (estrangulador).
+
+Ajustar el ralentí del motor.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-4
+
+SAU17717
+
+Cuadro general de mantenimiento y engrase
+
+N.º
+
+COMPROBACIÓN U OPERACIÓN
+
+LECTURA DEL CUENTAKILÓMETROS
+
+COMPRO BACIÓN
+
+1000 km
+
+6000 km
+
+12000 km
+
+18000 km
+
+24000 km
+
+Filtro de aire
+
+Limpiar.
+
+Cambiar.
+
+Batería
+
+Comprobar nivel de electrólito y
+
+densidad.
+
+Verificar la correcta colocación
+
+del tubo respiradero.
+
+Embrague
+
+Comprobar funcionamiento.
+
+Ajustar.
+
+Freno delantero
+
+Comprobar funcionamiento, nivel
+
+de líquido y si existe alguna fuga.
+
+Cambiar pastillas de freno.
+
+Siempre que lleguen al límite de desgaste
+
+Freno trasero
+
+Comprobar funcionamiento y
+
+ajustar el juego del pedal de fre no.
+
+Cambiar zapatas.
+
+Siempre que lleguen al límite de desgaste
+
+Tubo de freno
+
+Comprobar si está agrietado o da ñado.
+
+Comprobar si la posición y la fija ción son correctas.
+
+Cambiar.
+
+Cada 4 años
+
+Ruedas
+
+Comprobar si están descentradas
+
+dañadas.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-5
+
+Neumáticos
+
+Comprobar la profundidad del di bujo y si está dañado.
+
+Cambiar si es necesario.
+
+Comprobar la presión.
+
+Corregir si es necesario.
+
+Cojinetes de rueda
+
+Comprobar si los cojinetes están
+
+flojos o dañados.
+
+10 *
+
+Bujes del pivote del
+
+basculante
+
+Comprobar que los conjuntos de
+
+bujes no estén flojos.
+
+Lubricar con grasa a base de ja bón de litio.
+
+Cada 10000 km (6000 mi)
+
+Cadena de transmi sión
+
+Compruebe la holgura, la alinea ción y el estado de la cadena.
+
+Ajuste y lubrique completamente
+
+la cadena con aceite de motor.
+
+Cada 500 km (300 mi) y después de lavar la motocicleta, utilizarla con lluvia o
+
+en lugares húmedos
+
+12 *
+
+Cojinetes de direc ción
+
+Comprobar el juego de los cojine tes y si la dirección está dura.
+
+Lubricar con grasa a base de ja bón de litio.
+
+Cada 24000 km (14000 mi)
+
+13 *
+
+Fijaciones del basti dor
+
+Comprobar que todas las tuercas,
+
+pernos y tornillos estén correcta mente apretados.
+
+Eje pivote de la ma neta de freno
+
+Lubricar con grasa de silicona.
+
+Eje pivote del pedal
+
+de freno
+
+Lubricar con grasa a base de ja bón de litio.
+
+Eje pivote de la ma neta de embrague
+
+Lubricar con grasa a base de ja bón de litio.
+
+N.º
+
+COMPROBACIÓN U OPERACIÓN
+
+LECTURA DEL CUENTAKILÓMETROS
+
+COMPRO BACIÓN
+
+1000 km
+
+6000 km
+
+12000 km
+
+18000 km
+
+24000 km
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-6
+
+Caballete lateral, ca ballete central
+
+Comprobar funcionamiento.
+
+Lubricar con grasa a base de ja bón de litio.
+
+18 *
+
+Horquilla delantera
+
+Comprobar funcionamiento y si
+
+existen fugas de aceite.
+
+19 *
+
+Conjuntos amorti guadores
+
+Comprobar funcionamiento y si
+
+los amortiguadores pierden acei te.
+
+Aceite de motor
+
+Cambiar.
+
+Comprobar nivel de aceite y si
+
+existen fugas.
+
+21 *
+
+Interruptores de fre no delantero y tra sero
+
+Comprobar funcionamiento.
+
+Piezas móviles y ca bles
+
+Lubricar.
+
+23 *
+
+Puño del acelerador
+
+Comprobar funcionamiento.
+
+Compruebe el juego libre del
+
+puño del acelerador y ajústelo si
+
+es necesario.
+
+Lubrique la caja del cable y del
+
+puño.
+
+24 *
+
+Luces, señales e in terruptores
+
+Comprobar funcionamiento.
+
+Ajustar la luz del faro.
+
+N.º
+
+COMPROBACIÓN U OPERACIÓN
+
+LECTURA DEL CUENTAKILÓMETROS
+
+COMPRO BACIÓN
+
+1000 km
+
+6000 km
+
+12000 km
+
+18000 km
+
+24000 km
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-7
+
+SAU18660
+
+●El filtro de aire requiere un servicio más frecuente cuando se utiliza el vehículo en lugares especialmente húmedos o polvorientos.
+
+●Mantenimiento del freno hidráulico
+
+Compruebe regularmente el nivel de líquido de freno y corríjalo según sea necesario.
+
+Cada dos años cambie los componentes internos de la bomba de freno y de la pinza, así como el líquido de freno.
+
+Cambie los tubos de freno cada cuatro años y siempre que estén agrietados o dañados.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-8
+
+SAU18771
+
+Desmontaje y montaje de los pa neles
+
+Los paneles que se muestran deben des montarse para poder realizar algunas de
+
+las operaciones de mantenimiento que se
+
+describen en este capítulo. Consulte este
+
+apartado cada vez que necesite desmontar
+
+y montar un panel.
+
+SAU37070
+
+Panel A
+
+Para desmontar el panel
+
+1. Quite el tornillo.
+
+2. Retire hacia fuera la parte delantera
+
+del panel y deslice este hacia adelante
+
+para soltar su parte trasera.
+
+Para montar el panel
+
+1. Sujete la parte trasera del panel y em puje hacia adentro la parte delantera.
+
+2. Coloque el tornillo.
+
+1. Panel A
+
+1. Panel B
+
+1. Tornillo
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-9
+
+SAU36961
+
+Panel B
+
+Para desmontar el panel
+
+1. Abra la tapa de la cerradura del panel,
+
+introduzca la llave en la cerradura y gí rela 1/4 de vuelta en el sentido de las
+
+agujas del reloj.
+
+2. Retire hacia fuera la parte delantera
+
+del panel con la llave introducida en la
+
+cerradura y deslice el panel hacia ade lante para soltar su parte trasera.
+
+Para montar el panel
+
+1. Sujete la parte trasera del panel y em puje hacia dentro la parte delantera
+
+con la llave introducida en la cerradu ra.
+
+2. Mientras empuja el panel hacia den tro, gire la llave en el sentido contrario
+
+al de las agujas del reloj hasta su posi ción original, extráigala y cierre la tapa
+
+de la cerradura del panel.
+
+SAU19604
+
+Comprobación de la bujía
+
+La bujía es un componente importante del
+
+motor que resulta fácil de comprobar. El ca lor y los depósitos de material provocan la
+
+erosión lenta de cualquier bujía, por lo que
+
+esta debe desmontarse y comprobarse de
+
+acuerdo con el cuadro de mantenimiento
+
+periódico y engrase. Además, el estado de
+
+la bujía puede reflejar el estado del motor.
+
+Para desmontar la bujía
+
+1. Retire la tapa de bujía.
+
+2. Desmonte la bujía como se muestra
+
+con la llave de bujías incluida en el jue go de herramientas del propietario.
+
+1. Tapa de la cerradura del panel
+
+2. Desbloquear.
+
+1. Tapa de bujía
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-10
+
+Para revisar la bujía
+
+1. Compruebe que el aislamiento de por celana que rodea al electrodo central
+
+de la bujía tenga un color canela de
+
+tono entre medio y claro (éste es el co lor ideal cuando se utiliza el vehículo
+
+normalmente).
+
+Si la bujía presenta un color claramente di ferente, puede que el motor no funcione
+
+adecuadamente. No trate de diagnosticar
+
+usted mismo estas averías. En lugar de
+
+ello, haga revisar el vehículo en un conce sionario Yamaha.
+
+2. Compruebe la erosión del electrodo y
+
+la acumulación excesiva de carbono u
+
+tros depósitos en la bujía; cámbiela
+
+según sea necesario.
+
+3. Mida la distancia entre electrodos de
+
+la bujía con una galga y ajústela al va lor especificado según sea necesario.
+
+Para montar la bujía
+
+1. Limpie la superficie de la junta de la
+
+bujía y su superficie de contacto; se guidamente elimine toda suciedad de
+
+las roscas de la bujía.
+
+2. Monte la bujía con la llave de bujías y
+
+apriétela con el par especificado.
+
+Si no dispone de una llave dinamométrica
+
+para montar la bujía, una buena estimación
+
+del par de apriete correcto es 1/4–1/2 vuelta
+
+después de haberla apretado a mano. No
+
+bstante, deberá apretar la bujía con el par
+
+especificado tan pronto como sea posible.
+
+3. Coloque la tapa de bujía.
+
+1. Llave de bujías
+
+Bujía especificada: NGK/CR6HSA
+
+1. Distancia entre electrodos de la bujía
+
+Distancia entre electrodos de la bu jía: 0.6–0.7 mm (0.024–0.028 in)
+
+Par de apriete:
+
+Bujía: 13 Nm (1.3 m·kgf, 9.4 ft·lbf)
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-11
+
+SAU37174
+
+Aceite de motor
+
+Debe comprobar el nivel de aceite del mo tor antes de cada utilización. Además, debe
+
+cambiar el aceite según los intervalos que
+
+se especifican en el cuadro de manteni miento periódico y engrase.
+
+Para comprobar el nivel de aceite del
+
+motor
+
+1. Coloque el vehículo sobre el caballete
+
+central. Si está ligeramente inclinada
+
+hacia un lado, la lectura puede resultar
+
+errónea.
+
+2. Arranque el motor, caliéntelo durante
+
+unos minutos y luego párelo.
+
+3. Espere unos minutos hasta que se
+
+asiente el aceite, quite el tapón de lle nado de aceite del motor, limpie la va rilla de medición de aceite del motor,
+
+introdúzcala de nuevo en el orificio de
+
+llenado (sin enroscarla) y extráigala de
+
+nuevo para comprobar el nivel de acei te.
+
+El aceite del motor debe situarse entre las
+
+marcas de nivel máximo y mínimo.
+
+4. Si el aceite del motor se encuentra en
+
+la marca de nivel mínimo o por debajo
+
+de la misma, añada una cantidad sufi ciente de aceite del tipo recomendado
+
+hasta que alcance el nivel correcto.
+
+5. Introduzca la varilla de medición en el
+
+rificio de llenado de aceite y seguida mente apriete el tapón.
+
+Para cambiar el aceite del motor
+
+1. Arranque el motor, caliéntelo durante
+
+unos minutos y luego párelo.
+
+2. Coloque una bandeja debajo del mo tor para recoger el aceite usado.
+
+3. Retire el tapón de llenado de aceite del
+
+motor y el perno de drenaje con la jun ta para vaciar el aceite del cárter.
+
+1. Tapón de llenado de aceite del motor
+
+1. Varilla de medición del aceite del motor
+
+2. Marca de nivel máximo
+
+3. Marca de nivel mínimo
+
+1. Perno de drenaje del aceite del motor
+
+2. Junta
+
+3. Bandeja de aceite
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-12
+
+4. Coloque el perno de drenaje de aceite
+
+del motor con la junta nueva y apriéte lo con el par especificado.
+
+5. Añada la cantidad especificada del
+
+aceite de motor recomendado y segui damente coloque y apriete el tapón de
+
+llenado de aceite.
+
+ATENCIÓN
+
+SCA11620
+
+●Para evitar que el embrague patine
+
+(puesto que el aceite del motor tam bién lubrica el embrague), no mez cle ningún aditivo químico. No
+
+utilice aceites con la especificación
+
+diésel “CD” ni aceites de calidad
+
+superior a la especificada. Además,
+
+no utilice aceites con la etiqueta
+
+“ENERGY CONSERVING II” o supe rior.
+
+●Asegúrese de que no penetre nin gún material extraño en el cárter.
+
+6. Arranque el motor y déjelo al ralentí
+
+durante unos minutos mientras com prueba si existe alguna fuga de aceite.
+
+Si pierde aceite, pare inmediatamente
+
+el motor y averigüe la causa.
+
+7. Pare el motor, espere unos minutos
+
+para que el aceite se asiente, com pruebe el nivel y corríjalo según sea
+
+necesario.
+
+SAU37123
+
+Limpieza del elemento del filtro
+
+de aire
+
+Debe limpiar el filtro de aire según los inter valos que se especifican en el cuadro de
+
+mantenimiento periódico y engrase. Limpie
+
+cambie según sea necesario el filtro de
+
+aire con mayor frecuencia si conduce en lu gares especialmente húmedos o polvorien tos.
+
+1. Desmonte el panel A. (Véase la pági na 6-8).
+
+2. Desmonte la cubierta de la caja del fil tro de aire quitando los tornillos.
+
+3. Extraiga el filtro de aire.
+
+Par de apriete: Perno de vaciado del aceite del mo-
+
+tor: 20 Nm (2.0 m·kgf, 14 ft·lbf)
+
+Aceite de motor recomendado: Véase la página 8-1.
+
+Cantidad de aceite: 1.00 L (1.06 US qt, 0.88 Imp.qt)
+
+1. Tornillo
+
+2. Cubierta de la caja del filtro de aire
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-13
+
+4. Extraiga el material esponjoso del filtro
+
+de aire.
+
+5. Golpee ligeramente el filtro de aire
+
+para eliminar la mayor parte del polvo
+
+y la suciedad y, seguidamente, elimine
+
+el resto aplicando aire comprimido a la
+
+parte lateral de la malla, como se
+
+muestra. Si el filtro de aire está daña do, cámbielo.
+
+6. Limpie el material esponjoso con disol vente, a continuación oprímalo para
+
+eliminar los restos de disolvente y dé jelo secar antes de colocarlo en el filtro
+
+de aire. Si el material esponjoso está
+
+dañado, cámbielo. ¡ADVERTENCIA!
+
+Utilice únicamente un disolvente
+
+específico para la limpieza de pie zas. Para evitar el riesgo de incen dio o explosión, no utilice gasolina
+
+disolventes cuya temperatura de
+
+inflamabilidad
+
+sea
+
+baja.
+
+[SWA10431]
+
+ATENCIÓN: Para no dañar el mate rial esponjoso, manipúlelo con sua vidad y con cuidado; no lo doble.
+
+[SCA15101]
+
+7. Coloque el material esponjoso en el fil tro de aire y a continuación monte este
+
+en su caja. ATENCIÓN: Verifique
+
+que el filtro de aire esté correcta mente asentado en la caja del filtro
+
+de aire. El motor no se debe utilizar
+
+nunca sin el filtro de aire montado;
+
+de lo contrario, el o los pistones y/o
+
+cilindros pueden desgastarse exce sivamente. [SCA10481]
+
+8. Monte la cubierta de la caja del filtro de
+
+aire colocando los tornillos.
+
+9. Compruebe si hay polvo o agua acu mulados en el tubo inferior de la caja
+
+del filtro de aire y, si es preciso, vacíelo
+
+extrayendo la abrazadera y luego el
+
+tapón.
+
+1. Material esponjoso
+
+2. Filtro de aire
+
+1. Filtro de aire
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-14
+
+10. Coloque el tapón en el tubo de control
+
+y luego monte la brida.
+
+11. Monte el panel.
+
+SAU21280
+
+Ajuste del carburador
+
+El carburador es una parte importante del
+
+motor y requiere un ajuste muy sofisticado.
+
+Por lo tanto, la mayor parte de los ajustes
+
+del carburador debe realizarlos un conce sionario Yamaha que dispone de los cono cimientos
+
+experiencia
+
+profesional
+
+necesarios. No obstante, el propietario pue de realizar el ajuste que se describe en el
+
+apartado siguiente como parte del manteni miento rutinario.
+
+ATENCIÓN
+
+SCA10550
+
+El carburador ha sido ajustado y proba do
+
+exhaustivamente
+
+en
+
+la
+
+fábrica
+
+Yamaha. La modificación de estos ajus tes sin los conocimientos técnicos sufi cientes
+
+puede
+
+provocar
+
+una
+
+disminución de las prestaciones o ave rías en el motor.
+
+SAU21320
+
+Ajuste del ralentí del motor
+
+Debe comprobar y, si es necesario, ajustar
+
+el ralentí del motor como se describe a con tinuación y según los intervalos que se es pecifican en el cuadro de mantenimiento
+
+periódico y engrase.
+
+Para realizar este ajuste el motor debe es tar caliente.
+
+El motor está caliente cuando responde rá pidamente al acelerador.
+
+Compruebe el ralentí del motor y, si es ne cesario, ajústelo al valor especificado giran do el tornillo de tope del acelerador. Para
+
+subir el ralentí del motor gire el tornillo en la
+
+dirección (a). Para bajar el ralentí del motor
+
+gire el tornillo en la dirección (b).
+
+1. Brida
+
+2. Tapón del tubo de drenaje del filtro de aire
+
+1. Tornillo de tope del acelerador
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-15
+
+Si no consigue obtener el ralentí especifica do con el procedimiento descrito, acuda a
+
+un concesionario Yamaha para efectuar el
+
+ajuste.
+
+SAU48432
+
+Ajuste del juego libre del puño
+
+del acelerador
+
+El juego libre del puño del acelerador debe
+
+medir 3.0–7.0 mm (0.12–0.28 in) en el bor de interior del puño. Compruebe periódica mente el juego libre del puño del acelerador
+
+y, si es necesario, ajústelo del modo si guiente.
+
+El ralentí del motor debe estar correcta mente ajustado antes de comprobar y ajus tar el juego libre del puño del acelerador.
+
+1. Desplace la cubierta de goma hacia
+
+atrás.
+
+2. Afloje la contratuerca.
+
+3. Para incrementar el juego libre del
+
+puño del acelerador gire la tuerca de
+
+ajuste en la dirección (a). Para reducir
+
+el juego libre del puño del acelerador
+
+gire la tuerca de ajuste en la dirección
+
+(b).
+
+4. Apriete la contratuerca y deslice la fun da de goma a su posición original.
+
+Ralentí del motor: 1300–1500 r/min
+
+1. Juego libre del puño del acelerador
+
+2. Contratuerca
+
+3. Tuerca de ajuste del juego libre del puño del
+
+acelerador
+
+4. Cubierta de goma
+
+4 3 2
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-16
+
+SAU21401
+
+Holgura de la válvula
+
+La holgura de la válvula se altera con el uso
+
+y, como consecuencia de ello, se desajusta
+
+la mezcla de aire y gasolina y/o el motor
+
+produce ruidos. Para evitarlo, un concesio nario Yamaha debe ajustar la holgura de la
+
+válvula según los intervalos que se especi fican en el cuadro de mantenimiento perió dico y engrase.
+
+SAU53980
+
+Neumáticos
+
+Los neumáticos son el único contacto entre
+
+el vehículo y la carretera. La seguridad en
+
+todas las condiciones de conducción de pende de un área relativamente pequeña
+
+de contacto con la carretera. Por tanto, es
+
+fundamental mantener los neumáticos en
+
+buen estado en todo momento y cambiarlos
+
+por los neumáticos especificados en el mo mento adecuado.
+
+Presión de aire de los neumáticos
+
+Debe comprobar la presión de aire de los
+
+neumáticos antes de cada utilización y, si
+
+es necesario, ajustarla.
+
+SWA10503
+
+La utilización de este vehículo con una
+
+presión incorrecta de los neumáticos
+
+puede provocar la pérdida de control,
+
+con la consecuencia de daños persona les graves o un accidente mortal.
+
+●La presión de los neumáticos debe
+
+comprobarse y ajustarse con los
+
+neumáticos en frío (es decir, cuan do la temperatura de los neumáti cos sea igual a la temperatura
+
+ambiente).
+
+●La presión de los neumáticos debe
+
+ajustarse en función de la veloci dad, el peso total del conductor, el
+
+pasajero, el equipaje y los acceso rios homologados para este mode lo.
+
+SWA10511
+
+No sobrecargue nunca el vehículo. La
+
+utilización de un vehículo sobrecargado
+
+puede ocasionar un accidente.
+
+Presión de aire de los neumáticos
+
+(medida con los neumáticos en
+
+frío):
+
+0–90 kg (0–198 lb):
+
+Delantero: 175 kPa (1.75 kgf/cm², 25 psi)
+
+Trasero: 200 kPa (2.00 kgf/cm², 29 psi)
+
+90 kg - Carga máxima:
+
+Delantero: 175 kPa (1.75 kgf/cm², 25 psi)
+
+Trasero: 225 kPa (2.25 kgf/cm², 33 psi)
+
+Carga máxima*:
+
+153 kg (337 lb)
+
+Peso total del conductor, el pasaje ro, el equipaje y los accesorios
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-17
+
+Revisión de los neumáticos
+
+Debe comprobar los neumáticos antes de
+
+cada utilización. Si la profundidad del dibujo
+
+del neumático en el centro alcanza el límite
+
+especificado, si hay un clavo o fragmentos
+
+de cristal en el neumático o si el flanco está
+
+agrietado, haga cambiar el neumático in mediatamente
+
+en
+
+un
+
+concesionario
+
+Yamaha.
+
+Los límites de la profundidad del dibujo pue den variar de un país a otro. Cumpla siem pre los reglamentos locales.
+
+SWA10471
+
+●Si los neumáticos están excesiva mente gastados, hágalos cambiar
+
+en un concesionario Yamaha. Ade más de ser ilegal, el uso del vehícu lo
+
+con
+
+unos
+
+neumáticos
+
+excesivamente gastados reduce la
+
+estabilidad y puede provocar la pér dida del control.
+
+●La sustitución de toda pieza rela cionada con las ruedas y los frenos,
+
+incluidos los neumáticos, debe
+
+confiarse
+
+un
+
+concesionario
+
+Yamaha que dispone de los conoci mientos y experiencia profesional
+
+necesarios para ello.
+
+●Conduzca a velocidades modera das después de cambiar un neumá tico, ya que la superficie de éste
+
+debe “rodarse” para desarrollar sus
+
+características óptimas.
+
+Información relativa a los neumáticos
+
+Esta motocicleta está equipada con neumá ticos sin cámara, válvulas de aire y llantas
+
+de aleación.
+
+Los neumáticos envejecen, aunque no se
+
+hayan utilizado o solo se hayan utilizado
+
+casionalmente. Las grietas en el dibujo del
+
+neumático y en la goma del flanco, a veces
+
+acompañadas de deformación de la carca sa, son una prueba de envejecimiento. Es pecialistas
+
+en
+
+neumáticos
+
+deberán
+
+comprobar los neumáticos viejos y enveje cidos para determinar su idoneidad para
+
+uso futuro.
+
+SWA10461
+
+Los neumáticos delantero y trasero de ben ser de la misma marca y diseño; de
+
+lo contrario, las características de mane jabilidad del vehiculo pueden ser dife rentes, lo que podría ocasionar un
+
+accidente.
+
+Después de realizar pruebas exhaustivas,
+
+Yamaha Motor Co., Ltd. sólo ha homologa do para este modelo los neumáticos que se
+
+relacionan a continuación.
+
+1. Flanco del neumático
+
+2. Indicador de desgaste del neumático
+
+3. Profundidad del dibujo de la banda de roda dura del neumático
+
+Profundidad mínima del dibujo del
+
+neumático (delantero y trasero):
+
+1.0 mm (0.04 in)
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-18
+
+SAU21962
+
+Llantas de aleación
+
+Para asegurar unas prestaciones óptimas,
+
+la durabilidad y el funcionamiento seguro
+
+del vehículo, tome nota de los puntos si guientes relativos a las ruedas especifica das.
+
+●Antes de cada utilización debe com probar si las llantas de las ruedas pre sentan
+
+grietas,
+
+dobladuras,
+
+deformación u otros daños. Si observa
+
+algún daño, haga cambiar la rueda en
+
+un concesionario Yamaha. No intente
+
+realizar ni la más mínima reparación
+
+en una rueda. Una rueda deformada o
+
+agrietada debe sustituirse.
+
+●La rueda se debe equilibrar siempre
+
+que se haya cambiado la llanta o el
+
+neumático. Una rueda no equilibrada
+
+puede reducir las prestaciones, limitar
+
+la manejabilidad y reducir la vida útil
+
+del neumático.
+
+SAU51250
+
+Ajuste del juego libre de la mane ta de embrague
+
+El juego libre de la maneta de embrague
+
+debe medir 10.0–15.0 mm (0.39–0.59 in),
+
+como se muestra. Compruebe periódica mente el juego libre de la maneta de embra gue y, de ser necesario, ajústelo del modo
+
+siguiente.
+
+1. Desplace la cubierta de goma hacia la
+
+maneta de embrague.
+
+2. Afloje la contratuerca.
+
+3. Para incrementar el juego libre de la
+
+maneta de embrague, gire el perno de
+
+ajuste en la dirección (a). Para reducir
+
+Neumático delantero:
+
+Tamaño: 3.00-18 47P
+
+Marca/modelo:
+
+CHENG SHIN/C-7204F
+
+Neumático trasero:
+
+Tamaño: 3.00-18 47P
+
+Marca/modelo:
+
+CHENG SHIN/C-7204R
+
+1. Juego libre de la maneta de embrague
+
+2. Contratuerca
+
+3. Perno de ajuste del juego libre de la maneta
+
+de embrague
+
+4. Cubierta de goma
+
+2 3 4
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-19
+
+el juego libre de la maneta de embra gue gire el perno de ajuste en la direc ción (b).
+
+Si con el procedimiento descrito ha obteni do el juego libre especificado de la maneta
+
+de embrague, omita los pasos 4–7.
+
+4. Gire completamente el perno de ajus te de la maneta de embrague en la di rección (a) para aflojar el cable de
+
+embrague.
+
+5. Desplace hacia atrás la funda de
+
+goma situada más abajo en el cable
+
+de embrague y afloje la contratuerca.
+
+6. Para incrementar el juego libre de la
+
+maneta de embrague, gire la tuerca de
+
+ajuste en la dirección (a). Para reducir
+
+el juego libre de la maneta de embra gue gire la tuerca de ajuste en la direc ción (b).
+
+7. Apriete la contratuerca del cable de
+
+embrague y sitúe la funda de goma en
+
+su posición original.
+
+8. Apriete la contratuerca en la maneta
+
+de embrague y sitúe la funda de goma
+
+a su posición original.
+
+SAU37913
+
+Comprobación del juego libre de
+
+la maneta del freno
+
+No debe existir ningún juego en el extremo
+
+de la maneta del freno. Si hay juego, haga
+
+revisar el sistema de frenos en un concesio nario Yamaha.
+
+SWA14211
+
+Un tacto blando o esponjoso de la mane ta del freno puede indicar la presencia
+
+de aire en el sistema hidráulico. Si hay
+
+aire en el sistema hidráulico hágalo pur gar en un concesionario Yamaha antes
+
+de utilizar el vehículo. La presencia de
+
+aire en el sistema hidráulico reducirá las
+
+prestaciones del freno, lo cual puede
+
+provocar la pérdida de control y ser cau sa de accidente.
+
+1. Contratuerca
+
+2. Tuerca de ajuste del juego de la maneta de
+
+embrague
+
+3. Cubierta de goma
+
+1. Sin juego libre de la maneta de freno
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-20
+
+SAU39813
+
+Ajuste del juego libre del pedal
+
+de freno
+
+El juego libre del pedal de freno debe medir
+
+20.0–30.0 mm (0.79–1.18 in) en el extremo
+
+del pedal, como se muestra. Compruebe
+
+periódicamente el juego libre del pedal de
+
+freno y, si es necesario, ajústelo del modo
+
+siguiente.
+
+Para incrementar el juego libre del pedal de
+
+freno gire la tuerca de ajuste del juego libre
+
+del pedal de freno de la varilla en la direc ción (a). Para reducir el juego libre del pedal
+
+de freno gire la tuerca de ajuste en la direc ción (b).
+
+SWA10680
+
+●Después de ajustar el juego de la
+
+cadena de transmisión o desmon tar y montar la rueda trasera, com pruebe siempre el juego libre del
+
+pedal de freno.
+
+●Si no consigue obtener el ajuste co rrecto con el procedimiento descri to, acuda a un concesionario
+
+Yamaha para efectuar el ajuste.
+
+●Después de ajustar el juego libre
+
+del pedal de freno, compruebe el
+
+funcionamiento de la luz de freno.
+
+SAU44820
+
+Comprobación del pedal de cam bio
+
+Antes de cada utilización se debe compro bar el funcionamiento del puño del acelera dor. Si el funcionamiento no es suave, haga
+
+revisar el vehículo en un concesionario
+
+Yamaha.
+
+1. Juego libre del pedal de freno
+
+1. Tuerca de ajuste del juego libre del pedal de
+
+freno
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-21
+
+SAU22294
+
+Interruptores de la luz de freno
+
+La luz de freno trasero, que se activa con el
+
+pedal y la maneta de freno, debe encender se justo antes de que la frenada tenga efec to. Si es necesario ajuste el interruptor de la
+
+luz de freno trasero del modo siguiente,
+
+pero el interruptor de la luz de freno delan tero debe ser ajustado en un concesionario
+
+Yamaha.
+
+1. Desmonte el panel A. (Véase la pági na 6-8).
+
+2. Gire la tuerca de ajuste del interruptor
+
+de la luz del freno trasero mientras
+
+sostiene el interruptor en su sitio. Para
+
+que la luz de freno se encienda antes,
+
+gire la tuerca de ajuste en la dirección
+
+(a). Para que la luz de freno se encien da más tarde, gire la tuerca de ajuste
+
+en la dirección (b).
+
+3. Monte el panel.
+
+SAU22380
+
+Comprobación de las pastillas de
+
+freno delantero y las zapatas de
+
+freno trasero
+
+Debe comprobar el desgaste de las pasti llas de freno delantero y las pastillas de fre no trasero según los intervalos que se
+
+especifican en el cuadro de mantenimiento
+
+periódico y engrase.
+
+SAU22430
+
+Pastillas de freno delantero
+
+Cada pastilla de freno delantero dispone de
+
+ranuras indicadoras de desgaste que le
+
+permiten comprobar el desgaste de las pas tillas de freno sin necesidad de desmontar lo. Para comprobar el desgaste de la
+
+pastilla de freno, observe las ranuras indi cadoras de desgaste. Si una pastilla de fre no se ha desgastado hasta el punto en que
+
+1. Interruptor de la luz de freno trasero
+
+2. Tuerca de ajuste del interruptor de la luz del
+
+freno trasero
+
+1. Indicador de desgaste de la pastilla de freno
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-22
+
+las ranuras indicadoras de desgaste han
+
+desaparecido casi por completo, solicite a
+
+un concesionario Yamaha que cambie el
+
+conjunto de las pastillas de freno.
+
+SAU22540
+
+Zapatas de freno trasero
+
+El freno trasero dispone de un indicador de
+
+desgaste que le permite comprobar el des gaste de las zapatas sin necesidad de des montar el freno. Para comprobar el
+
+desgaste de las zapatas de freno, observe
+
+la posición del indicador de desgaste mien tras aplica el freno. Si una zapata de freno
+
+se ha desgastado hasta el punto en que el
+
+indicador de desgaste llega a la línea del lí mite de desgaste de freno, solicite a un con cesionario Yamaha que cambie el conjunto
+
+de las pastillas de freno.
+
+SAU37002
+
+Comprobación del líquido de fre no
+
+Antes de utilizar el vehículo, verifique que el
+
+líquido de frenos se encuentre por encima
+
+de la marca de nivel mínimo. Compruebe el
+
+nivel del líquido de frenos con respecto a la
+
+parte superior del nivel del depósito. Añada
+
+líquido de frenos si es necesario.
+
+SWA15980
+
+Un mantenimiento inadecuado puede
+
+mermar la capacidad de frenada. Obser ve las precauciones siguientes: 1. Línea límite de desgaste de la zapata de fre-
+
+no
+
+2. Indicador de desgaste de la zapata de freno
+
+1. Marca de nivel mínimo
+
+Líquido de frenos especificado: DOT 3 o DOT 4
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-23
+
+●Si el líquido de frenos es insuficien te, puede penetrar aire en el siste ma y reducirse la capacidad de
+
+frenada.
+
+●Limpie el tapón de llenado antes de
+
+extraerlo. Utilice únicamente líqui do de frenos DOT 3 o DOT 4 proce dente de un recipiente precintado.
+
+●Utilice únicamente el líquido de fre nos especificado; de lo contrario
+
+pueden deteriorarse las juntas de
+
+goma y producirse fugas.
+
+●Añada el mismo tipo de líquido de
+
+freno. Si se añade un líquido de fre nos distinto a DOT 3 o DOT 4 puede
+
+producirse una reacción química
+
+perjudicial.
+
+●Evite que penetre agua en el depó sito cuando añada líquido. El agua
+
+reducirá significativamente el pun to de ebullición del líquido y puede
+
+provocar una obstrucción por va por.
+
+ATENCIÓN
+
+SCA17640
+
+El líquido de frenos puede dañar las su perficies pintadas o las piezas de plásti co. Elimine siempre inmediatamente el
+
+líquido que se haya derramado.
+
+A medida que las pastillas de freno se des gastan, es normal que el nivel de líquido de
+
+freno disminuya de forma gradual. Un nivel
+
+bajo de líquido de frenos puede ser indicati vo del desgaste de las pastillas o de una
+
+fuga en el sistema; por tanto, debe compro bar si las pastillas de freno están desgasta das o si hay una fuga en el sistema de
+
+frenos. Si el nivel de líquido de frenos dismi nuye de forma repentina, solicite a un con cesionario Yamaha que averigüe la causa
+
+antes de seguir utilizando el vehículo.
+
+SAU22721
+
+Cambio del líquido de frenos
+
+Solicite a un concesionario Yamaha que
+
+cambie el líquido de frenos según los inter valos que se especifican en la NOTA que si gue al cuadro de mantenimiento periódico y
+
+engrase. Asimismo, se deben cambiar las
+
+juntas de estanqueidad de la bomba y la
+
+pinza de freno, así como el tubo de freno,
+
+según los intervalos indicados a continua ción o siempre que estén dañados o pre senten fugas.
+
+●Juntas de aceite: Cambiar cada dos
+
+años.
+
+●Tubo de freno: Cambiar cada cuatro
+
+años.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-24
+
+SAU22760
+
+Juego de la cadena de transmi sión
+
+Debe comprobar el juego de la cadena de
+
+transmisión antes de cada utilización y ajus tarlo si es preciso.
+
+SAU22794
+
+Para comprobar el juego de la cadena de
+
+transmisión
+
+1. Coloque la motocicleta sobre el caba llete central.
+
+2. Ponga punto muerto.
+
+3. Mida el juego de la cadena de transmi sión como se muestra.
+
+4. Si el juego de la cadena de transmi sión es incorrecto, ajústelo del modo
+
+siguiente.
+
+SAU51240
+
+Para ajustar el juego de la cadena de
+
+transmisión
+
+Consulte a un concesionario Yamaha antes
+
+de ajustar el juego de la cadena de transmi sión.
+
+1. Retire la motocicleta del caballete cen tral y baje el caballete lateral.
+
+2. Extraiga el pasador del tirante del fre no y afloje la tuerca de ajuste del juego
+
+del pedal, la tuerca del tirante y la tuer ca del eje.
+
+3. Afloje la contratuerca del tensor de la
+
+cadena de transmisión en cada extre mo del basculante.
+
+4. Coloque la motocicleta sobre el caba llete central.
+
+5. Para tensar la cadena de transmisión,
+
+gire el perno de ajuste en cada extre mo del basculante en la dirección (a).
+
+Para aflojar la cadena de transmisión,
+
+gire el tornillo de ajuste en cada extre mo del basculante en la dirección (b)
+
+y, seguidamente, empuje la rueda tra 1. Juego de la cadena de transmisión
+
+Juego de la cadena de transmisión: 20.0–30.0 mm (0.79–1.18 in)
+
+1. Perno de ajuste del juego de la cadena de
+
+transmisión
+
+2. Contratuerca del tensor de la cadena de
+
+transmisión
+
+3. Tuerca del eje
+
+4. Tuerca del tirante de inercia
+
+5. Pasador del tirante de inercia
+
+6. Tuerca de ajuste del juego libre del pedal de
+
+freno
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-25
+
+sera hacia adelante. ATENCIÓN: Una
+
+holgura incorrecta de la cadena de
+
+transmisión sobrecargará el motor
+
+y otros componentes vitales de la
+
+motocicleta y puede provocar que
+
+la cadena se salga o se rompa. Para
+
+evitarlo, mantenga la holgura de la
+
+cadena de transmisión dentro de
+
+los límites especificados. [SCA10571]
+
+Con la ayuda de las marcas de alineación a
+
+cada lado del basculante, verifique que am bos tensores de cadena de transmisión
+
+queden en la misma posición para la co rrecta alineación de la rueda.
+
+6. Retire la motocicleta del caballete cen tral y baje el caballete lateral.
+
+7. Apriete las dos contratuercas y luego
+
+la tuerca del eje y la tuerca del tirante
+
+con los pares especificados.
+
+8. Introduzca un nuevo pasador.
+
+9. Ajuste el juego del pedal de freno.
+
+(Véase la página 6-20).
+
+SWA10660
+
+Después de ajustar el juego libre del pe dal de freno, compruebe el funciona miento de la luz de freno.
+
+10. Asegúrese de que los tensores de la
+
+cadena de transmisión están en la
+
+misma posición, el juego de la cadena
+
+de transmisión es correcto, y las cade nas de transmisión se mueven sin pro blema.
+
+1. Marcas de alineación
+
+2. Tensor de la cadena de transmisión
+
+3. Contratuerca del tensor de la cadena de
+
+transmisión
+
+4. Perno de ajuste del juego de la cadena de
+
+transmisión
+
+Pares de apriete:
+
+Tuerca del eje: 80 Nm (8.0 m·kgf, 58 ft·lbf)
+
+Tuerca del tirante de inercia del fre no: 19 Nm (1.9 m·kgf, 14 ft·lbf)
+
+1 2 3 4
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-26
+
+SAU23016
+
+Limpieza y engrase de la cadena
+
+de transmisión
+
+La cadena de transmisión debe limpiarse y
+
+engrasarse según los intervalos especifica dos en el cuadro de mantenimiento periódi co y engrase, ya que de lo contrario se
+
+desgastará rápidamente, especialmente si
+
+hay mucha humedad o polvo en el ambien te. Realice el mantenimiento de la cadena
+
+de transmisión del modo siguiente.
+
+ATENCIÓN
+
+SCA10583
+
+La cadena de transmisión se debe en grasar después de lavar la motocicleta o
+
+utilizarla bajo lluvia o en zonas mojadas.
+
+1. Elimine toda la suciedad y el barro de
+
+la cadena de transmisión con un cepi llo o un trapo.
+
+Para realizar una limpieza completa, solici te a un concesionario Yamaha que des monte la cadena de transmisión y la
+
+sumerja en disolvente.
+
+2. Rocíe la cadena por completo con lu bricante Yamaha para cadena y cable
+
+con un lubricante de alta calidad de
+
+tipo spray para cadenas de transmi sión, asegurándose de que todas las
+
+placas laterales y los rodillos quedan
+
+suficientemente engrasados.
+
+SAU23095
+
+Comprobación y engrase de los
+
+cables
+
+Antes de cada utilización debe comprobar
+
+el funcionamiento y el estado de todos los
+
+cables de control, así como engrasar los ca bles y sus extremos si es necesario. Si un
+
+cable está dañado o no se mueve con sua vidad, hágalo revisar o cambiar por un con cesionario Yamaha. ¡ADVERTENCIA! Si
+
+se daña el alojamiento exterior de los ca bles, es posible que se origine óxido en
+
+el interior y que se causen interferencias
+
+con el movimiento del cable. Cambie los
+
+cables dañados lo antes posible para
+
+evitar situaciones que no sean seguras.
+
+[SWA10711]
+
+Lubricante recomendado: Lubricante Yamaha para cadenas y
+
+cables o aceite de motor
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-27
+
+SAU49920
+
+Comprobación y engrase del
+
+puño del acelerador y el cable
+
+Antes de cada utilización se debe compro bar el funcionamiento del puño del acelera dor. Asimismo, se debe engrasar el cable
+
+en un concesionario Yamaha según los in tervalos especificados en el cuadro de
+
+mantenimiento periódico.
+
+SAU23143
+
+Comprobación y engrase de las
+
+manetas de freno y embrague
+
+Antes de cada utilización debe verificar el
+
+funcionamiento de las manetas de freno y
+
+embrague y engrasar los pivotes de las
+
+mismas si es necesario.
+
+Maneta de freno
+
+Maneta de embrague
+
+Lubricantes recomendados:
+
+Maneta de freno: Grasa de silicona
+
+Maneta de embrague: Grasa de jabón de litio
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-28
+
+SAU23183
+
+Comprobación y engrase del pe dal de freno
+
+Antes de cada utilización debe comprobar
+
+el funcionamiento del pedal de freno y en grasar el pivote del pedal según sea nece sario.
+
+SAU23213
+
+Verificación y engrase del caba llete central y el caballete lateral
+
+Antes de cada utilización debe comprobar
+
+el funcionamiento de los caballetes central
+
+y lateral y engrasar los pivotes y las super ficies de contacto metal-metal según sea
+
+necesario.
+
+SWA10741
+
+Si el caballete central o el lateral no su ben y bajan con suavidad, hágalos revi sar o reparar en un concesionario
+
+Yamaha. De lo contrario, pueden tocar el
+
+suelo y distraer al conductor, con el con siguiente riesgo de que este pierda el
+
+control.
+
+SAUM1652
+
+Engrase de los pivotes del bas culante
+
+Los pivotes del basculante se deben engra sar en un concesionario Yamaha según los
+
+intervalos que se especifican en el cuadro
+
+de mantenimiento periódico y engrase.
+
+Lubricante recomendado: Grasa de jabón de litio
+
+Lubricante recomendado: Grasa de jabón de litio
+
+Lubricante recomendado: Grasa de jabón de litio
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-29
+
+SAU51950
+
+Comprobación de la horquilla de lantera
+
+Debe comprobar el estado y el funciona miento de la horquilla delantera del modo
+
+siguiente y según los intervalos especifica dos en el cuadro de mantenimiento periódi co y engrase.
+
+Para comprobar el estado
+
+Compruebe que la horquilla delantera no
+
+presente daños ni fugas excesivas de acei te.
+
+Para verificar el funcionamiento
+
+1. Sitúe el vehículo sobre una superficie
+
+horizontal y manténgalo en posición
+
+vertical. ¡ADVERTENCIA! Para evitar
+
+daños personales, apoye firme mente el vehículo de forma que no
+
+exista riesgo de que se caiga.
+
+[SWA10751]
+
+2. Mientras aplica el freno delantero, em puje el manillar hacia abajo con fuerza
+
+varias veces para comprobar si la hor quilla delantera se comprime y se ex tiende con suavidad.
+
+ATENCIÓN
+
+SCA10590
+
+Si observa cualquier daño en la horquilla
+
+delantera o ésta no funciona con suavi dad, hágala revisar o reparar en un con cesionario Yamaha.
+
+SAU45511
+
+Comprobación de la dirección
+
+Los cojinetes de la dirección desgastados o
+
+sueltos pueden constituir un peligro. Por
+
+tanto, debe comprobar el funcionamiento
+
+de la dirección del modo siguiente y según
+
+los intervalos especificados en el cuadro de
+
+mantenimiento periódico y engrase.
+
+1. Coloque el vehículo sobre el caballete
+
+central. ¡ADVERTENCIA! Para evitar
+
+daños personales, apoye firme mente el vehículo de forma que no
+
+exista riesgo de que se caiga.
+
+[SWA10751]
+
+2. Sujete los extremos inferiores de las
+
+barras de la horquilla delantera e in tente moverlos hacia adelante y hacia
+
+atrás. Si observa cualquier juego, soli cite a un concesionario Yamaha que
+
+revise o repare la dirección.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-30
+
+SAU23291
+
+Comprobación de los cojinetes
+
+de las ruedas
+
+Debe comprobar los cojinetes de las ruedas
+
+delantera y trasera según los intervalos que
+
+se especifican en el cuadro de manteni miento periódico y engrase. Si el cubo de la
+
+rueda se mueve o si no gira con suavidad,
+
+solicite a un concesionario Yamaha que re vise los cojinetes de la rueda.
+
+SAU23327
+
+Batería
+
+La batería se encuentra detrás del panel B.
+
+(Véase la página 6-8).
+
+Una batería cuyo mantenimiento sea inco rrecto se corroerá y se descargará rápida mente. Antes de cada utilización y según
+
+los intervalos especificados en el cuadro de
+
+mantenimiento periódico y engrase, debe
+
+comprobar el nivel de electrólito, las co nexiones de los cables de la batería y el
+
+tubo respiradero.
+
+SWA10770
+
+●El electrólito es tóxico y peligroso,
+
+ya que contiene ácido sulfúrico que
+
+provoca graves quemaduras. Evite
+
+todo contacto con la piel, los ojos o
+
+la ropa y protéjase siempre los ojos
+
+cuando trabaje cerca de una bate ría. En caso de contacto, administre
+
+los PRIMEROS AUXILIOS siguien tes.
+
+EXTERNO: Lavar con agua abun dante.
+
+INTERNO: Beber grandes canti dades de agua o leche y llamar
+
+inmediatamente a un médico.
+
+OJOS: Enjuagar con agua duran te 15 minutos y acudir al médico
+
+sin demora.
+
+●Las baterías producen hidrógeno
+
+explosivo. Por lo tanto, mantenga
+
+las chispas, llamas, cigarrillos, etc.,
+
+alejados de la batería y asegúrese
+
+de que la ventilación sea suficiente
+
+cuando la cargue en un espacio ce rrado.
+
+●Evite derramar electrólito sobre la
+
+cadena de transmisión, ya que po dría debilitarla, acortar su vida útil
+
+y, posiblemente, provocar un acci dente.
+
+●MANTENGA ÉSTA Y CUALQUIER
+
+OTRA BATERÍA FUERA DEL AL CANCE DE LOS NIÑOS.
+
+Para comprobar el nivel de electrólito
+
+1. Sitúe el vehículo sobre una superficie
+
+horizontal y manténgalo en posición
+
+vertical.
+
+Verifique que el vehículo se encuentre en
+
+posición vertical para comprobar el nivel de
+
+electrólito.
+
+2. Desmonte el panel B. (Véase la pági na 6-8).
+
+3. Compruebe el nivel de electrólito de la
+
+batería.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-31
+
+El electrólito debe situarse entre las marcas
+
+de nivel máximo y mínimo.
+
+4. Si el electrólito se encuentra en la mar ca de nivel mínimo o por debajo de la
+
+misma, añada agua destilada hasta la
+
+marca de nivel máximo. ATENCIÓN:
+
+Utilice únicamente agua destilada,
+
+ya que el agua del grifo contiene mi nerales que resultan perjudiciales
+
+para la batería. [SCA10611]
+
+5. Compruebe y, si es necesario, apriete
+
+las conexiones de los cables de la ba tería y corrija la situación del tubo res piradero.
+
+6. Monte el panel.
+
+Almacenamiento de la batería
+
+1. Si no va a utilizar el vehículo durante
+
+más de un mes, desmonte la batería,
+
+cárguela completamente y guárdela
+
+en
+
+un
+
+lugar
+
+fresco
+
+seco.
+
+ATENCIÓN: Cuando extraiga la ba tería, asegúrese de que la llave esté
+
+girada a “OFF” y, a continuación,
+
+desconecte el cable negativo antes
+
+de desconectar el cable positivo.
+
+[SCA16302]
+
+2. Si va a guardar la batería durante más
+
+de dos meses, compruebe la densidad
+
+del electrólito al menos una vez al mes
+
+y cargue completamente la batería
+
+siempre que sea necesario.
+
+3. Cargue completamente la batería an tes de instalarla. ATENCIÓN: Cuando
+
+vaya a instalar la batería, verifique
+
+que la llave se encuentre en la posi ción “OFF” y, a continuación, co necte el cable positivo antes de
+
+conectar el negativo. [SCA16840]
+
+4. Una vez instalada la batería, verifique
+
+que los cables estén correctamente
+
+conectados a los terminales y que el
+
+tubo respiradero esté bien colocado,
+
+se encuentre en buen estado y no esté
+
+bstruido. ATENCIÓN: Si el tubo res piradero está situado de forma que
+
+el bastidor quede expuesto al elec trólito o a los gases emitidos por la
+
+batería, el bastidor puede sufrir da ños estructurales y externos. [SCA10601]
+
+1. Marca de nivel máximo
+
+2. Marca de nivel mínimo
+
+3. Cable negativo de la batería (negro)
+
+4. Cable positivo de la batería (rojo)
+
+1. Batería
+
+2. Tubo respiradero de la batería
+
+1. Tubo respiradero de la batería
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-32
+
+SAU43213
+
+Cambio de fusible
+
+El fusible se encuentra detrás del panel B.
+
+(Véase la página 6-8).
+
+Para acceder al fusible, desconecte el aco plador del relé de arranque.
+
+El fusible de reserva se encuentra detrás
+
+del soporte del relé de arranque.
+
+Para acceder al fusible de reserva, extraiga
+
+el relé de arranque (con el soporte) tirando
+
+de él y dándole la vuelta.
+
+Si el fusible está fundido, cámbielo del
+
+modo siguiente.
+
+1. Gire la llave a la posición “OFF” y des active todos los circuitos eléctricos.
+
+2. Extraiga el fusible fundido e instale
+
+uno nuevo del amperaje especificado.
+
+¡ADVERTENCIA! Para evitar una
+
+avería grave del sistema eléctrico y
+
+posiblemente un incendio, no utili ce un fusible con un amperaje su perior al recomendado. [SWA15131]
+
+3. Gire la llave a la posición “ON” y active
+
+los circuitos eléctricos para comprobar
+
+que los dispositivos funcionen.
+
+4. Si el fusible se funde de nuevo inme diatamente, solicite a un concesiona rio Yamaha que revise el sistema
+
+eléctrico.
+
+1. Acoplador del relé de arranque
+
+1. Fusible
+
+2. Soporte del relé de arranque
+
+3. Relé de arranque
+
+1. Fusible de reserva
+
+2. Soporte del relé de arranque
+
+3. Relé de arranque
+
+Fusible especificado: 15.0 A
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-33
+
+SAU52000
+
+Cambio de la bombilla del faro
+
+Si se funde la bombilla del faro, cámbiela
+
+del modo siguiente.
+
+ATENCIÓN
+
+SCA10650
+
+Evite dañar los componentes siguien tes: ●Bombilla del faro
+
+No toque la parte de cristal de la
+
+bombilla del faro para no mancharla
+
+de aceite, ya que de lo contrario
+
+perdería transparencia, luminosi dad y durabilidad. Elimine comple tamente toda suciedad y marcas de
+
+dedos en la bombilla del faro con
+
+un trapo humedecido en alcohol o
+
+diluyente.
+
+●Óptica del faro
+
+No pegue ningún tipo de película
+
+coloreada o adhesivos sobre la óp tica del faro.
+
+No utilice una bombilla de faro de
+
+potencia superior a la especificada.
+
+1. Desmonte el faro extraíble extrayendo
+
+los tornillos.
+
+2. Extraiga la tapa del casquillo de la
+
+bombilla del faro.
+
+3. Desenganche el soporte del casquillo
+
+de la bombilla del faro y extraiga el
+
+casquillo (con la bombilla).
+
+4. Extraiga la bombilla fundida empuján dola hacia adentro y girándola en el
+
+sentido contrario al de las agujas del
+
+reloj.
+
+1. No tocar la parte de cristal de la bombilla.
+
+1. Tornillo
+
+1. Tapa del casquillo de la bombilla del faro
+
+1. Soporte del casquillo de la bombilla del faro
+
+2. Casquillo de la bombilla del faro
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-34
+
+5. Introduzca una nueva bombilla en el
+
+casquillo, empújela hacia adentro y
+
+luego gírela en el sentido de las agujas
+
+del reloj hasta que se detenga.
+
+6. Monte el casquillo (con la bombilla), y
+
+sujete el casquillo con el soporte.
+
+7. Monte la tapa del casquillo de la bom billa del faro.
+
+8. Monte el faro extraíble colocando los
+
+tornillos.
+
+9. Solicite a un concesionario Yamaha
+
+que ajuste la luz del faro según sea
+
+necesario.
+
+SAU24133
+
+Cambio de la bombilla de la luz
+
+de freno/piloto trasero
+
+1. Desmonte la óptica de la luz de fre no/piloto trasero extrayendo los torni llos.
+
+2. Extraiga la bombilla fundida empuján dola hacia adentro y girándola en el
+
+sentido contrario al de las agujas del
+
+reloj.
+
+3. Introduzca una nueva bombilla en el
+
+casquillo, empújela hacia adentro y
+
+luego gírela en el sentido de las agujas
+
+del reloj hasta que se detenga.
+
+4. Monte la óptica colocando los tornillos.
+
+ATENCIÓN: No apriete excesiva mente los tornillos, ya que puede
+
+romperse la óptica. [SCA10681]
+
+1. Bombilla del faro
+
+1. Tornillo
+
+1. Bombilla de la luz de freno/piloto trasero
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-35
+
+SAU24204
+
+Cambio de la bombilla de un in termitente
+
+1. Desmonte la óptica de la luz de inter mitencia extrayendo el tornillo.
+
+2. Extraiga la bombilla fundida empuján dola hacia adentro y girándola en el
+
+sentido contrario al de las agujas del
+
+reloj.
+
+3. Introduzca una nueva bombilla en el
+
+casquillo, empújela hacia adentro y
+
+luego gírela en el sentido de las agujas
+
+del reloj hasta que se detenga.
+
+4. Monte la óptica colocando el tornillo.
+
+ATENCIÓN: No apriete excesiva mente el tornillo, ya que se puede
+
+romper la óptica. [SCA11191]
+
+SAU37271
+
+Cambio de la bombilla de la luz
+
+de posición
+
+Si se funde la bombilla de la luz de posición,
+
+cámbiela del modo siguiente.
+
+1. Desmonte el faro extraíble extrayendo
+
+los tornillos.
+
+2. Extraiga el casquillo (con la bombilla)
+
+tirando de él.
+
+3. Tire de la bombilla fundida para ex traerla.
+
+4. Introduzca una nueva bombilla en el
+
+casquillo.
+
+5. Monte el casquillo (con la bombilla)
+
+empujándolo dentro.
+
+1. Tornillo
+
+1. Tornillo
+
+1. Casquillo de la bombilla de la luz de posición
+
+delantera
+
+1. Bombilla de la luz de posición delantera
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-36
+
+6. Monte el faro extraíble colocando los
+
+tornillos.
+
+SAU24360
+
+Rueda delantera
+
+SAUP0072
+
+Para desmontar la rueda delantera
+
+SWA10821
+
+Para evitar daños personales, apoye fir memente el vehículo de forma que no
+
+pueda caerse.
+
+1. Afloje la tuerca del eje.
+
+2. Coloque la motocicleta sobre el caba llete central.
+
+3. Desconecte el cable del velocímetro
+
+de la rueda delantera.
+
+4. Extraiga la tuerca del eje.
+
+5. Extraiga el eje de la rueda y luego des monte la rueda. ATENCIÓN: No apli que el freno cuando se haya
+
+desmontado la rueda junto con el
+
+disco de freno, ya que las pastillas
+
+saldrán expulsadas. [SCA11071]
+
+1. Tuerca del eje
+
+1. Cable del velocímetro
+
+1. Eje de la rueda
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-37
+
+SAUP0140
+
+Para montar la rueda delantera
+
+1. Monte los engranajes del velocímetro
+
+en el cubo de la rueda de forma que
+
+los salientes se ajusten en las ranuras.
+
+2. Levante la rueda entre las barras de la
+
+horquilla.
+
+Verifique que exista espacio suficiente en tre las pastillas de freno antes de introducir
+
+el disco de freno y compruebe que la ranura
+
+del engranaje del velocímetro se ajuste so bre la sujeción de la barra de la horquilla.
+
+3. Introduzca el eje de la rueda y luego
+
+coloque la tuerca del mismo.
+
+4. Retire la motocicleta del caballete cen tral de forma que la rueda delantera
+
+repose sobre el suelo y baje el caballe te lateral.
+
+5. Apriete la tuerca del eje con el par es pecificado.
+
+6. Mientras aplica el freno delantero, em puje el manillar hacia abajo con fuerza
+
+varias veces para comprobar si la hor quilla delantera se comprime y se ex tiende con suavidad.
+
+7. Conecte el cable del velocímetro.
+
+SAU25080
+
+Rueda trasera
+
+SAU37182
+
+Para desmontar la rueda trasera
+
+SWA10821
+
+Para evitar daños personales, apoye fir memente el vehículo de forma que no
+
+pueda caerse.
+
+1. Afloje la tuerca del eje y la tuerca del ti rante en la placa porta zapatas.
+
+2. Desconecte el tirante de inercia del
+
+plato porta zapatas extrayendo el pa sador del tirante de inercia, la tuerca y
+
+el perno.
+
+1. Engranajes del velocímetro
+
+1. Sujeción de los engranajes del velocímetro
+
+Par de apriete:
+
+Tuerca del eje: 59 Nm (5.9 m·kgf, 43 ft·lbf)
+
+1. Tuerca del eje
+
+2. Tirante de inercia
+
+3. Tuerca y perno del tirante
+
+4. Pasador del tirante de inercia
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-38
+
+3. Coloque la motocicleta sobre el caba llete central.
+
+4. Extraiga la tuerca de ajuste del juego
+
+del pedal de freno y luego desconecte
+
+la varilla del freno de la palanca de la
+
+leva del freno.
+
+5. Suelte la contratuerca del tensor de la
+
+cadena de transmisión y el perno de
+
+ajuste del juego de la cadena de trans misión en los dos extremos del bascu lante.
+
+6. Extraiga la tuerca del eje y desmonte
+
+el eje de la rueda.
+
+7. Empuje la rueda hacia adelante y des monte la cadena de transmisión de la
+
+corona dentada trasera.
+
+No es necesario desarmar la cadena de
+
+transmisión para desmontar y montar la
+
+rueda.
+
+8. Desmonte la rueda.
+
+SAU37193
+
+Para montar la rueda trasera
+
+1. Monte la rueda introduciendo el eje de
+
+la rueda desde el lado izquierdo.
+
+2. Monte la cadena de transmisión en la
+
+corona dentada trasera.
+
+3. Coloque la tuerca del eje.
+
+4. Monte la varilla del freno en la palanca
+
+de la leva del freno y luego coloque la
+
+tuerca de ajuste del juego libre del pe dal de freno en la varilla.
+
+5. Acople el tirante de inercia del freno al
+
+plato porta zapatas colocando el per no y la tuerca.
+
+6. Ajuste el juego de la cadena de trans misión. (Véase la página 6-24).
+
+7. Retire la motocicleta del caballete cen tral de forma que la rueda trasera re pose sobre el suelo y, seguidamente,
+
+baje el caballete lateral.
+
+8. Apriete la tuerca del tirante y la tuerca
+
+del eje con los pares especificados.
+
+9. Introduzca un nuevo pasador.
+
+10. Ajuste el juego del pedal de freno.
+
+(Véase la página 6-20).
+
+1. Tuerca de ajuste del juego libre del pedal de
+
+freno
+
+2. Varilla del freno
+
+3. Palanca de la leva del freno
+
+1. Eje de la rueda
+
+2. Contratuerca del tensor de la cadena de
+
+transmisión
+
+3. Perno de ajuste del juego de la cadena de
+
+transmisión
+
+Pares de apriete: Tuerca del tirante de inercia del fre-
+
+no: 19 Nm (1.9 m·kgf, 14 ft·lbf)
+
+Tuerca del eje: 80 Nm (8.0 m·kgf, 58 ft·lbf)
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-39
+
+SWA10660
+
+Después de ajustar el juego libre del pe dal de freno, compruebe el funciona miento de la luz de freno.
+
+SAU25851
+
+Identificación de averías
+
+Aunque las motocicletas Yamaha son obje to de una minuciosa revisión antes de salir
+
+de fábrica, pueden surgir problemas duran te su utilización. Cualquier problema en los
+
+sistemas de combustible, compresión o en cendido, por ejemplo, puede dificultar el
+
+arranque y provocar una disminución de la
+
+potencia.
+
+El siguiente cuadro de identificación de ave rías constituye un procedimiento rápido y
+
+fácil para comprobar esos sistemas vitales
+
+por usted mismo. No obstante, si es nece sario realizar cualquier reparación de la mo tocicleta,
+
+llévela
+
+un
+
+concesionario
+
+Yamaha cuyos técnicos cualificados dispo nen de las herramientas, experiencia y co nocimientos
+
+necesarios
+
+para
+
+reparar
+
+correctamente la motocicleta.
+
+Utilice únicamente repuestos originales
+
+Yamaha. Las imitaciones pueden parecer se a los repuestos originales Yamaha pero
+
+a menudo son de inferior calidad, menos
+
+duraderos y pueden ocasionar costosas
+
+facturas de reparación.
+
+SWA15141
+
+Cuando revise el sistema de combusti ble no fume y verifique que no haya lla mas vivas ni chispas en el lugar,
+
+incluidos pilotos luminosos de calenta dores de agua u hornos. La gasolina o
+
+los vapores de gasolina pueden infla marse o explotar y provocar graves da ños personales o materiales.
+
+MANTENIMIENTO Y AJUSTES PERIÓDICOS
+
+6-40
+
+SAUW0352
+
+Cuadro de identificación de averías
+
+Compruebe el nivel de
+
+gasolina en el depósito.
+
+1. Gasolina
+
+Hay suficiente
+
+gasolina.
+
+No hay
+
+gasolina.
+
+Compruebe la compresión.
+
+Ponga gasolina.
+
+El motor no arranca.
+
+Compruebe la compresión.
+
+Accione el arranque
+
+eléctrico o el pedal
+
+de arranque.
+
+2. Compresión
+
+Hay compresión.
+
+No hay compresión.
+
+Compruebe el encendido.
+
+Haga revisar el vehículo
+
+en un concesionario Yamaha.
+
+Extraiga la bujía y
+
+compruebe los
+
+electrodos.
+
+3. Encendido
+
+Húmedos
+
+Secos
+
+Límpielos con un paño seco y corrija la
+
+distancia entre electrodos o cambie la bujía.
+
+Haga revisar el vehículo en un
+
+concesionario Yamaha.
+
+El motor no arranca. Haga revisar el
+
+vehículo en un concesionario Yamaha.
+
+El motor no arranca.
+
+Compruebe la batería.
+
+Ponga el acelerador a medio gas y accione el
+
+arranque eléctrico o el sistema de arranque a pedal.
+
+Accione el arranque
+
+eléctrico.
+
+4. Batería
+
+El motor gira rápidamente.
+
+El motor gira lentamente.
+
+La batería está bien.
+
+Comprobar líquido, recargar, comprobar
+
+conexiones.
+
+7-1
+
+SAU37833
+
+Precaución relativa al color mate
+
+ATENCIÓN
+
+SCA15192
+
+Algunos modelos están provistos de
+
+piezas acabadas en colores mate. Antes
+
+de limpiar el vehículo, pregunte en un
+
+concesionario Yamaha qué productos
+
+se pueden utilizar. Si utiliza un cepillo,
+
+productos químicos o detergentes fuer tes para limpiar estas piezas rayará o da ñará la superficie. Asimismo, evite
+
+aplicar cera a las piezas con acabado en
+
+color mate.
+
+SAU26004
+
+Cuidados
+
+Si bien el diseño abierto de una motocicleta
+
+revela el atractivo de la tecnología, también
+
+la hace más vulnerable. El óxido y la corro sión pueden desarrollarse incluso cuando
+
+se utilizan componentes de alta tecnología.
+
+Un tubo de escape oxidado puede pasar
+
+desapercibido en un coche, pero afea el as pecto general de una motocicleta. El cuida do frecuente y adecuado no sólo se ajusta
+
+a los términos de la garantía, sino que ade más mantiene la buena imagen de la moto cicleta, prolonga su vida útil y optimiza sus
+
+prestaciones.
+
+Antes de limpiarlo
+
+1. Cubra la salida del silenciador con una
+
+bolsa de plástico cuando el motor se
+
+haya enfriado.
+
+2. Verifique que todas las tapas y cubier tas, así como todos los acopladores y
+
+conectores eléctricos, incluidas las ta pas de bujía, estén bien apretados.
+
+3. Elimine la suciedad incrustada, como
+
+pueden ser los restos de aceite que mado sobre el cárter, con un desen grasador y un cepillo, pero no aplique
+
+nunca tales productos sobre los obtu radores, las juntas, los piñones, la ca dena de transmisión y los ejes de las
+
+ruedas. Enjuague siempre la suciedad
+
+y el desengrasador con agua.
+
+Limpieza
+
+ATENCIÓN
+
+SCA10772
+
+●No utilice limpiadores de ruedas
+
+con alto contenido de ácido, espe cialmente para las ruedas de ra dios. Si utiliza tales productos para
+
+la suciedad difícil de eliminar, no
+
+deje el limpiador sobre la zona afec tada durante más tiempo del que fi gure
+
+en
+
+las
+
+instrucciones.
+
+Asimismo, enjuague completamen te la zona con agua, séquela inme diatamente
+
+continuación
+
+aplique un protector en aerosol
+
+contra la corrosión.
+
+●Una limpieza inadecuada puede da ñar las partes de plástico (como los
+
+carenados, paneles, parabrisas, la
+
+óptica del faro o del indicador, etc.)
+
+y los silenciadores. Para limpiar el
+
+plástico utilice únicamente un trapo
+
+suave y limpio o una esponja y
+
+agua. No obstante, si las piezas de
+
+plástico no quedan bien limpias
+
+con agua, se puede diluir en ella un
+
+detergente suave. Se debe eliminar
+
+7-2
+
+con agua abundante todo residuo
+
+de detergente, pues este resulta
+
+perjudicial para las piezas de plásti co.
+
+●No utilice productos químicos fuer tes para las piezas de plástico. Evite
+
+utilizar trapos o esponjas que ha yan estado en contacto con produc tos de limpieza fuertes o abrasivos,
+
+disolventes o diluyentes, combusti ble (gasolina), desoxidantes o an tioxidantes,
+
+líquido
+
+de
+
+frenos,
+
+anticongelante o electrólito.
+
+●No utilice aparatos de lavado a pre sión o limpiadores al vapor, ya que
+
+puede penetrar agua y deteriorar
+
+las zonas siguientes: juntas (de co jinetes de ruedas y basculantes,
+
+horquilla y frenos), componentes
+
+eléctricos (acopladores, conecto res, instrumentos interruptores y
+
+luces), tubos respiraderos y de ven tilación.
+
+●Motocicletas provistas de parabri sas: No utilice limpiadores fuertes o
+
+esponjas duras, ya que pueden
+
+deslucir o rayar. Algunos produc tos de limpieza para plásticos pue den dejar rayas sobre el parabrisas.
+
+Pruebe el producto sobre un peque ña parte oculta del parabrisas para
+
+asegurarse de que no deja marcas.
+
+Si se raya el parabrisas, utilice un
+
+pulimento de calidad para plásticos
+
+después de lavarlo.
+
+Después de una utilización normal
+
+Elimine la suciedad con agua tibia, un de tergente suave y una esponja blanda y lim pia, aclarando luego completamente con
+
+agua limpia. Utilice un cepillo de dientes o
+
+de botellas para limpiar los lugares de difícil
+
+acceso. La suciedad incrustada y los insec tos se eliminarán más fácilmente si se cu bre la zona con un trapo húmedo durante
+
+unos minutos antes de limpiarla.
+
+Después de conducir con lluvia, junto al mar
+
+en calles donde se haya esparcido sal
+
+La sal marina o la sal que se esparce en las
+
+calles durante el invierno resultan suma mente corrosivas en combinación con el
+
+agua; observe el procedimiento siguiente
+
+cada vez que conduzca con lluvia, junto al
+
+mar o en calles donde se haya esparcido
+
+sal.
+
+La sal esparcida en las calles durante el in vierno puede permanecer hasta bien entra da la primavera.
+
+1. Lave la motocicleta con agua fría y un
+
+detergente suave cuando el motor se
+
+haya enfriado. ATENCIÓN: No utilice
+
+agua caliente, ya que incrementa la
+
+acción corrosiva de la sal. [SCA10791]
+
+2. Aplique un aerosol anticorrosión a to das las superficies de metal, incluidas
+
+las superficies cromadas y chapadas
+
+con níquel, para prevenir la corrosión.
+
+Después de la limpieza
+
+1. Seque la motocicleta con una gamuza
+
+un trapo absorbente.
+
+2. Seque inmediatamente la cadena de
+
+transmisión para evitar que se oxide.
+
+3. Utilice un abrillantador de cromo para
+
+dar brillo a las piezas de cromo, alumi nio y acero inoxidable, incluido el sis tema de escape. (Con el abrillantador
+
+puede incluso eliminarse la decolora ción térmica de los sistemas de esca pe de acero inoxidable).
+
+4. Se recomienda aplicar un aerosol anti corrosión a todas las superficies de
+
+metal, incluidas las superficies croma das y chapadas con níquel, para pre venir la corrosión.
+
+5. Utilice aceite en aerosol como limpia dor universal para eliminar todo resto
+
+de suciedad.
+
+7-3
+
+6. Retoque los pequeños daños en la
+
+pintura provocados por piedras, etc.
+
+7. Aplique cera a todas las superficies
+
+pintadas.
+
+8. Deje que la motocicleta se seque por
+
+completo antes de guardarla o cubrir la.
+
+SWA11131
+
+La presencia de contaminantes en los
+
+frenos o en los neumáticos puede pro vocar la pérdida de control.
+
+●Verifique que no haya aceite o cera
+
+en los frenos o en los neumáticos.
+
+●Si es preciso, limpie los discos y los
+
+forros de freno con un limpiador
+
+normal de discos de freno o aceto na, y lave los neumáticos con agua
+
+tibia y un detergente suave. Antes
+
+de conducir a velocidades altas,
+
+pruebe la capacidad de frenado y el
+
+comportamiento en curvas de la
+
+motocicleta.
+
+ATENCIÓN
+
+SCA10800
+
+●Aplique aceite en aerosol y cera de
+
+forma moderada, eliminando los
+
+excesos.
+
+●No aplique nunca aceite o cera so bre piezas de goma o de plástico;
+
+trátelas con un producto adecuado
+
+para su mantenimiento.
+
+●Evite el uso de compuestos abri llantadores abrasivos que pueden
+
+desgastar la pintura.
+
+●Solicite consejo a un concesionario
+
+Yamaha acerca de los productos que
+
+puede utilizar.
+
+●Con el lavado, la lluvia o los climas hú medos la óptica del faro se puede em pañar. Encender el faro durante un
+
+breve periodo ayudará a eliminar la
+
+humedad de la óptica.
+
+SAUP0102
+
+Almacenamiento
+
+Periodo corto
+
+Guarde siempre la motocicleta en un lugar
+
+fresco y seco y, si es preciso, protéjala con tra el polvo con una funda porosa. Verifique
+
+que el motor y el sistema de escape estén
+
+fríos antes de cubrir la motocicleta.
+
+ATENCIÓN
+
+SCA10810
+
+●Si guarda la motocicleta en un lugar
+
+mal ventilado o la cubre con una
+
+lona cuando todavía esté mojada, el
+
+agua y la humedad penetrarán en
+
+su interior y se oxidará.
+
+●Para prevenir la corrosión, evite só tanos húmedos, establos (por la
+
+presencia de amoníaco) y lugares
+
+en los que se almacenen productos
+
+químicos fuertes.
+
+Periodo largo
+
+Antes de guardar la motocicleta durante va rios meses: 1. Observe todas las instrucciones que
+
+se facilitan en el apartado “Cuidados”
+
+de este capítulo.
+
+2. Gire la palanca del grifo de gasolina a
+
+la posición cerrada.
+
+7-4
+
+3. Vacíe la cámara del flotador del carbu rador aflojando el perno de vaciado;
+
+evitará así la acumulación de posos de
+
+gasolina. Vierta en el depósito de ga solina la gasolina que haya vaciado.
+
+4. Llene el depósito de gasolina y añada
+
+estabilizador de gasolina (si dispone
+
+de él) para evitar que el depósito se
+
+xide y la gasolina se deteriore.
+
+5. Observe los pasos siguientes para
+
+proteger el cilindro, los aros del pistón,
+
+etc. contra la corrosión.
+
+a. Desmonte la tapa de la bujía y la
+
+bujía.
+
+b. Vierta una cucharada de las de té
+
+de aceite de motor por el orificio
+
+para la bujía.
+
+c. Monte la tapa de la bujía en la bu jía y seguidamente coloque esta
+
+sobre la culata para que los elec trodos queden en contacto con
+
+masa. (Ello limitará las chispas du rante el paso siguiente).
+
+d. Haga girar varias veces el motor
+
+con el arranque eléctrico. (Así se
+
+cubrirá la pared del cilindro con
+
+aceite).
+
+e. Quite la tapa de bujía de la bujía y
+
+luego monte esta y su tapa.
+
+¡ADVERTENCIA! Para evitar da ños o lesiones por chispas, co necte a masa los electrodos de
+
+la bujía cuando haga girar el mo tor. [SWA10951]
+
+6. Engrase todos los cables de control y
+
+los puntos de pivote de las palancas y
+
+pedales, así como el caballete cen tral/lateral.
+
+7. Compruebe y, si es preciso, corrija la
+
+presión de aire de los neumáticos y
+
+luego suspenda la motocicleta en el
+
+aire de manera que las llantas no to quen el suelo. Alternativamente, gire
+
+un poco las ruedas cada mes para evi tar que los neumáticos se degraden
+
+en un punto.
+
+8. Cubra la salida del silenciador con una
+
+bolsa de plástico para evitar que pene tre humedad.
+
+9. Desmonte la batería y cárguela com pletamente. Guárdela en un lugar fres co y seco y cárguela una vez al mes.
+
+No guarde la batería en un lugar exce sivamente frío o caliente [menos de 0
+
+°C (30 °F) o más de 30 °C (90 °F)].
+
+Para más información relativa al alma cenamiento de la batería, consulte la
+
+página 6-31.
+
+Efectúe todas las reparaciones necesarias
+
+antes de guardar la motocicleta.
+
+8-1
+
+Dimensiones:
+
+Longitud total: 2020 mm (79.5 in)
+
+Anchura total: 745 mm (29.3 in)
+
+Altura total: 1080 mm (42.5 in)
+
+Altura del asiento: 790 mm (31.1 in)
+
+Distancia entre ejes: 1300 mm (51.2 in)
+
+Holgura mínima al suelo: 165 mm (6.50 in)
+
+Radio de giro mínimo: 1750 mm (68.9 in)
+
+Peso:
+
+Peso en orden de marcha: 124 kg (273 lb)
+
+Motor:
+
+Tipo de motor: 4 tiempos, refrigerado por aire, SOHC
+
+Disposición de cilindros: Cilindro sencillo
+
+Cilindrada: 123 cm³
+
+Calibre × Carrera:
+
+54.0 × 54.0 mm (2.13 × 2.13 in)
+
+Relación de compresión: 10.00 : 1
+
+Sistema de arranque: Sistema de arranque eléctrico y a pedal
+
+Sistema de lubricación: Cárter húmedo
+
+Aceite de motor:
+
+Marca recomendada: YAMALUBE
+
+Tipo: SAE 10W-30, 10W-40, 10W-50, 15W-40,
+
+20W-40 o 20W-50
+
+Calidad de aceite de motor recomendado: Servicio API tipo SE o superior/JASO MA
+
+Cantidad de aceite de motor:
+
+Cambio periódico de aceite: 1.00 L (1.06 US qt, 0.88 Imp.qt)
+
+Filtro de aire:
+
+Filtro de aire: Elemento seco
+
+Combustible:
+
+Combustible recomendado: Únicamente gasolina normal sin plomo
+
+Capacidad del depósito de combustible: 12.0 L (3.17 US gal, 2.64 Imp.gal)
+
+Cantidad de reserva de combustible: 3.0 L (0.79 US gal, 0.66 Imp.gal)
+
+Carburador: Tipo × cantidad:
+
+MV28 x 1
+
+Bujía(s):
+
+Fabricante/modelo:
+
+NGK/CR6HSA
+
+Distancia entre electrodos de la bujía: 0.6–0.7 mm (0.024–0.028 in)
+
+Embrague:
+
+Tipo de embrague: Multidisco en baño de aceite
+
+Transmisión:
+
+Relación de reducción primaria: 3.400 (68/20)
+
+Transmisión final: Cadena
+
+Relación de reducción secundaria: 3.214 (45/14)
+
+Tipo de transmisión: Velocidad 5, engrane constante
+
+Operación: Operación con pie izquierdo
+
+Relación de engranajes:
+
+1a: 2.643 (37/14)
+
+2a: 1.778 (32/18)
+
+3a: 1.316 (25/19)
+
+4a: 1.045 (23/22)
+
+5a: 0.875 (21/24)
+
+Chasis:
+
+Tipo de bastidor: Diamante
+
+Ángulo del eje delantero: 27.83 °
+
+Base del ángulo de inclinación: 105 mm (4.1 in)
+
+Neumático delantero:
+
+Tipo: Sin cámara
+
+Tamaño: 3.00-18 47P
+
+8-2
+
+Fabricante/modelo:
+
+CHENG SHIN/C-7204F
+
+Neumático trasero:
+
+Tipo: Sin cámara
+
+Tamaño: 3.00-18 47P
+
+Fabricante/modelo:
+
+CHENG SHIN/C-7204R
+
+Carga:
+
+Carga máxima: 153 kg (337 lb)
+
+(Peso total del conductor, el pasajero, el
+
+equipaje y los accesorios)
+
+Presión de aire del neumático (medida
+
+en neumáticos en frío):
+
+Condiciones de carga: 0–90 kg (0–198 lb)
+
+Delantero: 175 kPa (1.75 kgf/cm², 25 psi)
+
+Trasero: 200 kPa (2.00 kgf/cm², 29 psi)
+
+Condiciones de carga: 90 kg - Carga máxima
+
+Delantero: 175 kPa (1.75 kgf/cm², 25 psi)
+
+Trasero: 225 kPa (2.25 kgf/cm², 33 psi)
+
+Rueda delantera:
+
+Tipo de rueda: Rueda de fundición
+
+Tamaño de la llanta: J18M/C x MT1.85
+
+Rueda trasera:
+
+Tipo de rueda: Rueda de fundición
+
+Tamaño de la llanta: J18M/C x MT1.85
+
+Freno delantero:
+
+Tipo: Freno de disco sencillo
+
+Operación: Operación con mano derecha
+
+Líquido de frenos especificado: DOT 3 o 4
+
+Freno trasero:
+
+Tipo: Freno de tambor
+
+Operación: Operación con pie derecho
+
+Suspensión delantera:
+
+Tipo: Horquilla telescópica
+
+Tipo de muelle/amortiguador:
+
+Muelle helicoidal / amortiguador de aceite
+
+Trayectoria de la rueda: 120.0 mm (4.72 in)
+
+Suspensión trasera:
+
+Tipo: Basculante
+
+Tipo de muelle/amortiguador:
+
+Muelle helicoidal / amortiguador de aceite
+
+Trayectoria de la rueda: 105.0 mm (4.13 in)
+
+Sistema eléctrico:
+
+Sistema de encendido: CDI
+
+Sistema estándar: Magneto CDI
+
+Batería:
+
+Modelo: CB5L-B
+
+Voltaje, capacidad:
+
+12 V, 5.0 Ah
+
+Faro delantero:
+
+Tipo de bombilla: Incandescencia
+
+Voltaje, potencia de la bombilla ×
+
+cantidad:
+
+Faro delantero: 12 V, 35.0 W/35.0 W × 1
+
+Luz de freno y posterior: 12 V, 5.0 W/21.0 W × 1
+
+Luz de intermitencia delantera: 12 V, 10.0 W × 2
+
+Luz de intermitencia trasera: 12 V, 10.0 W × 2
+
+Luz auxiliar: 12 V, 5.0 W × 1
+
+Luz de instrumentos: 12 V, 1.7 W × 5
+
+Luz indicadora de punto muerto: 14 V, 3.0 W × 1
+
+Testigo de luz de carretera: 14 V, 3.0 W × 1
+
+Luz indicadora de intermitencia: 14 V, 3.0 W × 2
+
+Fusibles:
+
+Fusible principal: 15.0 A
+
+INFORMACIÓN PARA EL CONSUMIDOR
+
+9-1
+
+SAU26372
+
+Números de identificación
+
+Anote el número de serie del bastidor y el
+
+número de serie del motor en los espacios
+
+previstos para utilizarlos como referencia
+
+cuando solicite repuestos a un concesiona rio Yamaha o en caso de robo del vehículo.
+
+NÚMERO DE SERIE DEL BASTIDOR:
+
+NÚMERO DE SERIE DEL MOTOR: SAU26420
+
+Número de serie del bastidor
+
+El número de serie del bastidor está graba do en el tubo de dirección.
+
+El número de serie del bastidor sirve para
+
+identificar la motocicleta y puede utilizarse
+
+para registrarla ante las autoridades de su
+
+localidad a efectos de matriculación.
+
+SAU26440
+
+Número de serie del motor
+
+El número de serie del motor está grabado
+
+en el cárter.
+
+1. Número de serie del bastidor
+
+1. Número de serie del motor
+
+Bombilla de la luz de freno/
+
+Bombilla de una luz de posición,
+
+Caballete central y caballete lateral,
+
+Cadena de transmisión, limpieza y
+
+Cojinetes de las ruedas,
+
+Conmutador de la luz de
+
+Consumo de gasolina, consejos para
+
+Interruptor principal/Bloqueo de la
+
+Juego libre de la maneta de embrague,
+
+Juego libre de la maneta del freno,
+
+Juego libre del pedal de freno, ajuste ...6-20
+
+Juego libre del puño del acelerador,
+
+Manetas de freno y embrague,
+
+Mantenimiento, sistema de control de
+
+Pastillas y zapatas de freno,
+
+Pedal de freno, comprobación y
+
+Puño del acelerador y cable,
+
+Sistema de corte del circuito de
+
+2012.05-0.3×1 CR

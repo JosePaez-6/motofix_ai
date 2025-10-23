@@ -1,0 +1,3269 @@
+1.- Revisar el nivel de combustible. Ver página 17.
+
+2.- Revisar que la válvula de combustible se encuentre en abierto. Ver página 15*.
+
+3.- Revisar que el interruptor cortacorriente se encuentre en la posición de conectado “ ”*.
+
+4.- Colocar la llave en el interruptor de encendido y girarla a la posición ON “ ”. Ver página13.
+
+5.- Colocar el ahogador en posición de abierto.
+
+6.- Oprimir la palanca del freno delantero y/o trasero al encender el motor*.
+
+7.- Oprimir la palanca del embrague y/o veriﬁcar que el pedal de cambio de velocidades esté en
+
+punto neutro al encender el motor*.
+
+8.- Si no da marcha el motor, enciende la con el pedal de arranque*.
+
+En los casos que aplique.
+
+Si después de realizar estos procedimientos tu no arranca,
+
+acude a tu Centro de Servicio más cercano.
+
+Estimado Usuario,
+
+Gracias por tu confianza al haber elegido una
+
+Tu nueva
+
+cuenta con un motor de 4 tiempos de 292 cc y encendido electrónico, que le permiten un gran desempeño
+
+con bajo consumo de gasolina.
+
+Esperamos que cumpla con tus expectativas, te enviamos los mejores deseos y que disfrutes tu nueva
+
+ÍNDICE
+
+YO SÍ CUIDO MI
+
+UBICACIÓN DE PARTES
+
+Vista Superior Delantera
+
+Controles del Mando Derecho
+
+Controles del Mando Izquierdo
+
+Interruptor de Encendido y Bloqueo
+
+Conexión USB
+
+Lado Izquierdo
+
+Parador Lateral
+
+Válvula de Combustible
+
+Lado Derecho
+
+Tablero de Instrumentos
+
+Número de Identificación Vehicular (NIV) y Número del
+
+Motor
+
+REVISIONES PERIÓDICAS
+
+Agregar Gasolina
+
+Nivel de Aceite del Motor
+
+Cambio de Aceite del Motor
+
+Limpieza de Bujía
+
+Filtro de Aire
+
+Ajuste del Puño del Acelerador
+
+Ajuste de la Palanca del Embrague
+
+Desgaste del Freno Delantero
+
+Desgaste del Freno Trasero
+
+Nivel del Líquido del Freno Delantero
+
+Nivel del Líquido del Freno Trasero
+
+Completar el Nivel del Líquido del Freno Delantero y Trasero
+
+Cadena de Transmisión
+
+Batería
+
+Cambio del Fusible
+
+Anticongelante
+
+Llantas
+
+Lavado
+
+Cuidado de la Pintura
+
+Cuidado del Asiento
+
+REVISIÓN ANTES DE MANEJAR
+
+Encender el Motor
+
+Apagar el Motor
+
+Motor Ahogado
+
+Bloquear la Dirección
+
+Cambio de Velocidades
+
+Volver a Usar
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Equipo de Protección
+
+Carga de Pasajeros o Mercancía
+
+Condiciones del Camino
+
+Días Lluviosos
+
+Modificación del Diseño
+
+Conducción y Alcohol
+
+Recomendaciones de Conducción
+
+Postura para el Manejo
+
+Cuidados para Evitar Robo
+
+DATOS TÉCNICOS
+
+Las palabras Atención y Nota se refieren a información importante, por lo que debes revisarlas con cuidado.
+
+Indica que la seguridad del conductor y/o del pasajero está en peligro. El ignorar esta información puede ocasionarles lesiones graves.
+
+Nota: Se refiere a procedimientos y precauciones especiales que se deben seguir para evitar daños a tu
+
+. Además, hacen que
+
+el mantenimiento sea más fácil y las instrucciones más claras.
+
+Nota Ecológica: Cuidemos nuestro ambiente.
+
+Importante
+
+Estamos creciendo y ahora nuestros modelos se venden en México, Guatemala, Honduras, Panamá y Perú. Para un mejor
+
+entendimiento de este manual, se ha agregado una tabla con los términos impresos y su equivalencia para cada uno de los
+
+países antes mencionados. Ver página 45.
+
+Para evitar contratiempos, antes de utilizar tu
+
+, revisa que todas sus partes y componentes estén en perfectas
+
+condiciones.
+
+Atención: 4
+
+Este manual contiene información importante acerca del manejo de tu
+
+, además de consejos para su cuidado
+
+e información relevante para tu seguridad, por lo que te recomendamos leerlo atentamente antes de empezar a utilizar
+
+tu
+
+Atención: El presente manual es un componente más de tu
+
+, en caso de venderla, favor de entregarlo al nuevo propietario para
+
+que conozca todas sus características, tanto de funcionamiento como de mantenimiento.
+
+Para conservar la calidad de tu
+
+y evitar daños, accidentes o gastos innecesarios, visita tu Centro de Servicio. Busca la
+
+dirección del Centro de Servicio en la página oficial que corresponda a tu país.
+
+El contenido textual, gráfico, fotos y videos exhibidos de nuestras motos, refacciones y accesorios, son ilustrativos y no
+
+representan necesariamente con exactitud al producto, así como están sujetos a errores gramaticales, ortográficos o
+
+fallas de impresión. Los valores de consumo y desempeño publicados están sujetos a variación de acuerdo a los hábitos
+
+de manejo o uso, por lo que el producto final ofrecido en puntos de venta autorizados, puede diferir del que aquí se
+
+expone.
+
+Todos los derechos sobre este manual, se encuentran protegidos por las leyes mexicanas e internacionales, por lo que queda
+
+prohibida la copia, reproducción, adaptación, modificación, distribución o comercialización, total o parcial, por cualquier medio
+
+y forma, sin la previa autorización por escrito de Comercializadora de Motocicletas de Calidad, S. A. de C.V.
+
+YO SÍ CUIDO MI
+
+Atención: ● Ahora que ya tienes tu nueva
+
+, te recomendamos:
+
+► Realizarle los servicios en tiempo y forma. Ver “Servicios de Mantenimiento”, página 30.
+
+► Revisar de manera frecuente que funcione correctamente todo el sistema eléctrico (faro delantero, luz trasera, direccionales
+
+traseras/delanteras, claxon e interruptor de arranque eléctrico).
+
+► No la repares tú mismo, ya que puedes romper o deteriorar los componentes.
+
+► Revisar frecuentemente que no le falten piezas o que no estén rotas o raspadas.
+
+► Reemplazar las piezas dañadas inmediatamente, no esperes a que se dañen más.
+
+► Durante el uso de tu
+
+, inspeccionar que el asiento esté en buenas condiciones.
+
+► Siempre utilizar refacciones originales para que tu
+
+esté en perfectas condiciones.
+
+Para comprar refacciones debes ingresar a la página oficial que corresponda a tu país.
+
+► Contamos con más de 850 Centros de Servicio siempre cerca de ti en México, Guatemala, Honduras, Panamá y Perú, lo que
+
+nos permite: Atender tus necesidades.
+
+Asegurar que tu
+
+se mantenga en buenas condiciones.
+
+● La garantía es el derecho que tienes a que se te reconozcan los defectos de fabricación presentes en tu
+
+. Este derecho
+
+se otorga a través de la Red de Centros de Servicio, siempre y cuando se cumpla con los términos y condiciones establecidos
+
+en la póliza de garantía.
+
+La garantía es válida solo si se han realizado los servicios (ver “Servicios de Mantenimiento”, página 30) en el tiempo y
+
+kilometraje indicados y en los Centros de Servicio. No realizar los servicios preventivos anula la garantía sin responsabilidad
+
+para Comercializadora de Motocicletas de Calidad, S. A. de C.V.
+
+La garantía es válida solo si se ha cumplido satisfactoriamente con los términos y condiciones de asentamiento del motor.
+
+Ver “Asentamiento del Motor”, página 8.
+
+Para hacer válida la garantía debes presentarte en el Centro de Servicio de tu elección con la
+
+y la póliza de garantía
+
+para que se le realice el diagnóstico necesario y se levante el reporte correspondiente.
+
+● Puedes consultar la dirección del Centro de Servicio más cercano en la página oficial que corresponda a tu país.
+
+● Si tienes alguna duda, comunícate con nosotros:
+
+MÉXICO
+
+PERÚ
+
+● Como propietario tienes la obligación de presentar tu
+
+en el Centro de Servicio de tu elección para que le realicen los servicios
+
+de mantenimiento* y de esta forma CONSERVAR LA GARANTÍA.
+
+, NO ESPERES A QUE FALLE, LOS SERVICIOS SON PREVENTIVOS.
+
+● No realizar modificación alguna a la
+
+sin previa autorización por escrito de Comercializadora de Motocicletas de Calidad, S. A. de C.V.
+
+● Cumplir satisfactoriamente con los términos y condiciones de asentamiento del motor.
+
+● Revisar y/o ajustar los componentes de desgaste natural antes de encender la
+
+(nivel de aceite en el motor, presión del aire
+
+de las llantas, holgura de la cadena y el desgaste de los frenos)**.
+
+● Cumplir con el proceso de emplacamiento ante las autoridades correspondientes.
+
+● Obedecer el reglamento de tránsito local.
+
+● Evitar cargar la
+
+con más de 150 kg (330 lbs).
+
+● No manejar la
+
+si se ha ingerido alcohol o drogas.
+
+● SIEMPRE UTILIZAR CASCO QUE CUMPLA CON LA NORMA DE SEGURIDAD DOT (DEPARTMENT OF TRANSPORTATION, POR SUS
+
+SIGLAS EN INGLÉS)***, GUANTES Y ROPA BRILLANTE DE MATERIAL GRUESO.
+
+Lo que ocurra primero a partir de la fecha de venta.
+
+En los casos que aplique.
+
+Al usar casco con DOT se reduce el riesgo de lesiones en la cabeza en un accidente. Te recomendamos usar casco completo, ya que está hecho de una sola pieza, además
+
+de que aísla más el ruido y el aire. ¡CUIDA TU VIDA!
+
+Los primeros 3,000 km son el período de asentamiento del motor.
+
+Durante el asentamiento debes poner atención a los siguientes puntos: 1. Evitar cargar la
+
+con más de 150 kg (330 lbs), conductor y pasajero.
+
+2. Evitar subir pendientes que rebasen los 12 grados de inclinación.
+
+3. Acelerar suavemente y no dar más de 1/2 carrera al acelerador.
+
+4. No recorrer distancias continuas de más de 50 km (31 millas).
+
+5. Calentar el motor entre 1 y 3 minutos.
+
+6. No sobrepasar una velocidad de 40-50 km/h (24.8-31 millas/h).
+
+7. Revisar frecuentemente que el nivel de aceite del motor sea el correcto. Ver “Nivel de Aceite del Motor”, página 19.
+
+8. Lubricar la cadena de transmisión cada mes, o cuando sea necesario. Ver “Cadena de Transmisión”, página 26.
+
+9. Hacer los servicios de mantenimiento descritos en la Póliza de Garantía. Ver “Servicios de Mantenimiento”, página 30.
+
+Nota: ● LA GARANTÍA es válida solo si se ha cumplido satisfactoriamente con los términos y condiciones de Asentamiento
+
+del Motor. ¡CUIDA TU
+
+!
+
+UBICACIÓN DE PARTES
+
+(A) Tablero de instrumentos
+
+(B) Espejo lateral izquierdo
+
+(C) Mando izquierdo
+
+(D) Tapón del tanque de combustible
+
+(E) Mando derecho
+
+(F) Espejo lateral derecho
+
+(G) Contenedor del líquido del freno delantero
+
+Vista Superior Delantera
+
+UBICACIÓN DE PARTES
+
+No conectado
+
+Cuando el interruptor cortacorriente se encuentra en esta
+
+posición, la
+
+no se puede encender.
+
+Permitir el paso de corriente
+
+Cuando el interruptor cortacorriente se encuentra en esta
+
+posición, permite el paso de corriente eléctrica a todos los
+
+componentes de la
+
+Interruptor de luz delantera
+
+El interruptor de luz delantera tiene 3 posiciones: Controles del Mando Derecho
+
+En el mando derecho se ubican los siguientes controles: Puño del acelerador
+
+El acelerador es el componente mecánico que te permite
+
+controlar la velocidad a la cual viaja la
+
+. La manija
+
+del acelerador gira en el sentido contrario a las manecillas
+
+del reloj.
+
+Palanca del freno delantero
+
+La palanca del freno delantero es el componente mecánico que
+
+te permite disminuir la velocidad y/o detener la
+
+. Al
+
+primir esta palanca se enciende la luz del freno (stop).
+
+Interruptor cortacorriente
+
+El interruptor cortacorriente tiene 2 funciones: Imagen 2. Interruptor cortacorriente.
+
+Imagen 1. Mando derecho.
+
+Imagen 3. Interruptor de luz delantera.
+
+Palanca del freno
+
+delantero
+
+Interruptor
+
+cortacorriente
+
+Interruptor de
+
+arranque eléctrico
+
+Puño del
+
+acelerador
+
+Interruptor de luz
+
+delantera
+
+No conectado
+
+Permitir el paso
+
+de corriente
+
+Luz de carretera
+
+Luz de posición
+
+Iluminación apagada
+
+UBICACIÓN DE PARTES
+
+Iluminación apagada
+
+Cuando el interruptor se encuentra en esta posición, todas
+
+las luces de la
+
+se apagan.
+
+Luz de posición
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+trasera y cuartos se encienden.
+
+Luz de carretera
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+del faro principal se enciende.
+
+Interruptor de arranque eléctrico
+
+Este interruptor está ubicado abajo del interruptor de luz
+
+delantera. Su función es dar marcha al motor.
+
+Controles del Mando Izquierdo
+
+En el mando izquierdo se ubican los siguientes controles: Imagen 4. Mando izquierdo.
+
+Palanca del embrague
+
+La palanca del embrague es el componente mecánico que te
+
+permite cambiar las velocidades sin forzar el motor.
+
+Claxon
+
+El botón del claxon está ubicado abajo del interruptor de
+
+direccionales. Cuando el interruptor de encendido se encuentra
+
+en
+
+, al oprimir el botón del claxon, éste emite un sonido.
+
+Interruptor de direccionales
+
+El interruptor de direccionales tiene 3 posiciones que son: Apagado
+
+Para apagar tanto la luz direccional izquierda como la derecha,
+
+solo debes oprimir el interruptor.
+
+Direccional izquierda
+
+Cuando mueves el interruptor de direccionales a esta
+
+posición, las luces direccionales delantera y trasera del
+
+lado izquierdo encienden de forma intermitente.
+
+Imagen 5. Interruptor de direccionales.
+
+Claxon
+
+óptico
+
+Palanca del
+
+embrague
+
+Interruptor de
+
+cambio de luz
+
+Ahogador
+
+Interruptor de
+
+direccionales
+
+Claxon
+
+Direccional
+
+derecha
+
+Direccional
+
+izquierda
+
+Apagado
+
+UBICACIÓN DE PARTES
+
+Direccional derecha
+
+Cuando mueves el interruptor de direccionales a esta
+
+posición, las luces direccionales delantera y trasera del lado
+
+derecho encienden de forma intermitente.
+
+Interruptor de cambio de luz
+
+El interruptor de cambio de luz tiene 2 posiciones que son: Luz alta
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+delantera se encuentra en estado de iluminación lejana.
+
+Luz baja
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+delantera se encuentra en estado de iluminación cercana.
+
+Ahogador
+
+El ahogador bloquea el paso de aire en la mezcla de combustible
+
+que llega al motor. Tiene 2 posiciones:
+
+Posición cerrado
+
+Cuando el ahogador se encuentra en esta posición, el motor
+
+se puede operar normalmente.
+
+Posición abierto
+
+Si el motor está frío, coloca el ahogador en esta posición.
+
+Claxon óptico
+
+Cuando el interruptor de encendido se encuentra en
+
+, al
+
+primir el botón se prende la luz alta.
+
+Imagen 7. Ahogador.
+
+Posición cerrado
+
+Posición abierto
+
+Imagen 6. Interruptor de cambio de luz.
+
+Imagen 8. Claxon óptico.
+
+Luz alta
+
+Luz baja
+
+UBICACIÓN DE PARTES
+
+Interruptor de Encendido y Bloqueo
+
+El interruptor de encendido y bloqueo tiene 3 funciones: Encender la
+
+Cuando la llave se encuentra en esta posición, se conectan
+
+todos los circuitos y la
+
+se puede encender. La llave
+
+no se puede retirar del interruptor.
+
+Apagar la
+
+Cuando la llave se encuentra en esta posición, se desconectan
+
+todos los circuitos y se apaga el motor. La llave se puede
+
+retirar del interruptor.
+
+Bloquear la dirección
+
+Cuando la llave se encuentra en esta posición, el sistema
+
+bloquea la dirección por medio del interruptor de encendido
+
+y bloqueo. La llave se puede retirar del interruptor.
+
+Conexión USB
+
+Tu
+
+cuenta con una toma de corriente en formato
+
+USB que te permitirá cargar tu teléfono. Para utilizar la
+
+conexión USB debes: 1. Encender tu
+
+colocar la llave en el interruptor de
+
+encendido y bloqueo y girarla a la posición
+
+2. Mover la tapa del protector del conector del USB.
+
+3. Conectar el cable del cargador al conector USB.
+
+Atención: ● Nunca utilices tu teléfono celular mientras conduces la
+
+, evita distracciones para evitar accidentes.
+
+● Si conectas tu teléfono celular sin encender la
+
+, la
+
+batería se descargará y reducirás su vida útil.
+
+● En caso de que se descargue tu batería, acude al Centro de
+
+Servicio más cercano para que le realicen la recarga. Nunca
+
+le pases corriente a la batería con un automóvil, podrías
+
+generar daños irreversibles a tu
+
+Imagen 9. Interruptor de encendido y bloqueo.
+
+Imagen 10. Conexión USB.
+
+Apagar la
+
+Bloquear la
+
+dirección
+
+Encender la
+
+(A) Faro delantero
+
+(B) Luz direccional delantera
+
+(C) Pedal de cambio de velocidades
+
+(D) Parador lateral
+
+(E) Posapie del pasajero
+
+(F) Cadena de transmisión
+
+(G) Luz direccional trasera
+
+(H) Válvula de combustible
+
+Lado Izquierdo
+
+UBICACIÓN DE PARTES
+
+UBICACIÓN DE PARTES
+
+Parador Lateral
+
+El parador es el componente mecánico que permite mantener
+
+la
+
+en posición horizontal cuando no está en uso.
+
+Nota: ● Para evitar lesiones a tu persona y/o daños a la
+
+,
+
+te recomendamos no colocar el parador lateral mientras
+
+te encuentres arriba de la
+
+Válvula de Combustible
+
+La válvula de combustible tiene 2 funciones que son: Bloquear el paso de gasolina
+
+Cuando la válvula de combustible se encuentra en esta
+
+posición, la gasolina no fluye del tanque al carburador. La
+
+válvula debe estar en esta posición cuando la
+
+se encuentre estacionada por largos períodos.
+
+Permitir el paso de gasolina
+
+Cuando la válvula de combustible se encuentra en esta posición,
+
+la gasolina fluye desde el tanque principal al carburador.
+
+Imagen 12. Válvula de combustible.
+
+Imagen 11. Parador lateral.
+
+Parador lateral
+
+Permitir el paso
+
+de gasolina
+
+Bloquear el paso
+
+de gasolina
+
+al carburador
+
+UBICACIÓN DE PARTES
+
+Lado Derecho
+
+(A) Asiento
+
+(B) Luz posterior
+
+(C) Luz direccional trasera
+
+(D) Posapie del pasajero
+
+(E) Contenedor del líquido del freno trasero
+
+(F) Silenciador/escape
+
+(G) Pedal del freno trasero
+
+(H) Luz direccional delantera
+
+Atención: ● La gasolina quemada que sale por el silenciador/escape contiene monóxido de carbono, el cual es dañino para tu salud.
+
+Enciende siempre el motor en lugares abiertos.
+
+UBICACIÓN DE PARTES
+
+Tablero de Instrumentos
+
+FUNCIÓN
+
+Muestra la velocidad de conducción.
+
+Velocímetro
+
+Odómetro y/o odómetro
+
+de viaje
+
+Muestra el número de kilómetros totales y/o parciales recorridos
+
+por la .
+
+Reloj
+
+Muestra la hora en forma digital.Para ajustar la hora se debe presionar
+
+al mismo tiempo el botón “A” y “B” y una vez habilitado utiliza el botón
+
+“A” para ajustar la hora.
+
+Indica cuando el faro delantero se encuentra encendido en posición
+
+de luz alta.
+
+Indicador de
+
+direccionales
+
+Indicador de
+
+luz alta
+
+Indica la dirección a la cual el conductor desea dar vuelta.
+
+Indicador de
+
+gasolina
+
+Tacómetro
+
+Indica la cantidad de gasolina en el tanque de combustible.
+
+Indica la velocidad del motor en rpm.
+
+Indica cuando la palanca de velocidades está en neutro.
+
+Indicador de
+
+posición neutro
+
+Indicador de
+
+posición
+
+Indica la posición en la que se encuentra el pedal de velocidades.
+
+Botón tablero “B”
+
+Cambia de odómetro a odómetro de viaje y regresa el odómetro de
+
+viaje a “Cero”.
+
+Si dejas oprimido el botón en odómetro de viaje (TRIP) por unos
+
+segundos, lo regresa a cero.
+
+En esta pantalla se encuentran los siguientes indicadores
+
+Indicador de temperatura
+
+del refrigerante
+
+Se enciende cuando la temperatura del motor es alta.
+
+Presionándolo se reduce la intensidad de la luz del tablero.
+
+Botón tablero “A”
+
+“Botón A”
+
+“Botón B”
+
+UBICACIÓN DE PARTES
+
+Número de Identificación Vehicular (niv) y
+
+Número del Motor
+
+El NIV y el número del motor son: La única forma de identificar tu
+
+en particular
+
+de otra del mismo modelo y tipo.
+
+Necesarios en el momento de tramitar las placas de tu
+
+En algunas ocasiones, necesarios para solicitar refacciones.
+
+En caso de robo son necesarios para que las autoridades
+
+puedan identificar tu
+
+El NIV está formado por 17 dígitos y se encuentra grabado
+
+en la dirección.
+
+El número del motor se encuentra grabado en la parte superior
+
+del cuerpo del motor.
+
+Atención: ● Es un delito remover o manipular cualquiera de estos dos
+
+números.
+
+Importante
+
+● Revisa que el NIV y el número del motor que vienen en
+
+tu factura coincidan con el NIV y el número del motor de
+
+tu
+
+● El décimo dígito leído de izquierda a derecha del número
+
+de identificación vehicular, te indica el año modelo de la
+
+. Ejemplo:
+
+Imagen 14. Número del motor.
+
+Imagen 13. Número de Identificación Vehicular.
+
+AÑO MODELO
+
+Apagar el motor antes de agregar gasolina.
+
+Agregar gasolina solo al aire libre.
+
+Limpiar inmediatamente la gasolina que haya podido
+
+derramarse con un trapo húmedo para evitar daños a la
+
+Nivel de Aceite del Motor
+
+Revisa el nivel de aceite todos los días antes de encender el
+
+motor de tu
+
+. Para revisar el nivel de aceite debes:
+
+1. Colocar la
+
+en una superficie horizontal, no
+
+utilizar el parador lateral y no inclinarla.
+
+2. Localizar la mirilla del aceite en el lado derecho del motor.
+
+3. Verificar que el nivel de aceite se encuentre en la marca
+
+de máximo. Ver imagen 16.
+
+4. Agregar aceite si el nivel está por debajo del nivel mínimo.
+
+Nota: ● Revisar periódicamente el nivel de aceite, en caso de existir
+
+fuga o que el nivel del aceite no sea el adecuado, presenta
+
+tu
+
+en tu Centro de Servicio más cercano.
+
+Agregar Gasolina
+
+Para agregar gasolina al tanque de combustible debes: 1. Apagar el motor. Ver “Apagar el Motor”, página 35.
+
+2. Bajarte de la
+
+3. Colocar la
+
+en el parador lateral.
+
+4. Levantar el protector de la cerradura, introducir la llave
+
+en la cerradura del tapón de gasolina y girar la llave en
+
+el sentido de las manecillas del reloj.
+
+5. Levantar el tapón de gasolina y agregar gasolina. Ver
+
+imagen 15.
+
+6. Colocar el tapón del tanque de combustible en su posición.
+
+Atención: ● La gasolina es altamente inflamable y explosiva. Para evitar
+
+accidentes debes: REVISIONES PERIÓDICAS
+
+Imagen 15. Agregar gasolina.
+
+El tanque de combustible está ubicado adelante del
+
+asiento y tiene una CAPACIDAD DE 15 LITROS.
+
+Cuello
+
+del tanque
+
+Imagen 16. Mirilla del aceite.
+
+MÁX.
+
+MÍN.
+
+REVISIONES PERIÓDICAS
+
+Atención: ● El aceite usado pierde sus propiedades de lubricación,
+
+enfriamiento, etc. Cambia el aceite de acuerdo a la tabla
+
+de mantenimiento de la
+
+Nota: ● Para evitar lesiones a tu persona y/o daños a la
+
+,
+
+te recomendamos acudir a tu Centro de Servicio más cercano
+
+para que se le realice el cambio de aceite.
+
+Nota Ecológica: ● El aceite quemado es un desperdicio tóxico, recolecta
+
+el aceite en un recipiente limpio y llévalo a un centro
+
+de recolección de aceite usado o a un Centro de Servicio.
+
+NO LO TIRES POR EL DRENAJE.
+
+Limpieza de Bujía
+
+Para un buen funcionamiento de tu
+
+, la bujía debe
+
+estar calibrada, limpia y en buenas condiciones.
+
+Para limpiar la bujía debes: 1. Retirar el asiento delantero y trasero.
+
+2. Retirar las cubiertas laterales.
+
+3. Retirar el tanque de combustible.
+
+4. Localizar el cable de la bujía en la parte superior del motor.
+
+5. Desconectar el capuchón de la bujía.
+
+6. Limpiar cualquier suciedad que exista alrededor de la
+
+base de la bujía.
+
+Cambio de Aceite del Motor
+
+El aceite del motor debe cambiarse en cada uno de los servicios
+
+de mantenimiento. Para cambiar el aceite del motor debes:
+
+1. Colocar la
+
+en una superficie horizontal.
+
+2. Procurar que el motor esté caliente y/o tibio para que el
+
+aceite salga por completo.
+
+3. Localizar el tapón del cárter en la parte inferior derecha
+
+de la
+
+4. Aflojarlo en el sentido contrario a las manecillas del reloj y
+
+extraerlo.
+
+5. Quitar el tornillo de drenado ubicado debajo del motor,
+
+girándolo en el sentido contrario a las manecillas del reloj.
+
+6. Drenar el aceite en un recipiente por 5 minutos.
+
+7. Colocar el tornillo de drenado, girarlo en el sentido de
+
+las manecillas del reloj y aplicar un par de apriete de 15 a
+
+18 N-m. (11 a 13 lbs.ft).
+
+8. Poner 1.3 litros de aceite nuevo. Siempre agrega ACEITE
+
+ORIGINAL.
+
+9. Colocar nuevamente el tapón del cárter y girarlo en el
+
+sentido de las manecillas del reloj.
+
+10. Encender el motor en neutral por un período de 1 a 3 minutos.
+
+11. Apagar el motor.
+
+12. Verificar si el nivel de aceite es el adecuado.
+
+Atención: ● Cuando utilices tu
+
+bajo condiciones de mucho
+
+polvo, debes cambiar de inmediato el aceite del motor.
+
+REVISIONES PERIÓDICAS
+
+7. Retirar la bujía con un dado girando en el sentido contrario
+
+a las manecillas del reloj.
+
+8. Limpiar la bujía de sedimentos de carbón y de aceite.
+
+9. Verificar la calibración de los electrodos de la bujía, la cual
+
+debe ser de 0.6 a 0.7 mm. Ver imagen 17.
+
+10. Colocar la bujía, apretar primeramente con la mano, después
+
+terminar de apretar con el dado y aplicar un par de apriete
+
+de 15 a 18 N-m (11 a 13 lbs.ft).
+
+11. Colocar el capuchón de la bujía.
+
+12. Revisar que el capuchón sujete correctamente la bujía.
+
+13. Colocar el tanque de combustible.
+
+Nota: ● Te recomendamos acudir a tu Centro de Servicio más cercano
+
+para que se le realice la limpieza a la bujía.
+
+● Si el electrodo de la bujía presenta erosión, sedimentación
+
+la calibración no es la adecuada, acude a tu Centro de
+
+Servicio más cercano para que sea reemplazada. Exige a tu
+
+Centro de Servicio que utilice bujías originales en cada servicio.
+
+Filtro de Aire
+
+El filtro tiene la función de capturar todas las impurezas que
+
+existen en el aire para alargar la vida útil del motor, por lo que
+
+se debe cambiar o limpiar en cada servicio de mantenimiento.
+
+Ver “Servicios de Mantenimiento”, página 30. El filtro se localiza
+
+debajo del asiento y del tanque de combustible.
+
+Nota: ● Para evitar daños al filtro de aire o a la
+
+, te
+
+recomendamos acudir a tu Centro de Servicio más cercano
+
+para que cambien o limpien el filtro de aire.
+
+● No utilizar thinner o limpiadores inflamables para limpiar
+
+el elemento del filtro. Si el filtro es de tipo seco (papel),
+
+debes reemplazarlo por uno nuevo.
+
+● El filtro de aire no se debe instalar roto, ya que permite
+
+el paso de polvo al motor reduciendo su vida útil de forma
+
+drástica.
+
+Imagen 17. Bujía.
+
+0.6 a 0.7 mm
+
+REVISIONES PERIÓDICAS
+
+Nota Ecológica: ● Los filtros de aire usados son tóxicos y presentan un riesgo
+
+al medio ambiente si se desechan inadecuadamente, NO
+
+LOS TIRES EN LA BASURA, llévalos a un centro de recolección.
+
+Ajuste del Puño del Acelerador
+
+Para un buen funcionamiento del acelerador, es necesario revisar
+
+que el juego libre del puño del acelerador esté dentro de la
+
+especificación de 2 a 6 mm. Si no está dentro de la especificación
+
+debes: 1. Ubicar la tuerca y la contratuerca de ajuste del acelerador.
+
+Ver imagen 18.
+
+2. Sujetar la tuerca con una llave de 8 mm y aflojar la contratuerca
+
+con la misma llave.
+
+3. Dar vuelta a la tuerca para ponerla dentro de la especificación.
+
+4. Revisar que el juego libre del acelerador esté dentro de la
+
+especificación, además de que la rotación sea suave desde
+
+la posición de cerrado hasta la posición de abierto. Ver
+
+imagen 18.
+
+5. Sujetar la tuerca con una llave de 8 mm y apretar la contratuerca
+
+con la misma llave.
+
+6. Encender el motor para revisar que funcione correctamente.
+
+En caso de que el funcionamiento no sea el adecuado, repetir
+
+del paso 2 al 6.
+
+Nota: ● Si no puedes colocar el juego libre del puño del acelerador
+
+dentro de la especificación, acude a tu Centro de Servicio
+
+más cercano.
+
+Ajuste de la Palanca del Embrague
+
+Para un buen funcionamiento del embrague, es necesario
+
+revisar que el juego libre del extremo de la palanca del
+
+embrague esté entre 10 y 20 mm. Para ajustar la palanca del
+
+embrague debes: 1. Ubicar la tuerca y el tornillo de ajuste de la palanca del
+
+embrague. Ver imagen 19.
+
+2. Aflojar la tuerca con la mano.
+
+3. Girar el tornillo, a la izquierda para reducir la carrera libre,
+
+y a la derecha para aumentarla. La carrera libre del extremo
+
+de la palanca del embrague debe estar entre los 10 y 20 mm
+
+Ver imagen 19.
+
+4. Apretar la tuerca con la mano.
+
+Imagen 18. Ajuste del puño del acelerador.
+
+1. Tuerca.
+
+2. Contratuerca.
+
+3. Puño del acelerador
+
+(Juego libre de 2 a 6 mm).
+
+Si la palanca del embrague necesita mayor ajuste debes: 5. Utilizar las tuercas del embrague ubicadas en la parte
+
+superior del motor. Ver imagen 20.
+
+6. Aflojar la tuerca izquierda y/o derecha utilizando una
+
+llave 12 mm, dependiendo del ajuste que se requiera.
+
+7. Apretar las tuercas ubicadas en la parte superior del motor.
+
+8. Encender el motor para verificar que la palanca del
+
+embrague funcione correctamente. El motor debe
+
+responder adecuadamente y no perder potencia.
+
+En caso de que no se facilite el cambio de velocidades, repetir
+
+del paso 2 al 8 hasta que te sientas cómodo con el cambio
+
+de velocidades.
+
+REVISIONES PERIÓDICAS
+
+Imagen 19. Ajuste de la palanca del embrague.
+
+Nota: ● Si después de ajustar el embrague, éste presenta juego
+
+excesivo o dificultad para cambiar las velocidades, debes
+
+ajustarlo de nuevo o acude a tu Centro de Servicio más
+
+cercano para realizar los ajustes necesarios.
+
+● Al ajustar el embrague, debes evitar que la ranura de la
+
+palanca de la tuerca y del tornillo templador queden
+
+alineados, para evitar que el chicote se salga de su posición.
+
+Desgaste del Freno Delantero
+
+Los frenos son elementos de seguridad personal y deben
+
+estar en buenas condiciones. Tu
+
+cuenta con freno
+
+de disco hidráulico en la llanta delantera. Antes de conducir
+
+tu
+
+debes verificar el desgaste de las balatas de la
+
+siguiente forma: 1. Colocar la
+
+en una superficie horizontal y en
+
+el parador lateral.
+
+2. Revisar el nivel de desgaste de las balatas del freno
+
+delantero. Ver imagen 21.
+
+3. Si el desgaste de las balatas es mayor al límite indicado,
+
+debes acudir a tu Centro de Servicio para realizar el cambio
+
+de balatas.
+
+Imagen 20. Tuercas de ajuste.
+
+10 a 20 mm
+
+Tuerca y tornillo
+
+de ajuste
+
+REVISIONES PERIÓDICAS
+
+Desgaste del Freno Trasero
+
+Tu
+
+cuenta con freno de disco hidráulico en la llanta
+
+trasera. Antes de conducir tu
+
+debes verificar el
+
+desgaste de las balatas de la siguiente forma: 1. Colocar la
+
+en una superficie horizontal y en
+
+el parador lateral.
+
+2. Revisar el nivel de desgaste de las balatas del freno trasero.
+
+Ver imagen 22.
+
+3. Si el desgaste de las balatas es mayor al límite indicado,
+
+debes acudir a tu Centro de Servicio para realizar el cambio
+
+de balatas.
+
+Imagen 21. Indicador de desgaste del freno delantero.
+
+Atención: ● No conduzcas de forma inmediata tu
+
+después de
+
+cambiar las balatas del freno. Gira la rueda, revisa que rote
+
+libremente y presiona la palanca del freno. Repite este
+
+proceso varias veces para permitir que el líquido de frenos
+
+circule normalmente.
+
+Nivel del Líquido del Freno Delantero
+
+Para garantizar el buen funcionamiento del sistema de
+
+freno delantero, debes revisar el nivel del líquido y el estado
+
+físico de la manguera de presión.
+
+Para revisar el nivel del líquido de frenos debes: 1. Colocar la
+
+de forma horizontal.
+
+2. Revisar que el nivel del líquido de freno del contenedor
+
+no esté por debajo de la marca mínima. El nivel del líquido
+
+de freno siempre debe estar por arriba de la marca mínima
+
+del contenedor. Ver imagen 23.
+
+3. Revisar que la manguera de presión esté libre de fisuras
+
+no se encuentre afectada por corrosión.
+
+4. Si la manguera de presión se encuentra dañada, acude
+
+a tu Centro de Servicio para realizar el cambio.
+
+Imagen 22. Indicador de desgaste del freno trasero.
+
+Imagen 23. Nivel del líquido del freno delantero.
+
+2 mm
+
+Disco de Freno
+
+Balata de Freno
+
+Balata de Freno
+
+2 mm
+
+2 mm
+
+Disco de Freno
+
+Balata de Freno
+
+Balata de Freno
+
+2 mm
+
+REVISIONES PERIÓDICAS
+
+Nivel del Líquido del Freno Trasero
+
+Para garantizar el buen funcionamiento del sistema del freno
+
+trasero, debes revisar el nivel del líquido y el estado físico de la
+
+manguera de presión.
+
+Para revisar el nivel del líquido de frenos debes: 1. Colocar la
+
+de forma horizontal.
+
+2. Revisar que el nivel del líquido de freno del contenedor
+
+no esté por debajo de la marca mínima. El nivel del líquido
+
+de freno siempre debe estar por arriba de la marca mínima
+
+del contenedor. Ver imagen 24.
+
+3. Revisar que la manguera de presión esté libre de fisuras
+
+no se encuentre afectada por corrosión.
+
+4. Si la manguera de presión se encuentra dañada, acude
+
+a tu Centro de Servicio para realizar el cambio.
+
+Completar el Nivel del Líquido del Freno Delantero
+
+y Trasero
+
+Para completar el nivel del líquido del freno delantero debes: 1. Colocar la
+
+en posición horizontal.
+
+2. Retirar los dos tornillos de la tapa.
+
+3. Retirar la tapa y su membrana.
+
+4. Llenar el recipiente hasta alcanzar la marca de máximo,
+
+utilizando líquido de frenos DOT 4.
+
+5. Colocar la membrana, la tapa y apretar los tornillos.
+
+Para completar el nivel del líquido del freno trasero debes: 1. Colocar la
+
+en posición horizontal.
+
+2. Retirar la tapa y su membrana.
+
+3. Llenar el recipiente hasta alcanzar la marca de máximo,
+
+utilizando líquido de frenos DOT 4.
+
+4. Colocar la membrana y la tapa.
+
+Nota: ● Para evitar accidentes o daños a la
+
+, te recomendamos
+
+acudir a tu Centro de Servicio más cercano para que se le
+
+realice el rellenado del líquido de freno.
+
+● Limpiar inmediatamente el líquido de frenos que haya podido
+
+derramarse con un trapo húmedo para evitar daños a la
+
+Imagen 24. Nivel del líquido del freno trasero.
+
+Imagen 25. Completar el nivel de líquidos de frenos.
+
+Contenedor
+
+freno delantero
+
+Contenedor
+
+freno trasero
+
+Cadena de Transmisión
+
+La vida útil de la cadena de transmisión depende de un ajuste
+
+y una lubricación adecuados. Un mantenimiento deficiente
+
+puede causar un desgaste prematuro tanto a la cadena como
+
+a los piñones. Para revisar la cadena de transmisión debes:
+
+1. Colocar la
+
+en el parador lateral.
+
+2. Mover la cadena con la mano hacia arriba y hacia abajo
+
+para revisar que su holgura esté entre 10 y 20 mm
+
+3. Revisar el desgaste de la corona, piñón y cadena.
+
+4. Si la cadena necesita ajuste, debes acudir al Centro de
+
+Servicio de tu preferencia para su ajuste.
+
+Para lubricar la cadena de transmisión debes: 1. Usar lubricante especial para cadenas.
+
+2. Colocar aceite en cada unión de los eslabones de la cadena,
+
+de tal forma que penetre en cada uno de los pasadores,
+
+bujes y rodillos.
+
+REVISIONES PERIÓDICAS
+
+Atención: ● Utilizar lubricante para cadena. NO USAR GRASA.
+
+Nota: ● Una holgura excesiva de la cadena de transmisión puede
+
+causar su desgaste y/o su ruptura, dañando al motor.
+
+● En condiciones de uso continuo o cuando la
+
+es
+
+conducida en lugares con mucho polvo o fangosos, debes
+
+lubricar y ajustar la cadena con mayor frecuencia.
+
+Batería
+
+Tu
+
+utiliza una batería de 12 volts y 7 amperes hora.
+
+Para el buen funcionamiento del sistema eléctrico, es necesario
+
+limpiar la batería. Para tal efecto debes:
+
+1. Colocar la
+
+en el parador lateral.
+
+2. Quitar el asiento delantero y trasero.
+
+3. Limpiar la superficie de la batería.
+
+4. Retirar primero la terminal negativa y luego la positiva.
+
+5. Limpiar los postes y terminales de la batería de sedimentaciones.
+
+6. Colocar primero la terminal positiva y después la terminal
+
+negativa.
+
+7. Acudir a tu Centro de Servicio más cercano para realizar
+
+el cambio de la batería, en caso de ser necesario.
+
+Imagen 26. Holgura de la cadena.
+
+10 a 20 mm
+
+Nota: ● Nunca cargues la batería mientras esté montada en la
+
+, ya que puedes dañar la batería o el regulador.
+
+● Para un buen funcionamiento de la batería, no cambies
+
+componentes ni instales accesorios eléctricos a tu
+
+Utiliza baterías originales.
+
+● Al retirar la batería, primero desmonta el polo negativo
+
+(-) y luego el polo positivo (+). Al instalar la batería primero
+
+monta el polo positivo (+) y luego el polo negativo (-).
+
+Evita que el polo positivo (+) tenga contacto con las partes
+
+metálicas de la
+
+Nota Ecológica: ● Las baterías usadas contienen materiales corrosivos que
+
+pueden contaminar el suelo y el agua, NO LAS TIRES EN
+
+LA BASURA, llévalas a un centro de reciclaje.
+
+Cambio del Fusible
+
+Una de las causas por las que el sistema eléctrico no funciona,
+
+se debe a que el fusible se encuentra quemado. Para cambiarlo
+
+debes: 1. Poner el interruptor de encendido y bloqueo en posición
+
+2. Quitar el asiento delantero y trasero.
+
+3. Localizar el portafusible en la parte superior. Ver imagen 28.
+
+4. Sustituir el fusible quemado por el de repuesto.
+
+5. Revisar el funcionamiento del sistema eléctrico.
+
+6. Comprar un nuevo fusible de repuesto.
+
+Atención: ● El cambio de un fusible por otro de amperaje diferente al
+
+recomendado causará daños al sistema eléctrico.
+
+Nota: ● Si después de cambiar el fusible, el sistema eléctrico no
+
+funciona, debes acudir a tu Centro de Servicio más cercano
+
+para que revisen tu
+
+Imagen 27. Batería.
+
+REVISIONES PERIÓDICAS
+
+Imagen 28. Fusible.
+
+Fusible quemado
+
+REVISIONES PERIÓDICAS
+
+Anticongelante
+
+Para garantizar el buen funcionamiento del sistema de
+
+enfriamiento, debes revisar el nivel del líquido refrigerante,
+
+si el nivel de refrigerante se encuentra por debajo de la
+
+marca mínima, deberás rellenar de refrigerante el vaso
+
+de expansión utilizando anticongelante naranja o rojo.
+
+El depósito de anticongelante se localiza a un costado del
+
+radiador. Para rellenar el nivel del líquido refrigerante debes:
+
+1. Colocar la
+
+en posición horizontal.
+
+2. Retirar la cubierta lateral derecha.
+
+3. Retirar la tapa del recipiente.
+
+4. Llenar el recipiente hasta alcanzar la marca de máximo,
+
+utilizando líquido anticongelante naranja o rojo.
+
+5. Colocar la tapa del recipiente.
+
+6. Colocar la cubierta lateral derecha.
+
+Llantas
+
+Las llantas que vienen de fábrica están diseñadas de acuerdo
+
+a la capacidad de desempeño de tu
+
+, proporcionando
+
+la mejor combinación de manejo, frenado, durabilidad y
+
+comodidad.
+
+Para que tu
+
+funcione correctamente, las llantas
+
+deben: Ser del tipo y tamaño correcto
+
+Estar en buenas condiciones
+
+Tener un perfil adecuado
+
+Tener la presión adecuada
+
+Imagen 29. Depósito de anticongelante.
+
+● No abrir la tapa del depósito y/o radiador
+
+cuando esté caliente, ya que el anticongelante
+
+puede provocar quemaduras.
+
+Atención: Imagen 30. Llanta en buenas condiciones.
+
+REVISIONES PERIÓDICAS
+
+Las llantas que tienen una presión baja se desgastan de manera
+
+dispareja, afectan el manejo y son propensas a fallar por
+
+calentamiento. Las llantas que tienen una presión alta
+
+casionan que la conducción sea dura, se desgastan de manera
+
+dispareja y son propensas a dañarse por la condición del
+
+camino.
+
+Presión de la llanta delantera: 28 Libras por pulgada cuadrada (psi).
+
+Presión de la llanta trasera: 30 Libras por pulgada cuadrada (psi).
+
+Atención: ● Usar llantas muy desgastadas o con una presión inadecuada
+
+puede ser causa de accidentes.
+
+● Cada vez que revises la presión de las llantas, también
+
+debes revisar el perfil y las paredes laterales en busca de
+
+desgaste, daños y objetos extraños. Debes poner atención
+
+principalmente en: Golpes o protuberancias
+
+Cortes
+
+Rajaduras o fisuras
+
+Desgaste excesivo del perfil
+
+● La instalación de llantas inadecuadas en tu
+
+puede
+
+afectar el manejo y la estabilidad. También es importante
+
+inspeccionar algún daño en los rines antes de utilizar la
+
+. Si encuentras que la desviación de los rines es
+
+muy notoria, acude a tu Centro de Servicio más cercano
+
+para que hagan los ajustes necesarios.
+
+● Si en el momento de conducir tu
+
+pasas por un
+
+bache o un objeto duro, detente lo más pronto posible y
+
+revisa si ha ocurrido algún daño a las llantas. Si una llanta se
+
+perfora o se daña, debe ser reemplazada lo antes posible.
+
+Una llanta reparada no es tan confiable como una nueva y
+
+puede presentar fallas durante el manejo. Si reparas una
+
+llanta de manera provisional colocando un parche o usando
+
+sellador en aerosol, maneja con precaución a baja velocidad.
+
+Para realizar el cambio de una llanta, acude a tu Centro de
+
+Servicio más cercano.
+
+Alta
+
+Presión
+
+Baja
+
+Presión
+
+Presión
+
+Correcta
+
+Los Centros de Servicio deben utilizar piezas originales y nuevas, exige las piezas sustituidas al momento de retirar tu motocicleta.
+
+NO REALIZAR LOS SERVICIOS PREVENTIVOS ANULA LA GARANTÍA.
+
+Como propietario tienes la obligación de presentar tu motocicleta al Centro de Servicio de tu elección para que le realicen los servicios de mantenimiento y de esta forma
+
+conservar la garantía.
+
+Cada 6,000 km
+
+Distancia recorrida
+
+500 km
+
+1 mes
+
+4 meses
+
+8 meses
+
+12 meses
+
+16 meses
+
+3,000 km
+
+6,000 km
+
+9,000 km
+
+12,000 km
+
+Posteriores
+
+cada 3,000 km
+
+cada 4 meses
+
+Tiempo de compra
+
+CARROCERÍA
+
+Cambio de aceite de motor
+
+Cambio de bujía
+
+Limpieza de cedazo de aceite de motor
+
+Limpieza del ﬁltro de aire
+
+Carburación de motor (ajuste de RPM´s)
+
+Ajuste de manijas y/o pedal de freno
+
+Inspección nivel desgaste de frenos
+
+Lubricación y ajuste de chicotes
+
+Relleno de líquido de frenos (hasta 50 ml)
+
+Apriete de tornillería de seguridad: ejes de ruedas, cálipers de freno, pedales,
+
+posapies y soportes de motor y tornillos
+
+de sujeción de retrovisores
+
+Lavado, lubricación y ajuste de cadena
+
+Presión de neumáticos
+
+Lavado de motocicleta
+
+Cada 6,000 km
+
+ACTIVIDADES DE LOS SERVICIOS DE MANTENIMIENTO CON ACEITE SINTÉTICO
+
+Para las motocicletas que usan aceite sintético (ejemplo: VORTX 200, VX25O EFI, etc.) y bujía original GOLD o NGK, el período de servicio de mantenimiento es el siguiente:
+
+Distancia recorrida
+
+500 km
+
+1 mes
+
+6 meses
+
+12 meses
+
+18 meses
+
+24 meses
+
+6,000 km
+
+12,000 km
+
+18,000 km
+
+24,000 km
+
+Posteriores
+
+cada 6,000 km
+
+cada 6 meses
+
+Tiempo de compra
+
+CARROCERÍA
+
+Cambio de aceite de motor
+
+Cambio de bujía
+
+Limpieza de cedazo de aceite de motor
+
+Limpieza del ﬁltro de aire
+
+Carburación de motor (ajuste de RPM´s)
+
+Ajuste de manijas y/o pedal de freno
+
+Inspección nivel desgaste de frenos
+
+Lubricación y ajuste de chicotes
+
+Relleno de líquido de frenos (hasta 50 ml)
+
+Apriete de tornillería de seguridad: ejes de ruedas, cálipers de freno, pedales,
+
+posapies y soportes de motor y tornillos
+
+de sujeción de retrovisores
+
+Lavado, lubricación y ajuste de cadena
+
+Presión de neumáticos
+
+Lavado de motocicleta
+
+Cada 6,000 km
+
+Cada 6,000 km
+
+Los Centros de Servicio deben utilizar piezas originales y nuevas, exige las piezas sustituidas al momento de retirar tu motocicleta.
+
+NO REALIZAR LOS SERVICIOS PREVENTIVOS ANULA LA GARANTÍA.
+
+Lavado
+
+La mejor protección contra las influencias del medio ambiente es
+
+lavar con frecuencia tu
+
+. La frecuencia depende,
+
+entre otros factores, del uso que le das, de la estación del
+
+año, de las condiciones atmosféricas y del medio ambiente.
+
+Mientras más tiempo permanezcan sobre la
+
+los
+
+excrementos de pájaros, los restos de insectos, las resinas de
+
+árboles, el polvo, las partículas de hollín y otras sedimentaciones
+
+de índole agresiva, más persistentes serán sus efectos
+
+destructivos.
+
+Para lavar tu
+
+debes: 1. Enjuagar la
+
+con agua fría para remover la
+
+suciedad suelta.
+
+2. Lavar la
+
+con un paño suave, solución jabonosa
+
+y agua fría.
+
+3. Frotar las áreas sucias.
+
+4. Enjuagar la
+
+con abundante agua limpia.
+
+5. Secar la
+
+con un paño suave y seco.
+
+6. Encender el motor y dejarlo funcionar de 1 a 3 minutos.
+
+Ver “Encender el Motor”, página 35.
+
+7. Lubricar la cadena de transmisión después de lavar y secar
+
+la
+
+. Ver “Cadena de Transmisión”, página 26.
+
+Nota: ● Evitar el uso de productos de limpieza que no hayan sido
+
+diseñados para superficies de la
+
+, ya que pueden
+
+contener detergentes o solventes químicos que dañen el
+
+metal, la pintura o el plástico.
+
+● Evitar el uso de agua a alta presión, ya que puede dañar
+
+partes de la
+
+. Si utilizas lavado con agua a presión,
+
+se recomienda no aplicarlo a las siguientes partes: Interruptor de encendido.
+
+Debajo del asiento.
+
+Eje de las llantas.
+
+Salida del silenciador/escape.
+
+Tablero y/o controles.
+
+Motor.
+
+Carburador.
+
+Guardapolvo.
+
+Partes eléctricas y sus conectores.
+
+Atención: ● Después de lavar tu
+
+, la funcionalidad de los
+
+frenos se afecta parcial y temporalmente, mide la distancia
+
+de frenado para evitar accidentes.
+
+Cuidado de la Pintura
+
+Una buena aplicación de productos de mantenimiento protege
+
+ampliamente la pintura de la
+
+contra las influencias
+
+del medio ambiente, e incluso contra otros factores de efectos
+
+mecánicos ligeros.
+
+La pintura puede ser tratada con cera líquida una semana después
+
+de haber sido entregada la
+
+. Se recomienda, por
+
+lo menos, dar a la pintura una capa de cera líquida dos veces
+
+al año.
+
+Cuidado del Asiento
+
+Las piezas exteriores de material sintético, como el asiento,
+
+se limpian con un lavado normal. Si esto no es suficiente,
+
+puedes usar productos especiales de limpieza y mantenimiento
+
+para material sintético y cuero artificial que no contengan
+
+solventes.
+
+Limpieza normal
+
+Limpia las superficies de material sintético sucias con un trapo
+
+de algodón o de lana ligeramente húmedo.
+
+Suciedad incrustada
+
+Limpia la suciedad incrustada con un trapo mojado en una
+
+solución ligera de jabón suave (2 cucharadas de jabón neutro
+
+con un litro de agua). Al hacerlo, asegúrate de que el material
+
+sintético no se empape en ningún sitio y que el agua no se
+
+filtre por las costuras. Seca con un trapo suave y seco.
+
+Limpieza de manchas
+
+Retira manchas recientes de productos a base de agua, como
+
+café, té, jugos, etc., con un paño absorbente o papel de cocina.
+
+Retira manchas recientes de productos a base de grasas,
+
+como mantequilla, mayonesa, chocolate, etc., con un paño
+
+absorbente o papel de cocina. Utiliza un aerosol para disolver
+
+grasas para las manchas secas.
+
+Trata las manchas especiales como bolígrafo, rotulador,
+
+esmalte para uñas, etc., con un quitamanchas especial
+
+para material sintético.
+
+Nota: ● Retira del asiento el plástico protector con el que se entrega
+
+la
+
+para evitar que con el uso, éste se pegue y
+
+deteriore el asiento.
+
+Revisa que la cantidad de gasolina sea suﬁciente para tu recorrido. Ver “Agregar Gasolina”,
+
+página 19.
+
+Combustible
+
+Aceite
+
+Revisa que el nivel de aceite se encuentre en la marca de máximo. Agregar de ser necesario.
+
+Ver “Nivel de Aceite del Motor”, página 19.
+
+Revisa que el juego libre del acelerador esté entre 2 y 6 mm. Ajustar y lubricar de ser necesario.
+
+Ver “Ajuste del Puño del Acelerador”, página 22.
+
+Revisa que el juego libre de la palanca del embrague esté entre 10 y 20 mm. Ver “Ajuste de
+
+la Palanca del Embrague”, página 22.
+
+Revisa el desgaste de las balatas del freno delantero y trasero. Ver “Desgaste de Freno Delantero”,
+
+página 23, y “Desgaste de Freno Trasero”, página 24.
+
+Revisa que el nivel del líquido del freno delantero y trasero se encuentren entre las marcas
+
+de máximo y mínimo. Ver páginas 24 y 25.
+
+Revisa la presión de las llantas y que no presenten golpes, cortes, ﬁsuras o desgaste excesivo
+
+del perﬁl. Ver “Llantas”, página 28 y “Datos Técnicos”, página 42.
+
+Revisa el funcionamiento del faro delantero, de la luz trasera, de los cuartos, de las
+
+direccionales traseras/delanteras, del claxon y del interruptor de arranque eléctrico.
+
+Acelerador
+
+Palanca del
+
+embrague
+
+Frenos
+
+Nivel del líquido
+
+de frenos
+
+Llantas
+
+Sistema eléctrico
+
+REVISIÓN ANTES DE MANEJAR
+
+Atención: Cuídate y cuida tu
+
+, realiza esta revisión cada vez que te subas a ella.
+
+Encender el Motor
+
+Para encender el motor debes: 1. Colocar la válvula de combustible en posición de abierto.
+
+2. Subirte a la
+
+por el lado izquierdo.
+
+3. Retirar el parador lateral.
+
+4. Introducir la llave en el interruptor de encendido y bloqueo.
+
+5. Girar la llave a la posición
+
+. Ver imagen 31-A.
+
+6. Revisar que la cantidad de combustible sea la suficiente
+
+para tu recorrido.
+
+7. Verificar que el pedal de cambio de velocidades esté en
+
+punto neutro. Ver “Cambio de Velocidades”, página 36.
+
+8. Colocar la palanca del ahogador en posición abierto. Ver
+
+imagen 32.
+
+9. Colocar el interruptor cortacorriente en la posición
+
+10. Oprimir la palanca del freno.
+
+11. Oprimir el interruptor de arranque eléctrico para dar marcha
+
+al motor. Ver imagen 31-B.
+
+12. Esperar alrededor de 1 a 3 minutos para utilizar la
+
+13. Colocar la palanca del ahogador en posición cerrado.
+
+Nota: ● Cuando el motor arranque, gradualmente coloca la palanca
+
+del ahogador en posición cerrado.
+
+● No dejar oprimido el interruptor de arranque eléctrico por
+
+más de 5 segundos, ni oprimirlo cuando la
+
+esté
+
+encendida, así como dejar de oprimirlo de forma inmediata
+
+cuando el motor encienda.
+
+Apagar el Motor
+
+Para apagar el motor debes: 1. Hacer alto total oprimiendo ambos frenos.
+
+2. Verificar que el pedal de cambio de velocidades esté en
+
+punto neutro.
+
+3. Colocar el interruptor cortacorriente en la posición
+
+4. Girar el interruptor de encendido y bloqueo en posición
+
+de apagado
+
+Imagen 31. Encendido del motor.
+
+Imagen 32. Ahogador.
+
+Posición cerrado
+
+Posición abierto
+
+Nota: ● Si se te dificulta girar la llave para desbloquear la dirección,
+
+mueve el manubrio e intenta girar la llave nuevamente.
+
+● Cuando abandones tu
+
+, aunque sea por un espacio
+
+corto de tiempo, no olvides quitar la llave del interruptor
+
+de encendido y bloqueo, así como bloquear la dirección.
+
+Cambio de Velocidades
+
+El pedal de cambio de velocidades se encuentra ubicado en
+
+el lado izquierdo de la
+
+. Para hacer el cambio de
+
+velocidades debes: 1. Encender el motor. Ver “Encender el Motor”, página 35.
+
+2. Oprimir la palanca del embrague.
+
+3. Girar lentamente el acelerador.
+
+4. Meter la primera velocidad oprimiendo el pedal de cambio
+
+de velocidades. Ver imagen 34.
+
+5. Soltar lentamente la palanca del embrague al mismo
+
+tiempo que giras el acelerador.
+
+Imagen 33. Bloqueo de la dirección.
+
+5. Colocar la
+
+en el parador lateral.
+
+6. Retirar la llave.
+
+Motor Ahogado
+
+Si el motor no enciende después de varios intentos, es posible
+
+que se encuentre ahogado de gasolina. Para liberar el motor
+
+del exceso de gasolina debes: 1. Esperar un minuto por cada vez que aceleraste.
+
+2. Colocar la palanca del ahogador en posición abierto.
+
+3. Colocar el interruptor cortacorriente en la posición
+
+4. No accionar el puño del acelerador.
+
+5. Intentar encender el motor nuevamente.
+
+Bloquear la Dirección
+
+Para bloquear la dirección debes: 1. Apagar el motor o colocar la llave en el interruptor de
+
+encendido y bloqueo.
+
+2. Girar el manubrio a la izquierda.
+
+3. Oprimir y girar la llave a la posición . Ver imagen 33.
+
+4. Retirar la llave.
+
+Para desbloquear la dirección debes: 1. Colocar la llave en el interruptor de encendido y bloqueo.
+
+2. Oprimir y girar la llave a la posición
+
+3. Retirar la llave.
+
+Cuando la
+
+alcance una velocidad moderada y
+
+las rpm estén entre 5,000 y 6,000, debes hacer los siguientes
+
+cambios. Para introducir los siguientes cambios de velocidades
+
+debes: 6. Oprimir la palanca del embrague.
+
+7. Meter la segunda velocidad subiendo el pedal de cambio
+
+de velocidades.
+
+8. Soltar lentamente la palanca del embrague al mismo tiempo
+
+que giras el acelerador lentamente.
+
+9. Seguir el mismo proceso para meter el siguiente cambio
+
+de velocidad. Ver imagen 34.
+
+Para regresar a una velocidad inferior debes: 10. Dejar de acelerar.
+
+11. Oprimir la palanca del embrague.
+
+12. Meter una velocidad inferior a la que se va manejando,
+
+primiendo el pedal de cambio de velocidades.
+
+13. Soltar lentamente la palanca del embrague.
+
+Imagen 34. Cambio de velocidades.
+
+Nota: ● No dejes oprimida, aunque sea ligeramente, la palanca del
+
+embrague durante la conducción, esto gastará prematuramente
+
+las pastas del embrague.
+
+● Para hacer un buen cambio de velocidades debes asegurarte de:
+
+NUNCA soltar bruscamente la palanca del embrague.
+
+NUNCA acelerar bruscamente.
+
+NUNCA forzar el motor entre los cambios de velocidad.
+
+Atención: ● No introducir un cambio de velocidad inferior sin antes reducir
+
+la velocidad. El motor se puede forzar, además de que la llanta
+
+trasera pierde tracción trayendo como consecuencia la pérdida
+
+de control de la
+
+y ocasionar daños irreversibles
+
+a ella.
+
+El almacenamiento por períodos largos requiere de ciertos
+
+cuidados para evitar daños a la
+
+. Antes de almacenarla
+
+debes: 1. Drenar el aceite del motor.
+
+2. Drenar la gasolina del carburador y del tanque.
+
+3. Colocar el interruptor de encendido y bloqueo en posición
+
+4. Colocar la válvula de combustible en posición .
+
+5. Quitar la batería y colocarla en un lugar fresco y ventilado.
+
+Evitar hacer contacto con el piso.
+
+6. Limpiar totalmente la
+
+7. Lubricar la cadena de transmisión. Ver “Cadena de Transmisión”,
+
+página 26.
+
+8. Quitar la bujía.
+
+9. Poner de 15 a 20 ml de aceite en el espacio de la bujía.
+
+10. Poner la bujía.
+
+11. Guardar la
+
+en un lugar fresco y seco. No
+
+exponerla al sol.
+
+12. Colocar una cubierta protectora a la
+
+Volver a Usar
+
+Para utilizar la
+
+después de un período de
+
+almacenamiento debes: 1. Limpiar la
+
+2. Colocar aceite.
+
+3. Colocar la batería a la
+
+4. Agregar gasolina. Ver “Agregar Gasolina”, página 19.
+
+5. Colocar la válvula de combustible en posición
+
+6. Lubricar la cadena de transmisión. Ver “Cadena de Transmisión”,
+
+página 26.
+
+7. Verificar la presión de las llantas. Ver “Llantas”, página 28.
+
+Atención: ● Antes de conducir tu
+
+, debes asegurarte que se
+
+encuentre en buenas condiciones, para ello se te recomienda
+
+probarla en un sitio seguro y lejos del tránsito a baja velocidad.
+
+Nota: ● Si no utilizas tu
+
+por más de 2 meses, debes poner
+
+a cargar la batería cada mes.
+
+● Cuando vuelvas a utilizar tu
+
+, al momento de
+
+encenderla saldrá humo del escape hasta que se queme
+
+todo el aceite que colocaste en el espacio de la bujía.
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Conducir tu
+
+es una actividad emocionante, pero
+
+requiere precauciones de seguridad. Las principales son:
+
+Equipo de Protección
+
+Para tu protección, al momento de conducir tu
+
+,
+
+debes utilizar el siguiente equipo:
+
+Atención: ● Vestirse con ropa floja puede ocasionar graves daños al
+
+conductor y a la
+
+, ya que se puede atorar en el
+
+manubrio, en el posapie o en las llantas.
+
+Para los días lluviosos, te
+
+sugerimos contar siempre
+
+con un impermeable.
+
+Usa ropa brillante y de piel u otro
+
+material grueso.
+
+En caso de no tener, mínimo llevar
+
+cubiertos brazos y piernas.
+
+Usa botas o zapatos suficientemente
+
+altos y resistentes para cubrir los
+
+tobillos.
+
+En caso de no tener, mínimo llevar
+
+zapato cubierto.
+
+Usa casco completo, tres cuartos,etc.,
+
+y que cumpla con la norma de
+
+seguridad DOT (Department of
+
+Transportation, por sus siglas en
+
+inglés). Al usar casco con DOT se
+
+reduce el riesgo de lesiones en la
+
+cabeza en un accidente.
+
+Usa guantes de cuero o
+
+un material similar.
+
+● La temperatura del escape de la
+
+es elevada.
+
+Para evitar quemaduras se te recomienda utilizar botas
+
+un pantalón que cubra la antepierna.
+
+● Para prevenir accidentes en días lluviosos, te recomendamos:
+
+Al empezar a llover detente debajo de un puente y/o zona
+
+techada y colócate tu impermeable.
+
+Esperar unos minutos para que la lluvia retire del asfalto la
+
+suciedad (tierra, arena, aceite, basura, etc.).
+
+Ten especial precaución con las marcas viales (ejemplo,
+
+cruce peatonal), ya que éstas en su mayoría provocarán
+
+que tu
+
+se derrape.
+
+Cuando frenes, hazlo muy suavemente.
+
+● No guardes el impermeable debajo del asiento u otro lugar
+
+que pueda tapar alguna toma de aire, ya que puede reducir
+
+el desempeño de tu
+
+y, en algunos casos, no
+
+arrancar.
+
+Carga de Pasajeros o Mercancía
+
+La
+
+está diseñada para transportar una carga
+
+máxima (conductor, pasajero y parrilla de carga) de 150
+
+kg (330 lbs). Exceder este límite afecta su estabilidad,
+
+puede ser causa de accidentes y daños a la
+
+Comercializadora de Motocicletas de Calidad, S. A. de C.V., no
+
+se hace responsable de ningún daño causado por el exceso
+
+de carga. Para prevenir accidentes evita cargar:
+
+Objetos voluminosos o pesados en la
+
+Objetos que obstruyan la visibilidad del conductor.
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Condiciones del Camino
+
+Tu
+
+está diseñada para rodar en caminos
+
+pavimentados. Considera que en un camino cualquier cosa
+
+puede ser un obstáculo, por lo que siempre debes conducir
+
+con precaución y reducir la velocidad lo suficiente cuando
+
+sea necesario.
+
+Es recomendable que cuando en el camino te encuentres con: Charcos de agua, evites entrar en ellos ya que puedes perder
+
+el control de la dirección o puedes caerte dependiendo
+
+de la velocidad con la que entres.
+
+Arena, barro y hojas caídas, evítalos o pasa sobre ellos
+
+a baja velocidad, ya que puedes perder la dirección o patinar
+
+en ellos. De ser posible detén la
+
+y camina con
+
+ella.
+
+Topes, reduce la velocidad y cruza en ángulo recto.
+
+Grava y baches, maneja lentamente vigilando las
+
+condiciones del camino y con la cintura ligeramente
+
+levantada para equilibrar la
+
+Planchas de hierro, detén la
+
+y camina con ella,
+
+ya que estas superficies son muy resbalosas, especialmente
+
+en días lluviosos.
+
+Aceite o caminos congelados, maneja lentamente o detén
+
+la
+
+y camina con ella.
+
+Días Lluviosos
+
+El conducir tu
+
+en un día lluvioso puede ser
+
+peligroso, por lo que te recomendamos:
+
+Reducir la velocidad más que en un día despejado, ya que la lluvia
+
+impide ver los obstáculos y determinar las condiciones del camino.
+
+Mantener una distancia prudente con el vehículo de adelante.
+
+No tomar las curvas a la misma velocidad que en un día
+
+despejado, ya que puedes patinar, caerte o salirte del camino.
+
+Modificación del Diseño
+
+El modificar o colocar piezas no originales a tu
+
+, no
+
+solo afecta la seguridad de la
+
+de sus ocupantes,
+
+también ocasiona la pérdida de la Garantía.
+
+Conducción y Alcohol
+
+Utilizar tu
+
+bajo los efectos del alcohol es una de
+
+las causas más frecuentes de accidentes. La habilidad para
+
+conducir se ve perjudicada cuando el nivel de alcohol en la
+
+sangre se halla por encima del nivel máximo permitido por
+
+la ley, debido a que tus reflejos se vuelven lentos y tu capacidad
+
+de decisión se ve afectada. Si has bebido, NO MANEJES tu
+
+, llama a un taxi o utiliza un medio de transporte
+
+público.
+
+Recomendaciones de Conducción
+
+Al conducir debes ser cuidadoso para garantizar tu seguridad,
+
+por lo que antes de utilizar tu
+
+, te recomendamos:
+
+1. Revisar y/o ajustar algunos componentes de desgaste
+
+natural debido al uso como: El nivel de aceite en el motor
+
+La presión del aire de las llantas
+
+El desgaste de los frenos
+
+El encendido de las luces
+
+Revisar el nivel de anticongelante
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+2. Subir y bajar de la
+
+siempre del lado izquierdo.
+
+3. Vestir ropa en colores llamativos o brillantes.
+
+4. Obedecer el reglamento de tránsito local.
+
+5. Sostener el manubrio con ambas manos.
+
+6. Obedecer los límites de velocidad.
+
+7. Conducir tu
+
+utilizando un carril y del lado
+
+donde los conductores de vehículos te puedan ver, ya que
+
+gran cantidad de accidentes ocurren debido a que el
+
+conductor del otro vehículo no ve al conductor de la
+
+8. Encender la luz direccional con anticipación para dar la vuelta.
+
+9. Tener cuidado al cruzar en las esquinas de calles, y en la
+
+entrada y salida de vehículos.
+
+10. Que el pasajero coloque los pies en los posapies del
+
+pasajero y que se sujete con ambas manos al conductor
+
+a la
+
+11. Durante la conducción, mantener las luces prendidas.
+
+Atención: ● Te sugerimos practicar la conducción de tu
+
+en un área libre de tránsito y obstáculos hasta que estés
+
+completamente familiarizado con la máquina y sus controles.
+
+Postura para el Manejo
+
+El conducir tu
+
+en una postura correcta te ayuda a
+
+que puedas utilizar los controles fácilmente y a protegerte
+
+de posibles accidentes.
+
+Ten en cuenta los siguientes puntos para adquirir una
+
+postura correcta: No mirar hacia los pies o manos, ni hacia un solo punto.
+
+Mantener un campo de visión amplio mirando hacia todos
+
+lados por igual.
+
+Sujetar firmemente el centro de los mandos con ambos
+
+pulgares hacia abajo.
+
+Apuntar las rodillas ligeramente hacia adentro y no hacia afuera.
+
+Mantener los hombros relajados y en posición natural.
+
+Doblar los codos ligeramente hacia adentro y relajarlos para
+
+que éstos funcionen como resortes cuando el manubrio
+
+reciba algún golpe.
+
+Elegir una posición que mantenga tu cuerpo estable. Si
+
+tienes la cintura demasiado hacia adelante o hacia atrás,
+
+los hombros y la cintura pueden estar muy tensos y el cuerpo
+
+tener poca estabilidad.
+
+Poner los dedos de los pies paralelos a la
+
+Cuidados para Evitar Robo
+
+Para evitar el robo de tu
+
+debes: Quitar la llave del interruptor de encendido y bloqueo.
+
+Dejar siempre la
+
+en un lugar bajo llave y seguro.
+
+Utilizar el bloqueo de la dirección.
+
+Evitar prestar tu
+
+Anotar tu nombre, dirección y teléfono en la Póliza de
+
+Garantía y llevarla siempre en la
+
+ESPECIFICACIÓN
+
+Dimensiones
+
+Modelo
+
+Dimensión largo x ancho x alto
+
+Distancia entre ejes
+
+Peso
+
+Carga máxima (conductor y pasajero)
+
+Tipo
+
+Sistema de enfriamiento
+
+Potencia del motor
+
+Torque máximo
+
+Modo de arranque
+
+Volumen de desplazamiento
+
+Modo de ignición
+
+Fusible
+
+Batería
+
+Sistema
+
+eléctrico
+
+Motor
+
+2,050 x 685 x 1,075 mm
+
+1,360 mm
+
+140 kg (308 lbs)
+
+150 kg (330 lbs)
+
+4 tiempos
+
+Líquido
+
+26.9 @ 8,500 Hp/rpm
+
+24.4 @ 7,000 Nm/rpm (17.7 lbs.ft)
+
+Eléctrico
+
+292 cc
+
+20 A
+
+12 V, 7 Ah
+
+Capacidad de
+
+carga
+
+DATOS TÉCNICOS
+
+DATOS TÉCNICOS
+
+ESPECIFICACIÓN
+
+Capacidad de combustible
+
+y aceite
+
+Freno delantero
+
+Freno trasero
+
+Volumen del tanque de combustible
+
+Volumen del aceite del motor
+
+Llanta trasera
+
+Llanta delantera
+
+Presión llanta delantera en carretera (en frío)
+
+Presión llanta trasera en carretera (en frío)
+
+Estándar
+
+Transmisión
+
+Disco
+
+Disco
+
+15 litros
+
+150/60-R17
+
+110/70-R17
+
+30 psi
+
+32 psi
+
+6 velocidades
+
+Presión llanta delantera todo terreno (en frío)
+
+Presión llanta trasera todo terreno (en frío)
+
+30 psi
+
+28 psi
+
+Frenos
+
+Llantas
+
+1.3 litros
+
+M 25 x 1
+
+M 6 x 1.0
+
+M 12 x 1.25
+
+M 16 x 1.5
+
+M 10 x 1.25
+
+M 8 x 1.25
+
+Tornillos y tuercas de 8 mm
+
+Tornillos y tuercas de 10 mm
+
+Tornillos y tuercas de 12 mm
+
+70-80 N-m (51.62-59 lbs.ft)
+
+10±1 N-m (7.38±0.74 lbs.ft)
+
+81±8 N-m (59.74±5.9 lbs.ft)
+
+90-100 N-m (66.38-73.75 lbs.ft)
+
+40-50 N-m (29.50-36.87 lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs.ft)
+
+18-25 N-m (13.27-18.43 lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs.ft)
+
+40-50 N-m (29.50-36.87 lbs.ft)
+
+Tornillos y tuercas de 6 mm
+
+8-12 N-m (5.9-8.85 lbs.ft)
+
+Tornillos y tuercas de 5 mm
+
+4.5-6 N-m (3.31-4.42 lbs.ft)
+
+Tornillos hexagonales de 6 mm
+
+Tornillos hexagonales de 8 mm
+
+Tornillos hexagonales de 10 mm
+
+10-15 N-m (7.38-11.06 lbs.ft)
+
+20-30 N-m (14.75-22.12 lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs. ft)
+
+MÉXICO
+
+PANAMÁ
+
+PERÚ
+
+Ahogador
+
+Shock
+
+Shock
+
+Estrangulador
+
+Arnés
+
+Arnés
+
+Arnés
+
+Ramal
+
+Balatas
+
+Pastillas
+
+Pastillas
+
+Pastillas
+
+Balero
+
+Cagineto
+
+Balinero
+
+Rodaje
+
+Bujía
+
+Candela
+
+Candela
+
+Bujía
+
+Calavera (lámpara trasera)
+
+Stop
+
+Stop
+
+Faro
+
+Chicote
+
+Cable
+
+Cable
+
+Cable
+
+Claxon
+
+Bocina
+
+Bocina/Pito
+
+Claxon
+
+Clutch
+
+Embrague
+
+Clutch
+
+Clutch
+
+Cuadro
+
+Chasis
+
+Cuadro
+
+Chasis
+
+Direccionales
+
+Pidevías
+
+Vías
+
+Direccionales
+
+Empaque
+
+Empaque
+
+Empaque
+
+Empaquetadura
+
+Engrane
+
+Engranaje
+
+Engranaje
+
+Engrane
+
+Alternador
+
+Alternador
+
+Estator
+
+Alternador
+
+Horquilla
+
+Horquilla
+
+Horquilla
+
+Telescópica
+
+Llanta
+
+Llanta
+
+Llanta
+
+Llanta
+
+Manubrio
+
+Timón
+
+Manubrio
+
+Timón
+
+Parador central
+
+Parador central
+
+Parador central
+
+Parador central
+
+Parador lateral
+
+Parador lateral
+
+Parador lateral
+
+Parador lateral
+
+Rin
+
+Llanta
+
+Llanta
+
+Llanta
+
+Salpicadera
+
+Lodera
+
+Guardafango
+
+Tapabarro
+
+Zapatas
+
+Zapatas
+
+Fricciones
+
+Zapatas
+
+Engrane ﬁnal
+
+Engrane ﬁnal
+
+Engrane ﬁnal
+
+Catalina
+
+Schock
+
+Arnés
+
+Pastillas
+
+Cagineto
+
+Candela
+
+Estop
+
+Cable
+
+Bocina
+
+Embrague
+
+Chasis
+
+Pidevías
+
+Empaque
+
+Engranaje
+
+Estator
+
+Horquilla
+
+Llanta
+
+Timón
+
+Parador central
+
+Parador lateral
+
+Llanta
+
+Lodera
+
+Zapatas
+
+Engrane ﬁnal
+
+MUVORT-X 300R-01
+
+Impreso en China
+
+COMERCIALIZADORA DE MOTOCICLETAS DE CALIDAD, S. A. de C. V.
+
+Av. Ferrocarril de Rio Frío 419 A90, Col. Cuchilla del Moral, C.P 09319, Alcaldía Iztapalapa, México CDMX

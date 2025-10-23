@@ -1,0 +1,72 @@
+# =======================================
+# MOTOFIX - FastAPI + OpenAI + Railway
+# =======================================
+
+# --- Entorno virtual y dependencias ---
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# --- Archivos del sistema ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Archivos temporales / logs ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# --- Archivos de configuración sensibles ---
+.env
+.env.*
+!.env.example        # Mantén un archivo de ejemplo visible
+.secret
+*.key
+*.pem
+
+# --- Configuración del editor / IDE ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Archivos de cache ---
+*.cache
+.pytest_cache/
+__pycache__/
+*.pkl
+*.db
+*.sqlite3
+*.npy
+*.npz
+
+# --- Archivos generados o temporales ---
+# (solo si prefieres regenerarlos en servidor)
+#manuales_txt/
+#vectores/
+
+# --- Compilaciones JS/CSS (si usas frontend en Vercel/Netlify) ---
+web/node_modules/
+web/package-lock.json
+web/yarn.lock
+
+# --- Configuración de OS ---
+ehthumbs.db
+Icon?
+._*
+
+# --- Railway / Heroku runtime ---
+.railway/
+Procfile.windows

@@ -1,0 +1,1327 @@
+YZF-R15
+
+B12-F8199-S0
+
+Lea este manual atentamente antes de utilizar este
+
+vehículo.
+
+SAU46091
+
+Lea este manual atentamente antes de utilizar este vehículo. Este manual debe acompañar al vehículo si este se vende.
+
+INTRODUCCIÓN
+
+SAU10103
+
+¡Bienvenido al mundo de las motocicletas Yamaha!
+
+Como propietario de una YZF-R15, se beneficia usted de la amplia experiencia de Yamaha y de la más avanzada tecnología en el diseño
+
+y la fabricación de productos de alta calidad que han dado a Yamaha su reputación de fiabilidad.
+
+Lea este manual en su totalidad para disfrutar de todas las ventajas de su YZF-R15. El manual del propietario no solo le enseñará cómo
+
+utilizar, revisar y mantener su motocicleta, sino además cómo protegerse a sí mismo y a otros de problemas y accidentes.
+
+Además, los numerosos consejos contenidos en este manual le ayudarán a mantener su motocicleta en las mejores condiciones posi bles. Si necesita cualquier aclaración adicional, no dude en ponerse en contacto con su concesionario Yamaha.
+
+El equipo de Yamaha le desea muchos paseos seguros y agradables. Recuerde, ¡la seguridad es lo primero!
+
+Yamaha mejora constantemente el diseño y la calidad de sus productos. Por tanto, aunque este manual contiene la información más
+
+actual en el momento de imprimirse, pueden existir pequeñas discrepancias entre su motocicleta y este manual. Si necesita cualquier
+
+aclaración relativa a este manual, consulte a su concesionario Yamaha.
+
+SWA10032
+
+Lea este manual atentamente y en su totalidad antes de utilizar esta motocicleta.
+
+INFORMACIÓN IMPORTANTE RELATIVA AL MANUAL
+
+SAU10134
+
+En este manual, la información particularmente importante se distingue mediante las siguientes anotaciones:
+
+El producto y las especificaciones pueden cambiar sin previo aviso.
+
+Este es el símbolo de aviso de seguridad. Se utiliza para avisarle de un posible peligro de da ños personales. Obedezca todos los mensajes de seguridad que siguen a este símbolo para
+
+evitar posibles daños personales o un accidente mortal.
+
+ADVERTENCIA indica una situación peligrosa que, de no evitarse, puede ocasionar un acci dente mortal o daños personales graves.
+
+ATENCIÓN indica precauciones especiales que se deben adoptar para evitar que el vehículo
+
+u otros bienes resulten dañados.
+
+NOTA proporciona información clave para facilitar o clarificar los procedimientos.
+
+ATENCIÓN
+
+INFORMACIÓN IMPORTANTE RELATIVA AL MANUAL
+
+SAUE0011
+
+YZF-R15 (B121)
+
+©2014 India Yamaha Motor Pvt. Ltd.
+
+1ª edición, abril 2014
+
+Todos los derechos reservados.
+
+Toda reimpresión o uso no autorizado
+
+sin el consentimiento escrito de
+
+India Yamaha Motor Pvt. Ltd.
+
+quedan expresamente prohibidos.
+
+Impreso en India.
+
+INFORMACIÓN RELATIVA A LA
+
+Interruptor principal/Bloqueo de la
+
+Sistema de corte del circuito de
+
+PARA SU SEGURIDAD –
+
+UTILIZACIÓN Y PUNTOS
+
+Consejos para reducir el consumo
+
+Cuadro de mantenimiento
+
+periódico del sistema de control
+
+Cuadro general de mantenimiento
+
+Desmontaje y montaje del
+
+Ajuste del juego libre del puño del
+
+Ajuste del juego libre de la
+
+Comprobación de las pastillas de
+
+Comprobación del nivel de
+
+Juego de la cadena de
+
+Limpieza y engrase de la cadena
+
+Comprobación y engrase de los
+
+Comprobación y engrase del
+
+puño del acelerador y la
+
+Comprobación y engrase de los
+
+Comprobación y engrase de las
+
+manetas de freno y
+
+Comprobación y engrase del
+
+Lubricado de los pivotes del
+
+Comprobación de la horquilla
+
+Comprobación de los cojinetes
+
+Cambio de una bombilla del
+
+Cambio de la bombilla de un
+
+Cambio de la bombilla de una luz
+
+Cuadros de identificación de
+
+INFORMACIÓN PARA EL
+
+1-1
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+SAU1028B
+
+Sea un propietario responsable
+
+Como propietario del vehículo, es usted
+
+responsable de su funcionamiento seguro
+
+y adecuado.
+
+Las motocicletas son vehículos de dos rue das.
+
+La seguridad de su uso y funcionamiento
+
+depende de la aplicación de las técnicas de
+
+conducción apropiadas, así como de la ha bilidad del conductor. Todo conductor
+
+debe conocer los requisitos siguientes an tes de conducir esta motocicleta.
+
+Debe: Obtener instrucciones completas de
+
+una fuente competente sobre todos
+
+los aspectos del funcionamiento de la
+
+motocicleta.
+
+Observar las advertencias y los requi sitos de mantenimiento que se indican
+
+en el presente Manual del propietario.
+
+Obtener una formación cualificada en
+
+las técnicas de conducción seguras y
+
+apropiadas.
+
+Obtener un servicio técnico profesio nal según se indica en el presente Ma nual del propietario o cuando las
+
+condiciones mecánicas así lo requie ran.
+
+Nunca conduzca una motocicleta sin
+
+la formación o la instrucción adecua da. Realice un curso de formación.
+
+Los principiantes deben recibir forma ción por parte de un instructor titula do. Póngase en contacto con un
+
+concesionario autorizado de motoci cletas para obtener información sobre
+
+los cursos de formación más cerca nos a su zona.
+
+Seguridad en la conducción
+
+Realice las comprobaciones previas cada
+
+vez que vaya a utilizar el vehículo para estar
+
+seguro de que se encuentra en condicio nes seguras de funcionamiento. Si no revi sa o mantiene el vehículo correctamente
+
+aumentarán las posibilidades de accidente
+
+daños materiales. Consulte en la página
+
+4-1 el listado de comprobaciones previas.
+
+Esta motocicleta está diseñada para
+
+llevar al conductor y un pasajero.
+
+La mayor parte de los accidentes de
+
+tráfico entre coches y motocicletas se
+
+deben al hecho de que el conductor
+
+del coche no ha detectado ni recono cido a la motocicleta. Muchos acci dentes se han producido porque el
+
+conductor del coche no ha visto la
+
+motocicleta. Una medida muy eficaz
+
+para reducir las posibilidades de este
+
+tipo de accidente es el hacerse bien
+
+visible.
+
+Por tanto: Lleve una chaqueta de color brillan-
+
+te.
+
+Sea especialmente prudente al
+
+aproximarse a cruces y pasarlos, ya
+
+que los cruces son los lugares en
+
+los que se producen accidentes de
+
+motocicleta con mayor frecuencia.
+
+Circule por donde los otros con ductores puedan verle. Evite per manecer en los ángulos sin visión
+
+de otros conductores.
+
+Nunca realice el mantenimiento de
+
+una motocicleta sin los conoci mientos adecuados. Póngase en
+
+contacto con un concesionario au torizado de motocicletas para que
+
+le informe acerca del mantenimien to básico de la motocicleta. Única mente
+
+el
+
+personal
+
+certificado
+
+puede llevar a cabo determinados
+
+tipos de mantenimiento.
+
+En muchos accidentes están implica dos conductores inexpertos. De he cho, muchos conductores que han
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-2
+
+estado implicados en accidentes ni si quiera tienen un permiso de conducir
+
+motocicletas vigente.
+
+No conduzca sin estar cualificado y
+
+no preste su motocicleta a perso nas que no lo estén.
+
+Conozca sus capacidades y sus lí mites. El hecho de permanecer
+
+dentro de sus límites le ayudará a
+
+evitar un accidente.
+
+Le recomendamos que practique
+
+en un lugar donde no haya tráfico
+
+hasta que se haya familiarizado
+
+completamente con la motocicleta
+
+y todos sus mandos.
+
+Muchos accidentes se han debido a
+
+un error del conductor de la motoci cleta. Un error típico consiste en abrir se demasiado en una curva a causa
+
+del exceso de velocidad o el subviraje
+
+(ángulo de ladeo insuficiente para la
+
+velocidad).
+
+Respete siempre el límite de veloci dad y no circule nunca más rápido
+
+de lo que resulte adecuado según
+
+el estado de la calzada y el tráfico.
+
+Señale siempre antes de girar o
+
+cambiar de carril. Cerciórese de
+
+que los otros conductores puedan
+
+verle.
+
+La postura del conductor y del pasa jero es importante para poder mante ner un control adecuado.
+
+Para mantener el control de la mo tocicleta durante la marcha, el con ductor debe
+
+mantener ambas
+
+manos en el manillar y ambos pies
+
+en las estriberas.
+
+El pasajero debe sujetarse siempre
+
+al conductor, a la correa del asiento
+
+al asidero con las dos manos y
+
+mantener ambos pies en las estri beras del pasajero. No lleve nunca
+
+a un pasajero que no pueda mante ner firmemente ambos pies en las
+
+estriberas.
+
+No conduzca nunca bajo los efectos
+
+del alcohol u otras drogas.
+
+Esta motocicleta está diseñada única mente para circular en calle/carretera.
+
+No es adecuado para caminos.
+
+Protección personal
+
+La mayoría de las muertes en accidentes
+
+de motocicleta se producen por lesiones
+
+en la cabeza. El uso de un casco de segu ridad es esencial en la prevención o reduc ción de las lesiones en la cabeza.
+
+Utilice siempre un casco homologa do.
+
+Utilice una máscara o gafas. El viento
+
+en los ojos sin proteger puede reducir
+
+la visión y retrasar la percepción de un
+
+peligro.
+
+El uso de una chaqueta, botas, panta lones y guantes resistentes, etc., re sulta eficaz para prevenir o reducir las
+
+abrasiones o laceraciones.
+
+No lleve nunca prendas amplias que
+
+puedan engancharse en los mandos,
+
+las estriberas o en las ruedas y provo car lesiones o un accidente.
+
+Utilice siempre ropa protectora que le
+
+cubra las piernas, los tobillos y los
+
+pies. El motor y el sistema de escape
+
+están muy calientes durante la mar cha o después y pueden provocar
+
+quemaduras.
+
+El pasajero debe observar también las
+
+precauciones indicadas anteriormen te.
+
+Evite el envenenamiento por monóxido
+
+de carbono
+
+Los gases de escape del motor contienen
+
+monóxido de carbono, un gas letal. La in halación de monóxido de carbono puede
+
+provocar dolores de cabeza, mareo, som nolencia, nauseas, confusión y, por último,
+
+la muerte.
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-3
+
+El monóxido de carbono es un gas incolo ro, inodoro e insípido que puede estar pre sente aunque no se vea ni se huela nada
+
+procedente del escape del motor. Se pue den acumular en tiempo muy breve niveles
+
+letales de monóxido de carbono que le
+
+postrarán rápidamente y le impedirán sal varse. Asimismo, en lugares cerrados o mal
+
+ventilados pueden mantenerse niveles leta les de monóxido de carbono durante horas
+
+días. Si nota cualquier síntoma de enve nenamiento por monóxido de carbono
+
+abandone el lugar inmediatamente, respire
+
+aire fresco y SOLICITE TRATAMIENTO
+
+MÉDICO.
+
+No ponga el motor en marcha en un
+
+lugar cerrado. Aunque intente eliminar
+
+los gases de escape con extractores o
+
+ventanas y puertas abiertas, el mo nóxido de carbono puede alcanzar rá pidamente niveles peligrosos.
+
+No ponga en marcha el motor en luga res mal ventilados o parcialmente ce rrados como cobertizos, garajes o
+
+cocheras.
+
+No ponga en marcha el motor en el
+
+exterior cuando los gases de escape
+
+puedan penetrar en un edificio a tra vés de aberturas como ventanas y
+
+puertas.
+
+Carga
+
+La incorporación de accesorios o carga
+
+que modifiquen la distribución del peso de
+
+la motocicleta puede reducir su estabilidad
+
+y manejabilidad. Para evitar la posibilidad
+
+de un accidente, tenga mucho cuidado al
+
+añadir carga o accesorios a la motocicleta.
+
+Si ha añadido carga o accesorios a la mo tocicleta, conduzca con mucha precau ción.
+
+continuación,
+
+además
+
+de
+
+información sobre accesorios, exponemos
+
+algunas reglas generales que se deben ob servar en caso de cargar equipaje o añadir
+
+accesorios a la motocicleta: El peso total del conductor, el pasajero, los
+
+accesorios y el equipaje no debe superar la
+
+carga máxima. La utilización de un vehí culo sobrecargado puede ocasionar un
+
+accidente.
+
+Cuando lo cargue dentro de este límite de
+
+peso, tenga en cuenta lo siguiente:
+
+El peso del equipaje y los accesorios
+
+debe mantenerse lo más bajo y cerca
+
+posible de la motocicleta. Sujete bien
+
+los objetos más pesados lo más cerca
+
+posible del centro del vehículo y distri buya el peso lo más uniformemente
+
+posible en ambos lados de la motoci cleta a fin de reducir al mínimo el des equilibrio o la inestabilidad.
+
+El desplazamiento de pesos puede
+
+crear un desequilibrio repentino. Veri fique que los accesorios y la carga es tén bien sujetos a la motocicleta antes
+
+de iniciar la marcha. Compruebe con
+
+frecuencia las fijaciones de los acce sorios y las sujeciones de la carga.
+
+Ajuste correctamente la suspen sión en función de la carga que lle ve (únicamente en los modelos con
+
+suspensión ajustable) y compruebe
+
+el estado y la presión de los neumá ticos.
+
+No sujete nunca objetos grandes o
+
+pesados al manillar, la horquilla de lantera o el guardabarros delantero.
+
+Tales objetos, como por ejemplo
+
+sacos de dormir, bolsas de lona o
+
+tiendas de campaña, pueden crear
+
+inestabilidad en el manejo o dismi nuir la respuesta de la dirección.
+
+Este vehículo no está diseñado
+
+para arrastrar un remolque aco plarle un sidecar.
+
+Carga máxima: 194 kg (428 lb)
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-4
+
+Accesorios originales Yamaha
+
+La elección de los accesorios para el vehí culo es una decisión importante. Los acce sorios originales Yamaha que se pueden
+
+adquirir únicamente en los concesionarios
+
+Yamaha han sido diseñados, probados y
+
+aprobados por Yamaha para su vehículo.
+
+Muchas
+
+empresas
+
+sin
+
+relación
+
+con
+
+Yamaha fabrican repuestos y accesorios u
+
+frecen otras modificaciones para vehícu los Yamaha. Yamaha no puede probar los
+
+productos que fabrican estas empresas.
+
+Por tanto, Yamaha no puede respaldar ni
+
+recomendar el uso de accesorios no vendi dos por Yamaha ni modificaciones no re comendadas
+
+específicamente
+
+por
+
+Yamaha, incluso si las vende e instala un
+
+concesionario Yamaha.
+
+Repuestos, accesorios y modificaciones
+
+no originales
+
+Aunque algunos productos no originales
+
+pueden tener un diseño y una calidad simi lares a los accesorios originales Yamaha,
+
+debe tener presente que algunos de estos
+
+accesorios no originales o modificaciones
+
+no resultan adecuados debido a la posibili dad de que representen un peligro para us ted u otras personas. La instalación de
+
+productos no originales o las modificacio nes realizadas en su vehículo que alteren
+
+su diseño o sus características de funcio namiento pueden representar, para usted y
+
+tras personas, un peligro de daños perso nales graves o un accidente mortal. Es us ted responsable de los daños personales
+
+relacionados con la alteración del vehículo.
+
+Cuando instale accesorios, tenga en cuen ta las recomendaciones siguientes, así
+
+como las que se facilitan en el apartado
+
+“Carga”.
+
+No instale nunca accesorios o lleve
+
+carga que puedan afectar a las pres taciones de la motocicleta. Revise
+
+cuidadosamente el accesorio antes
+
+de utilizarlo, a fin de cerciorarse de
+
+que de ningún modo reduzca la dis tancia al suelo ni el ángulo de inclina ción, ni limite el recorrido de la
+
+suspensión, el recorrido de la direc ción o el funcionamiento de los man dos ni obstaculice las luces o
+
+reflectores.
+
+Los accesorios montados en el ma nillar o en la zona de la horquilla de lantera pueden crear inestabilidad
+
+por distribución de peso inadecua da o alteraciones aerodinámicas.
+
+Se debe limitar al máximo el núme ro de accesorios montados en el
+
+manillar o en la zona de la horquilla
+
+delantera y tales accesorios debe rán ser lo más ligeros posible.
+
+Los accesorios voluminosos o
+
+grandes pueden afectar gravemen te a la estabilidad de la motocicleta
+
+por sus efectos aerodinámicos. La
+
+motocicleta puede adquirir una ten dencia a levantarse por efecto del
+
+viento de frente o hacerse inestable
+
+con viento de costado. Estos acce sorios, asimismo, pueden provocar
+
+inestabilidad al adelantar o ser ade lantado por vehículos de gran ta maño.
+
+Algunos accesorios pueden obligar
+
+al conductor a desplazarse de su
+
+posición normal de conducción.
+
+Esta posición inadecuada limita la
+
+libertad de movimiento del conduc tor y puede limitar su capacidad de
+
+control; por tanto, no se recomien dan tales accesorios.
+
+Tenga cuidado al añadir accesorios
+
+eléctricos. Si los accesorios eléctricos
+
+superan la capacidad del sistema
+
+eléctrico de la motocicleta puede pro ducirse una avería eléctrica, la cual
+
+puede provocar el apagado de las lu ces o la pérdida de potencia del mo tor, con el consiguiente peligro.
+
+INFORMACIÓN RELATIVA A LA SEGURIDAD
+
+1-5
+
+Neumáticos y llantas no originales
+
+Los neumáticos y llantas con los que se en trega la motocicleta han sido diseñados
+
+conforme a las prestaciones de la misma y
+
+para aportar la combinación óptima de ma nejabilidad, frenada y confort. Es posible
+
+que otros neumáticos, llantas, medidas y
+
+combinaciones no resulten adecuados.
+
+Consulte en la página 6-17 las especifica ciones de los neumáticos e información
+
+adicional sobre su sustitución.
+
+Transporte de la motocicleta
+
+Asegúrese de seguir las instrucciones si guientes antes de transportar la motocicle ta en otro vehículo.
+
+Retire cualquier elemento suelto de la
+
+motocicleta.
+
+Compruebe que el grifo de gasolina
+
+(en caso pertinente) está en la posi ción “OFF” y que no hay fugas de
+
+combustible.
+
+Oriente la rueda delantera en línea
+
+recta al remolque o a la caja del ca mión y bloquéela en un canal para evi tar el movimiento.
+
+Ponga una marcha (para modelos con
+
+transmisión manual).
+
+Asegure la motocicleta con sujecio nes o correas adecuadas fijadas a
+
+piezas sólidas de la motocicleta,
+
+como el bastidor o la brida triple de la
+
+horquilla superior delantera (y no, por
+
+ejemplo, los manillares montados en
+
+goma, los intermitentes o cualquier
+
+pieza que pudiera romperse). Elija la
+
+ubicación de las correas con deteni miento para evitar que generen fric ción y rayen las superficies pintadas
+
+durante el transporte.
+
+Si es posible, la suspensión debería
+
+estar comprimida en parte mediante
+
+las sujeciones, para que la motocicle ta no rebote excesivamente durante el
+
+transporte.
+
+DESCRIPCIÓN
+
+2-1
+
+SAU10411
+
+Vista izquierda
+
+1. Depósito de líquido refrigerante (página 6-13)
+
+2. Batería (página 6-29)
+
+3. Fusible (página 6-31)
+
+4. Juego de herramientas del propietario (página 6-1)
+
+5. Pedal de cambio (página 3-5)
+
+6. Tornillo de ajuste del ralentí (página 6-16)
+
+DESCRIPCIÓN
+
+2-2
+
+SAU10421
+
+Vista derecha
+
+1. Depósito de líquido del freno delantero (página 6-21)
+
+2. Filtro de aceite del motor (página 6-11)
+
+3. Varilla de medición (página 6-11)
+
+4. Depósito de líquido del freno trasero (página 6-21)
+
+5. Pedal de freno (página 3-6)
+
+DESCRIPCIÓN
+
+2-3
+
+SAU10431
+
+Mandos e instrumentos
+
+ZAUE0765
+
+1. Maneta de embrague (página 3-5)
+
+2. Interruptores del lado izquierdo del manillar (página 3-4)
+
+3. Visor multifunción (página 3-3)
+
+4. Interruptor principal/Bloqueo de la dirección (página 3-1)
+
+5. Tacómetro (página 3-3)
+
+6. Interruptores del lado derecho del manillar (página 3-4)
+
+7. Puño del acelerador (página 6-16)
+
+8. Maneta de freno (página 3-6)
+
+3-1
+
+SAU10462
+
+Interruptor principal/Bloqueo de
+
+la dirección
+
+El interruptor principal/bloqueo de la direc ción controla los sistemas de encendido y
+
+luces y se utiliza para bloquear la dirección.
+
+A continuación se describen las diferentes
+
+posiciones.
+
+SAUE2360
+
+ON (ABIERTO)
+
+Todos los sistemas eléctricos reciben ten sión; el faro, la luz de la instrumentación, el
+
+piloto trasero, la luz de posición y la luz de
+
+la matrícula se encienden y se puede arran car el motor. La llave no se puede extraer.
+
+SAU10662
+
+DESCONECTADO (OFF)
+
+Todos los sistemas eléctricos están desac tivados. Se puede extraer la llave.
+
+SWA10062
+
+No gire nunca la llave a la posición
+
+“OFF” o “LOCK” con el vehículo en mar cha. De lo contrario, el sistema eléctrico
+
+se desconectará y puede perder el con trol o sufrir un accidente.
+
+SAU10693
+
+BLOQUEADO (LOCK)
+
+La dirección está bloqueada y todos los
+
+sistemas eléctricos están desactivados. Se
+
+puede extraer la llave.
+
+Para bloquear la dirección
+
+1. Gire el manillar completamente a la iz quierda o a la derecha.
+
+2. Empuje la llave hacia dentro desde la
+
+posición “OFF” y luego gírela a la po sición “LOCK” sin dejar de empujarla.
+
+3. Extraiga la llave.
+
+Para desbloquear la dirección
+
+Empuje la llave en el interruptor principal y
+
+luego gírela a la posición “OFF” sin dejar de
+
+empujarla.
+
+ZAUE0563
+
+1. Empujar.
+
+2. Girar.
+
+1. Empujar.
+
+2. Girar.
+
+3-2
+
+SAU49396
+
+Luces indicadoras y de aviso
+
+SAU11021
+
+Luz indicadora de intermitencia “
+
+”
+
+Esta luz indicadora parpadea cuando se
+
+empuja el interruptor de intermitencia hacia
+
+la izquierda o hacia la derecha.
+
+SAU11061
+
+Luz indicadora de punto muerto “
+
+”
+
+Esta luz indicadora se enciende cuando la
+
+transmisión se encuentra en posición de
+
+punto muerto.
+
+SAU11081
+
+Testigo de luces de carretera “
+
+”
+
+Este testigo se enciende cuando están co nectadas las luces de carretera.
+
+SAUM2296
+
+Luz de aviso de la temperatura del líqui do refrigerante “
+
+”
+
+Esta luz de aviso se enciende si el motor se
+
+recalienta. En ese caso, pare el motor in mediatamente y deje que se enfríe.
+
+El circuito eléctrico de la luz de aviso se
+
+puede comprobar girando la llave a la posi ción “ON”. La luz de aviso debe encender se durante unos segundos y luego
+
+apagarse.
+
+Si la luz de aviso no se enciende inicialmen te al girar la llave a la posición “ON” o si
+
+permanece encendida, haga revisar el cir cuito
+
+eléctrico
+
+en
+
+un
+
+concesionario
+
+Yamaha.
+
+ATENCIÓN
+
+SCA10022
+
+No mantenga en marcha el motor si se
+
+recalienta.
+
+En los vehículos equipados con venti lador del radiador, este se activa o
+
+desactiva automáticamente en fun ción de la temperatura del líquido re frigerante en el radiador.
+
+Si el motor se recalienta, consulte las
+
+instrucciones adicionales de la página
+
+6-40.
+
+SAUE0261
+
+Luz de aviso de avería del motor “
+
+”
+
+Esta luz de aviso se enciende o parpadea
+
+cuando se detecta un problema en el cir cuito eléctrico de control del motor. En ese
+
+caso, haga revisar el sistema de autodiag nóstico en un concesionario Yamaha.
+
+El circuito eléctrico de la luz de aviso se
+
+puede comprobar girando la llave a la posi ción “ON”. La luz de aviso debe encender se durante unos segundos y luego
+
+apagarse.
+
+Si la luz de aviso no se enciende inicialmen te al girar la llave a la posición “ON”, o si
+
+permanece encendida, haga revisar el cir cuito
+
+eléctrico
+
+en
+
+un
+
+concesionario
+
+Yamaha.
+
+1. Luz indicadora de punto muerto “
+
+”
+
+2. Luz indicadora de intermitencia “
+
+”
+
+3. Luz indicadora de la luz de carretera “
+
+”
+
+4. Luz de aviso de avería del motor “
+
+”
+
+5. Luz de aviso de la temperatura del líquido
+
+refrigerante “
+
+”
+
+km/h
+
+km mile
+
+ZAUE1289
+
+x 1000 r/min
+
+3-3
+
+SAU11873
+
+Tacómetro
+
+El tacómetro eléctrico permite al conductor
+
+vigilar el régimen del motor y mantenerlo
+
+dentro de los márgenes de potencia ade cuados.
+
+Al girar la llave a la posición “ON”, la aguja
+
+del tacómetro recorre una vez toda la esca la de r/min y luego vuelve a cero r/min a fin
+
+de probar el circuito eléctrico.
+
+ATENCIÓN
+
+SCA10032
+
+No utilice el motor en la zona roja del ta cómetro.
+
+Zona roja: a partir de 10500 r/min
+
+SAUE2370
+
+Visor multifunción
+
+SWA12313
+
+Asegúrese de parar el vehículo para ma nipular el visor multifunción. La manipu lación del visor multifunción durante la
+
+marcha puede distraer al conductor y
+
+casionar un accidente.
+
+El visor multifunción está provisto de los
+
+elementos siguientes: un velocímetro
+
+un cuentakilómetros
+
+dos cuentakilómetros parciales (que
+
+indican la distancia recorrida desde
+
+que se pusieron a cero por última vez)
+
+un cuentakilómetros parcial en reser va (que indica la distancia recorrida
+
+desde que se encendió la luz de aviso
+
+del nivel de gasolina)
+
+un indicador de gasolina
+
+Asegúrese de girar la llave a la posi ción “ON” antes de utilizar el botón
+
+“RESET/SELECT”.
+
+Para reiniciar un cuentakilómetros
+
+parcial, pulse el botón “RESET/SE LECT” durante al menos dos segun dos.
+
+Modos cuentakilómetros y cuentakiló metros parcial
+
+Pulsando brevemente (menos de un se gundo) el botón “RESET/SELECT” la indi cación cambia entre cuentakilómetros
+
+“ODO” y cuentakilómetros parcial “TRIP 1”
+
+y “TRIP 2” en el orden siguiente:
+
+ODO → TRIP 1 → TRIP 2 → ODO
+
+Cuando quedan aproximadamente 2.6 L
+
+(0.69 US gal, 0.57 Imp.gal) de gasolina en
+
+el depósito, la indicación cambia automáti camente a cuentakilómetros parcial en re serva “F-TRIP”, se inicia el recuento de la
+
+distancia recorrida desde ese punto y el úl timo segmento del indicador de gasolina
+
+comienza a parpadear. Después de repos 1. Tacómetro
+
+2. Zona roja del tacómetro
+
+km/h
+
+km mile
+
+ZAUE1290
+
+x 1000 r/min
+
+1. Visor multifunción
+
+2. Botón “RESET/SELECT”
+
+km/h
+
+km mile
+
+ZAUE1291
+
+x 1000 r/min
+
+3-4
+
+tar y recorrer 5 km (3 mi), el cuentakilóme tros parcial en reserva de gasolina se
+
+reinicia automáticamente y se restablece la
+
+indicación anterior.
+
+Indicador de gasolina
+
+El indicador de gasolina indica la cantidad
+
+de gasolina que contiene el depósito. Los
+
+segmentos del indicador desaparecen ha cia la “E” (vacío) a medida que disminuye el
+
+nivel de gasolina. Cuando el último seg mento del indicador de gasolina empiece a
+
+parpadear, ponga gasolina lo antes posi ble.
+
+SAU1234H
+
+Interruptores del manillar
+
+Izquierda
+
+Derecha
+
+SAU12361
+
+Interruptor de ráfagas “PASS”
+
+Pulse este interruptor para hacer ráfagas.
+
+SAUE0351
+
+Conmutador de la luz de
+
+cruce/carretera “
+
+”
+
+Sitúe el conmutador en “
+
+” para encen der la luz de carretera y en “
+
+” para en cender la luz de cruce.
+
+Cuando el interruptor se sitúa en la posi ción de luz de cruce solamente se enciende
+
+la bombilla izquierda del faro. Cuando el in terruptor se sitúa en la posición de luz de
+
+carretera se encienden las dos bombillas.
+
+SAU12461
+
+Interruptor de intermitencia “
+
+”
+
+Para señalar un giro a la derecha pulse este
+
+interruptor hacia la posición “
+
+”. Para se ñalar un giro a la izquierda pulse este inte rruptor hacia la posición “
+
+”. Cuando lo
+
+suelte, el interruptor volverá a su posición
+
+central. Para apagar los intermitentes pulse
+
+el interruptor una vez éste haya regresado
+
+a su posición central.
+
+SAU12501
+
+Interruptor de la bocina “
+
+”
+
+Pulse este interruptor para hacer sonar la
+
+bocina.
+
+1. Indicador de gasolina
+
+km/h
+
+km mile
+
+ZAUE1292
+
+x 1000 r/min
+
+1. Interruptor de ráfagas “PASS”
+
+2. Conmutador de la luz de “
+
+”
+
+3. Interruptor de intermitencia “
+
+”
+
+4. Interruptor de la bocina “
+
+”
+
+1. Interruptor de paro del motor “
+
+”
+
+2. Interruptor de arranque “
+
+”
+
+ZAUE0570
+
+ZAUE0766
+
+3-5
+
+SAU12661
+
+Interruptor de paro del motor “
+
+”
+
+Sitúe este interruptor en “
+
+” antes de
+
+arrancar el motor. Sitúe este interruptor
+
+en “
+
+” para parar el motor en caso de
+
+emergencia, por ejemplo si el vehículo
+
+vuelca o se atasca el cable del acelerador.
+
+SAU12713
+
+Interruptor de arranque “
+
+”
+
+Pulse este interruptor para poner en mar cha el motor con el arranque eléctrico.
+
+Véanse las instrucciones de arranque en la
+
+página 5-1 antes de arrancar el motor.
+
+SAU31641
+
+Maneta de embrague
+
+La maneta de embrague está situada en el
+
+puño izquierdo del manillar. Para desem bragar tire de la maneta hacia el puño del
+
+manillar. Para embragar suelte la maneta.
+
+Para que el embrague funcione con suavi dad, debe tirar de la maneta rápidamente y
+
+soltarla lentamente.
+
+La maneta de embrague está dotada de un
+
+interruptor de embrague que forma parte
+
+del sistema de corte del circuito de arran que. (Véase la página 3-12).
+
+SAU12872
+
+Pedal de cambio
+
+El pedal de cambio está situado al lado iz quierdo de la motocicleta y se utiliza en
+
+combinación con la maneta de embrague
+
+para cambiar las marchas de la caja de
+
+cambios de 6 velocidades y engrane cons tante de la que está dotada esta motocicle ta.
+
+1. Maneta de embrague
+
+ZAUE0572
+
+1. Pedal de cambio
+
+ZAUE1293

@@ -1,0 +1,2791 @@
+1.- Revisar el nivel de combustible. Consultar página 20.
+
+2.- *Revisar que la válvula de combustible se encuentre en abierto.
+
+3.- *Revisar que el interruptor cortacorriente se encuentre en posición ON.
+
+4.- Colocar la llave en el interruptor de encendido y girarla a la posición ON .. Consultar página 14.
+
+5.- *Colocar el ahogador en posición de abierto.
+
+6.- Oprimir la palanca del freno delantero y/o trasero al encender el motor.
+
+7.- *Oprimir la palanca del embrague y/o veriﬁcar que el pedal de cambio de velocidades esté en
+
+punto neutro al encender el motor.
+
+8.- *Si no da marcha el motor, enciende la italika con el pedal de arranque.
+
+En los casos que aplique.
+
+Si después de realizar estos procedimientos tu italika no arranca,
+
+acude a tu Centro de Servicio Autorizado ITALIKA más cercano.
+
+Manual de Usuario
+
+Estimado Usuario: Gracias por la confianza al haber elegido una italika WS150.
+
+Tu nueva italika modelo WS150 cuenta con un motor de 4 tiempos de 149.6 cc y encendido electrónico, que le permiten un gran
+
+desempeño con bajo consumo de gasolina.
+
+Esperamos que cumpla con tus expectativas, te enviamos los mejores deseos y que disfrutes tu nueva italika WS150.
+
+ÍNDICE
+
+YO SÍ CUIDO MI ITALIKA
+
+UBICACIÓN DE PARTES
+
+Vista Superior Delantera
+
+Controles del Mando Derecho
+
+Controles del Mando Izquierdo
+
+Interruptor de Encendido y Bloqueo
+
+Lado Izquierdo
+
+Pedal de Arranque
+
+Parador Lateral y Central
+
+Lado Derecho
+
+Tablero de Instrumentos
+
+Número de Identificación Vehicular
+
+(NIV) y Número del Motor
+
+REVISIONES PERIÓDICAS
+
+Agregar Gasolina
+
+Nivel de Aceite del Motor
+
+Cambio de Aceite del Motor
+
+Limpieza de Bujía
+
+Filtro de Aire
+
+Ajuste del Puño del Acelerador
+
+Desgaste del Freno Delantero
+
+Desgaste del Freno Trasero
+
+Ajuste de la Palanca del Freno Trasero
+
+Nivel del Líquido de Freno Delantero
+
+Completar el Nivel del Líquido de Freno Delantero
+
+Batería
+
+Cambio del Fusible
+
+Llantas
+
+Lavado
+
+Cuidado de la Pintura
+
+Cuidado del Asiento
+
+REVISIÓN ANTES DE MANEJAR
+
+Encender el Motor
+
+Encender el Motor con Pedal de Arranque
+
+Apagar el Motor
+
+Motor Ahoghado
+
+Bloquear la Dirección
+
+Volver a Usar
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Equipo de Protección
+
+Carga de Pasajeros o Mercancía
+
+Condiciones del Camino
+
+Días Lluviosos
+
+Modificación del Diseño
+
+Conducción y Alcohol
+
+Recomendaciones de Conducción
+
+Postura para el Manejo
+
+Cuidados para Evitar Robo
+
+DATOS TÉCNICOS
+
+Las palabras Atención y Nota se refieren a información importante, por lo que debes revisarla con cuidado.
+
+Atención: Se refiere a que la seguridad del conductor y/o del pasajero está en peligro. El ignorar esta información puede ocasionarles lesiones
+
+graves.
+
+Nota: Se refiere a procedimientos y precauciones especiales que se deben seguir para evitar daños a tu italika WS150. Además, hacen
+
+que el mantenimiento sea más fácil y las instrucciones más claras.
+
+Nota ecológica: Cuidemos nuestro ambiente.
+
+En ITALIKA estamos creciendo y ahora nuestras italikas se venden en México, Guatemala, Honduras, Brasil, Panamá y Perú. Para un
+
+mejor entendimiento de este manual se ha agregado una tabla con los términos impresos y su equivalencia para cada uno de los
+
+países antes mencionados. Ver página 42.
+
+Para evitar contratiempos, antes de utilizar tu italika WS150 revisa que todas sus partes y componentes estén en perfectas condiciones.
+
+Este manual contiene información importante acerca del manejo de tu italika WS150; además de consejos para su cuidado e
+
+información relevante para tu seguridad, por lo que te recomendamos leerlo atentamente antes de empezar a utilizar tu italika
+
+WS150.
+
+El presente manual es un componente más de tu italika WS150, en caso de venderla, favor de entregarlo al nuevo propietario para
+
+que conozca todas sus características, tanto de funcionamiento como de mantenimiento.
+
+Para conservar la calidad de tu italika WS150 y evitar daños, accidentes o gastos innecesarios, visita tu Centro de Servicio
+
+Autorizado ITALIKA (CESIT). Busca la dirección del CESIT en www.italika.com.mx dentro del apartado “Encuentra tu centro
+
+de servicio”.
+
+Es posible que nosotros en el futuro realicemos cambios al modelo WS150, por lo que puede haber diferencia en las
+
+imágenes y en el contenido del manual sin previa notificación. La última versión del manual está disponible en línea en
+
+la dirección www.italika.com.mx
+
+RECUERDA, debes cumplir con el proceso de emplacamiento ante las autoridades correspondientes
+
+de tu país.
+
+YO SÍ CUIDO MI ITALIKA
+
+● Ahora que ya tienes tu nueva italika WS150 te recomendamos:
+
+► Realizarle los servicios en tiempo y forma. Ver Servicios de Mantenimiento página 29.
+
+► Revisar frecuentemente que funcione correctamente todo el sistema eléctrico (faro delantero, luz trasera, cuartos, direccionales
+
+traseras/delanteras, claxon e interruptor de arranque eléctrico).
+
+► No la repares tú mismo ya que puedes romper o deteriorar los componentes.
+
+► Revisar frecuentemente que no le falten piezas o que las tenga rotas o raspadas.
+
+► Reemplazar las piezas dañadas inmediatamente, no esperes a que se dañen más.
+
+► Durante el uso de tu italika WS150, inspecciona que el asiento esté en buenas condiciones.
+
+► Siempre utiliza refacciones originales ITALIKA para que tu italika WS150 esté en perfectas condiciones.
+
+Para comprar refacciones debes ingresar a la página www.italika.com.mx y dar clic en “Venta de Refacciones”.
+
+● Puedes encontrar la dirección del CESIT más cercano en: www.italika.com.mx dentro del apartado “Encuentra tu centro de
+
+servicio”.
+
+► Contamos con más de 700 Centros de Servicio concesionados siempre cerca de ti, en México, Guatemala, Honduras
+
+Brasil, Panamá y Perú, lo que nos permite:
+
+Atender tus necesidades.
+
+Asegurar que tu italika WS150 se mantenga en buenas condiciones.
+
+● La garantía es el derecho que tienes a que se te reconozcan los defectos o fallas del material por fabricación y/o ensamble,
+
+empleados en tu italika WS150. Este derecho se otorga a través de la Red de Centros de Servicio Autorizados ITALIKA (CESIT),
+
+siempre y cuando se cumpla con los términos y condiciones establecidos en la Póliza de Garantía.
+
+La Garantía es válida sólo si se han realizado los servicios (ver Servicios de Mantenimiento página 29) en el tiempo y kilometraje
+
+indicados y en los Centros de Servicio Autorizados ITALIKA. No realizar los servicios preventivos anula la garantía, sin
+
+responsabilidad para ITALIKA.
+
+La Garantía es válida sólo si se han cumplido satisfactoriamente con los términos y condiciones de asentamiento del motor.
+
+Ver Asentamiento del Motor página 10.
+
+Para hacer válida la Garantía, debes presentarte en el CESIT de tu elección con la italika WS150 y la Póliza de Garantía
+
+para que se realice el diagnóstico necesario y se levante el reporte correspondiente.
+
+● Puedes consultar la dirección del CESIT más cercano en: www.italika.com.mx dentro del apartado “Encuentra tu centro de servicio”.
+
+● Si tienes alguna duda comunícate con nosotros al teléfono:
+
+En México llámanos al teléfono 01800 ITALIKA (“4825452” línea gratuita).
+
+En Honduras llámanos al teléfono (800) 2559 8000.
+
+En Perú llámanos al teléfono 0800 51485.
+
+En Brasil llámanos al teléfono 0800 200 2323.
+
+En Guatemala llámanos al teléfono 1-801-0006686
+
+En Panamá contáctanos en www.italika.com.pa
+
+Obligaciones DEL CLIENTE
+
+● Como propietario tienes la obligación de presentar tu italika WS150 al CESIT de tu elección para que le realicen los servicios
+
+de mantenimiento y de esta forma conservar la Garantía: PRIMER SERVICIO
+
+A los 500 km ó 30 días (1 mes), lo que ocurra primero a partir de la fecha de venta.
+
+A los 2,000 km ó 90 días (3 meses), lo que ocurra primero a partir de la fecha de venta.
+
+A los 4,000 km ó 180 días (6 meses), lo que ocurra primero a partir de la fecha de venta.
+
+A los 6,000 km ó 270 días (9 meses), lo que ocurra primero a partir de la fecha de venta.
+
+A los 9,000 km ó 360 días (12 meses), lo que ocurra primero a partir de la fecha de venta.
+
+A los 12,000 km ó 450 días (15 meses), lo que ocurra primero a partir de la fecha de venta.
+
+EVITA PROBLEMAS EN TU ITALIKA WS150, NO ESPERES A QUE FALLE, LOS SERVICIOS SON PREVENTIVOS
+
+● No haber realizado modificación alguna a la italika WS150 sin previa autorización por escrito de ITALIKA.
+
+● Cumplir satisfactoriamente con los términos y condiciones de asentamiento del motor.
+
+● Revisar y/o ajustar los componentes de desgaste natural antes de encender la italika WS150 (nivel de aceite en el motor,
+
+presión del aire de las llantas, holgura de la cadena* y el desgaste de los frenos).
+
+● Cumplir con el proceso de emplacamiento ante las autoridades correspondientes.
+
+● Obedecer el reglamento de tránsito local.
+
+● Evitar cargar la italika WS150 con más de 150 kg (330 lbs).
+
+● Siempre utilizar casco, guantes y ropa brillante y de material grueso.
+
+● No manejar la italika WS150 si se ha ingerido alcohol o drogas.
+
+En los casos que aplique.
+
+Los primeros 3,000 km son el periodo de asentamiento del motor.
+
+Durante el asentamiento debes poner atención a los siguientes puntos: 1. Evitar cargar la italika WS150 con más de 150 kg (330 lbs), conductor y pasajero.
+
+2. Evitar subir pendientes que rebasen los 12 grados de inclinación.
+
+3. Acelerar suavemente y no dar más de 1/2 carrera al acelerador.
+
+4. No recorrer distancias continuas de más de 50 km (31 millas).
+
+5. Calentar el motor entre 1 y 3 minutos.
+
+6. No sobrepasar una velocidad de 50 km/h (31 millas/h).
+
+7. Revisar frecuentemente que el nivel de aceite del motor sea el correcto. Usar aceite ITALIKA. Ver Nivel de Aceite del
+
+Motor página 20.
+
+8. Hacer los servicios de mantenimiento descritos en la Póliza de Garantía. Ver Servicios de Mantenimiento, página 29.
+
+La garantía es válida sólo si se han cumplido satisfactoriamente con los términos y condiciones de
+
+Asentamiento del Motor. ¡CUIDA TU ITALIKA WS150!
+
+Vista Superior Delantera
+
+UBICACIÓN DE PARTES
+
+(A) Tablero de instrumentos
+
+(B) Espejo lateral izquierdo
+
+(C) Mando izquierdo
+
+(D) Interruptor de encendido, bloqueo
+
+y apertura de asiento
+
+(E) Mando derecho
+
+(F) Espejo lateral derecho
+
+(G) Contenedor de líquido de freno
+
+delantero
+
+Controles del Mando Derecho
+
+En el mando derecho se ubican los siguientes controles: Palanca del freno delantero
+
+La palanca del freno delantero es el componente mecánico
+
+que te permite disminuir la velocidad y/o detener la italika
+
+WS150. Al oprimir esta palanca se enciende la luz de freno
+
+(stop).
+
+Interruptor de luz delantera
+
+El interruptor de luz delantera tiene 3 posiciones: Imagen 1. Mando derecho.
+
+Palanca del freno
+
+delantero
+
+Interruptor
+
+de luz
+
+delantera
+
+Interruptor
+
+de arranque
+
+eléctrico
+
+Puño del acelerador
+
+UBICACIÓN DE PARTES
+
+P Luz de posición
+
+Cuando el interruptor se encuentra en esta posición, la
+
+luz trasera, cuarto frontal y el tablero de instrumentos se
+
+encienden.
+
+Luz de carretera
+
+Cuando el interruptor se encuentra en esta posición, la luz del
+
+faro principal se enciende en el momento en que el motor
+
+está en marcha.
+
+Iluminación apagada
+
+Cuando el interruptor se encuentra en esta posición, todas
+
+las luces de la italika WS150 se apagan.
+
+Interruptor de arranque eléctrico
+
+Este interruptor está ubicado abajo del interruptor de luz
+
+delantera. Su función es dar marcha al motor.
+
+Imagen 2. Interruptor de luz delantera.
+
+Iluminación
+
+apagada
+
+Luz de
+
+posición
+
+Luz de
+
+carretera
+
+UBICACIÓN DE PARTES
+
+Puño del acelerador
+
+El acelerador es el componente mecánico que te permite
+
+controlar la velocidad a la cual viaja la italika WS150. La manija del
+
+acelerador gira en el sentido contrario a las manecillas del reloj.
+
+Controles del Mando Izquierdo
+
+En el mando izquierdo se ubican los siguientes controles: Palanca del freno trasero
+
+La palanca del freno trasero es el componente mecánico
+
+que te permite disminuir la velocidad y/o detener la italika
+
+WS150. Al oprimir esta palanca se enciende la luz de freno
+
+(stop).
+
+Claxon
+
+El botón del claxon está ubicado abajo del interruptor de
+
+direccionales. Cuando el interruptor de encendido se encuentra
+
+en
+
+, al oprimir el botón de claxon éste emite un sonido.
+
+Interruptor de direccionales
+
+El interruptor de direccionales tiene 3 posiciones que son: Direccional izquierda
+
+Cuando mueves el interruptor de direccionales a esta posición,
+
+las luces direccionales delantera y trasera del lado izquierdo
+
+encienden de forma intermitente.
+
+Direccional derecha
+
+Cuando mueves el interruptor de direccionales a esta
+
+posición, las luces direccionales delantera y trasera del lado
+
+derecho encienden de forma intermitente.
+
+Apagado
+
+Para apagar tanto la luz direccional izquierda como la derecha,
+
+sólo debes oprimir el interruptor de direccionales.
+
+Atención: Utiliza siempre las direccionales cuando cambies de carril.
+
+Asegúrate siempre de colocarlos de nuevo en la posición
+
+apagada cuando hayas finalizado el giro y/o vuelta.
+
+Imagen 4. Interruptor de direccionales.
+
+Imagen 3. Mando izquierdo.
+
+Interruptor de
+
+cambio de luz
+
+Interruptor de
+
+direccionales
+
+Claxon
+
+Palanca del freno
+
+trasero
+
+Direccional
+
+derecha
+
+Apagado
+
+Direccional
+
+izquierda
+
+Interruptor de intermitentes
+
+Cuando se acciona el interruptor de intermitentes, tanto la
+
+luz direccional derecha como la luz direccional izquierda
+
+encienden de forma intermitente, indicando que la italika
+
+WS150 circula a baja velocidad o se encuentra estacionada
+
+sobre la vía pública o de tránsito.
+
+Para accionar el interruptor debes: 1. Coloca el interruptor en la direccional izquierda o derecha.
+
+2. Una vez que esté accionada la direccional mueve el interruptor
+
+hacia la otra direccional.
+
+Interruptor de cambio de luz
+
+El interruptor de cambio de luz tiene 2 posiciones que son: Luz alta
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+delantera se encuentra en estado de iluminación lejana. El
+
+indicador se encenderá en el cuadro de instrumentos.
+
+Luz baja
+
+Cuando el interruptor se encuentra en esta posición, la luz
+
+delantera se encuentra en estado de iluminación cercana.
+
+Imagen 5. Interruptor de cambio de luz.
+
+Luz alta
+
+Luz baja
+
+UBICACIÓN DE PARTES
+
+Interruptor de Encendido y Bloqueo
+
+El interruptor de encendido y bloqueo tiene 4 funciones: ”
+
+” Encender la italika WS150
+
+Cuando la llave se encuentra en esta posición, se conectan
+
+todos los circuitos y la italika WS150 se puede encender. La
+
+llave no se puede retirar del interruptor.
+
+”
+
+” Apagar la italika WS150
+
+Cuando la llave se encuentra en esta posición, se desconectan
+
+todos los circuitos y se apaga el motor. La llave se puede
+
+retirar del interruptor.
+
+“PUSH” Abrir el asiento
+
+Cuando la llave se encuentra en esta posición se retira el
+
+seguro del asiento.
+
+” LOCK” Bloquear la dirección
+
+Cuando la llave se encuentra en esta posición, el sistema bloquea
+
+la dirección por medio del interruptor de encendido y
+
+bloqueo. La llave se puede retirar del interruptor.
+
+Imagen 6. Interruptor de encendido y bloqueo.
+
+Abrir el asiento
+
+Bloquear la
+
+dirección
+
+Encender la italika
+
+WS150
+
+Apagar la italika
+
+WS150
+
+UBICACIÓN DE PARTES
+
+Lado Izquierdo
+
+(A) Luz direccional delantera
+
+(B) Faros delanteros
+
+(C) Parador lateral
+
+(D) Parador central
+
+(E) Pedal de arranque
+
+(F) Filtro de aire
+
+(G) Luz direccional trasera
+
+(H) Parrilla de carga
+
+Pedal de Arranque
+
+El pedal de arranque es el dispositivo mecánico que te permite
+
+encender la italika WS150 sin utilizar el interruptor de arranque
+
+eléctrico.
+
+Parador Lateral y Central
+
+El parador es el componente mecánico que permite mantener
+
+la italika WS150 en posición horizontal cuando no está en uso.
+
+La italika WS150 cuenta con 2 paradores: el lateral y el central.
+
+Cuando estacionas la italika WS150 por periodos cortos de
+
+tiempo, se recomienda utilizar el lateral y cuando son periodos
+
+largos se recomienda utilizar el central. También es importante
+
+que consideres la superficie donde estacionas la italika WS150
+
+para elegir qué parador utilizar.
+
+Imagen 7. Pedal de arranque.
+
+Imagen 8. Parador lateral y central.
+
+UBICACIÓN DE PARTES
+
+Parador
+
+lateral
+
+Parador
+
+central
+
+Lado Derecho
+
+(A) Asiento
+
+(B) Luz trasera
+
+(C) Luz direccional trasera
+
+(D) Silenciador/Escape
+
+(E) Luz direccional delantera
+
+(F) Piso central y alojamiento de la batería
+
+UBICACIÓN DE PARTES
+
+Atención: La gasolina quemada que sale por el silenciador/
+
+escape contiene monóxido de carbono, lo cual es
+
+dañino para tu salud. Enciende siempre el motor en
+
+lugares abiertos.
+
+Tablero de Instrumentos
+
+UBICACIÓN DE PARTES
+
+Nombre
+
+Función
+
+Muestra la velocidad de conducción.
+
+Velocímetro
+
+Odómetro
+
+Muestra el número de kilómetros totales recorridos
+
+por la italika WS150.
+
+Indica cuando el faro delantero se encuentra
+
+encendido en posición de luz alta.
+
+Indicador de
+
+direccionales
+
+Indicador de
+
+luz alta
+
+Indica la dirección a la cual el conductor desea
+
+dar vuelta.
+
+Indicador de
+
+gasolina
+
+Indica la cantidad de gasolina en el tanque de
+
+combustible.
+
+Número de Identificación Vehicular (niv) y
+
+Número del Motor
+
+El NIV y el número del motor son: La única forma de identificar tu italika WS150 en particular
+
+de otra del mismo modelo y tipo.
+
+Necesarios en el momento de tramitar las placas de tu
+
+italika WS150.
+
+En algunas ocasiones necesarios para solicitar refacciones.
+
+En caso de robo son necesarios para que las autoridades
+
+puedan identificar tu italika WS150.
+
+El NIV está formado por 17 dígitos y se encuentra grabado en
+
+la parte central del cuadro de la italika WS150, enfrente del
+
+asiento. El NIV está cubierto por una tapa, la cual se puede
+
+retirar y colocar a presión.
+
+Importante: El décimo digito leído de izquierda a derecha te indica el año
+
+modelo de la italika WS150. Ejemplo:
+
+Imagen 9. Número de Identificación Vehicular.
+
+El número del motor se encuentra grabado en el lado inferior
+
+izquierdo del cuerpo del motor.
+
+Importante: Revisa que el NIV y el número del motor que vienen en tu
+
+factura coincidan con el NIV y el número del motor de tu
+
+italika WS150 .
+
+Atención: Es un delito remover o manipular cualquiera de estos dos
+
+números.
+
+Imagen 10. Número del motor.
+
+UBICACIÓN DE PARTES
+
+Año modelo
+
+Clave
+
+Agregar Gasolina
+
+Nota: Usar gasolina de 89 octanos o mayor. Esta gasolina produce
+
+pocas impurezas en la bujía de encendido y aumenta la vida
+
+útil del motor.
+
+El tanque de combustible está ubicado debajo del asiento y
+
+tiene una capacidad de 6 litros, incluyendo la reserva. Para
+
+agregar gasolina al tanque de combustible debes: 1. Apagar el motor.
+
+2. Bajarte de la italika WS150.
+
+3. Girar la llave del interruptor de encendido en posición
+
+“OPEN”.
+
+4. Levantar el asiento.
+
+5. Girar el tapón del tanque de combustible en el sentido
+
+contrario a las manecillas del reloj.
+
+6. Agregar gasolina sin sobrepasar la marca que se encuentra
+
+en el interior del cuello del tanque. Ver imagen 11.
+
+7. Colocar el tapón del tanque de combustible en su posición
+
+y girarlo en el sentido de las manecillas del reloj.
+
+8. Cerrar el asiento presionando hasta escuchar un clic.
+
+Atención: La gasolina es altamente inflamable y explosiva. Para evitar
+
+accidentes debes: Apagar el motor antes de agregar gasolina.
+
+Agregar gasolina sólo al aire libre.
+
+Limpiar inmediatamente la gasolina que haya podido
+
+derramarse con un trapo húmedo para evitar daños a la
+
+italika WS150.
+
+Nivel de Aceite del Motor
+
+Revisa el nivel de aceite todos los días antes de encender
+
+el motor de tu italika WS150. Para revisar el nivel de aceite
+
+debes: 1. Colocar la italika WS150 en una superficie horizontal y no
+
+inclinarla.
+
+2. Localizar el tapón-bayoneta del cárter en la parte inferior
+
+derecha de la italika WS150. Ver imagen 12.
+
+3. Aflojar en el sentido contrario a las manecillas del reloj.
+
+4. Extraer el tapón-bayoneta.
+
+5. Limpiar completamente el exceso de aceite del tapón bayoneta con un paño.
+
+6. Localizar en el tapón-bayoneta las marcas del nivel máximo
+
+y mínimo de aceite.
+
+7. Introducir el tapón-bayoneta sin enroscar.
+
+8. Retirar nuevamente el tapón-bayoneta.
+
+9. Verificar el nivel de aceite, la marca debe estar en la marca
+
+de máximo.
+
+REVISIONES PERIÓDICAS
+
+Imagen 11. Agregar gasolina.
+
+REVISIONES PERIÓDICAS
+
+Nota: Revisar periódicamente el nivel de aceite, en caso de existir
+
+fuga o que el nivel del aceite no sea el adecuado, presenta tu
+
+italika WS150 en el Centro de Servicio Autorizado ITALIKA
+
+más cercano.
+
+Nota: Para evitar daños al motor, no utilices diferentes tipos de
+
+aceite, sólo utiliza aceite ITALIKA de 4 tiempos de calidad API
+
+SG, API SF y JASO MA, SAE 20W 50 SG, el cual fue especialmente
+
+diseñado para el trabajo diario, cumpliendo con los más altos
+
+estándares de calidad y superando cualquier otra marca.
+
+Atención: Cuando utilices tu italika WS150 bajo condiciones de mucho
+
+polvo, debes cambiar de inmediato el aceite del motor.
+
+Imagen 12. Tapón-bayoneta del cárter.
+
+Cambio de Aceite del Motor
+
+El aceite del motor debe cambiarse en cada uno de los
+
+servicios de mantenimiento. Para cambiar el aceite del motor
+
+debes: 1. Colocar la italika WS150 en una superficie horizontal,
+
+utilizando el parador central.
+
+2. Procura que el motor esté caliente y/o tibio para que el
+
+aceite salga por completo.
+
+3. Localizar el tapón-bayoneta del cárter en la parte inferior
+
+derecha de la italika WS150.
+
+4. Aflojar en el sentido contrario a las manecillas del reloj
+
+y extraerla.
+
+5. Quitar el tornillo de drenado, ubicado debajo del motor,
+
+girándolo en el sentido contrario a las manecillas del reloj.
+
+Ten cuidado de no perder la junta, el resorte de presión, y
+
+el filtro de aceite. Ver imagen 13.
+
+6. Drenar el aceite en un recipiente por 5 minutos.
+
+7. Colocar el tornillo de drenado junto con la junta, el resorte
+
+de presión y el filtro de aceite y girarlo en el sentido de las
+
+manecillas del reloj, aplicar un par de apriete de 15 a 18 N-m
+
+(11 a 13 lbs.ft).
+
+8. Poner 800 ml de aceite nuevo para italikas. Siempre agrega
+
+ACEITE ITALIKA ORIGINAL.
+
+9. Colocar nuevamente el tapón-bayoneta y girarlo en el
+
+sentido de las manecillas del reloj.
+
+10. Encender el motor por un periodo 1-3 minutos.
+
+11. Apagar el motor.
+
+12. Verificar si el nivel de aceite es el adecuado.
+
+Nota: Para evitar lesiones a tu persona y/o daños a la italika WS150 te
+
+recomendamos acudir al Centro de Servicio Autorizado ITALIKA
+
+más cercano para que se le realice el cambio de aceite.
+
+Nota ecológica: El aceite quemado es un desperdicio tóxico, recolecta el
+
+aceite en un recipiente limpio y llévalo a un centro de
+
+recolección de aceite usado o a un Centro de Servicio
+
+Autorizado ITALIKA. NO LO TIRES POR EL DRENAJE.
+
+Limpieza de bujía
+
+Para un buen funcionamiento de tu italika WS150, la bujía
+
+debe de estar calibrada, limpia y en buenas condiciones. Para
+
+limpiar la bujía debes: 1. Retirar la tapa del piso central.
+
+2. Localizar el cable de la bujía.
+
+3. Desconectar el capuchón de la bujía.
+
+4. Limpiar cualquier suciedad que exista alrededor de la
+
+base de la bujía.
+
+Imagen 13. Ubicación del tornillo de drenado de aceite.
+
+5. Retirar la bujía, con un dado de 5/8, girando en el sentido
+
+contrario de las manecillas del reloj.
+
+6. Limpiar la bujía de sedimentos de carbón y de aceite.
+
+7. Verificar la calibración de los electrodos de la bujía, la
+
+cual debe ser de 0.6 a 0.7 mm. Ver imagen 14.
+
+8. Colocar la bujía, aprieta primeramente con la mano, después
+
+termina de apretar con el dado 5/8, y aplicar un par de
+
+apriete de 15 a 18 N-m (11 a 13 lbs.ft).
+
+9. Colocar el capuchón de la bujía.
+
+10. Revisar que el capuchón sujete correctamente la bujía.
+
+Nota: Te recomendamos acudir al Centro de Servicio Autorizado
+
+ITALIKA más cercano para que se le realice la limpieza a la
+
+bujía.
+
+Atención: Si el electrodo de la bujía presenta erosión, sedimentación
+
+excesiva o la calibración no es la adecuada, acude a tu Centro
+
+de Servicio Autorizado ITALIKA más cercano para que sea
+
+reemplazada. Exige a tu Centro de Servicio Autorizado
+
+ITALIKA que utilice en cada servicio bujías marca ITALIKA.
+
+Imagen 14. Bujía.
+
+REVISIONES PERIÓDICAS
+
+Tornillo
+
+Filtro
+
+Resorte
+
+Junta
+
+0.6 - 0.7 mm
+
+Filtro de Aire
+
+El filtro tiene la función de capturar todas las impurezas que
+
+existen en el aire antes de entrar al motor y con esto poder
+
+alargar la vida útil del motor, por lo que se debe cambiar o
+
+limpiar en cada servicio de mantenimiento. El filtro se localiza
+
+a un costado de la italika WS150 del lado izquierdo.
+
+Para retirar el elemento del filtro de aire debes: 1. Retirar los 6 tornillos que sujetan la tapa del filtro.
+
+2. Retirar los 5 tornillos que sujetan al filtro con su base.
+
+3. Retirar el elemento del filtro de aire.
+
+4. Reemplazar el elemento del filtro.
+
+5. Colocar el elemento del filtro en el filtro de aire y atornillarlo.
+
+6. Atornillar la tapa del filtro.
+
+Nota: Para evitar daños al filtro de aire o a la italika WS150 te
+
+recomendamos acudir al Centro de Servicio Autorizado
+
+ITALIKA más cercano para que cambien o limpien el filtro de aire.
+
+Nota: No utilizar thinner o limpiadores inflamables para limpiar el
+
+elemento del filtro. Si el filtro es de tipo seco (papel) debes
+
+reemplazarlo por uno nuevo.
+
+Imagen 15. Filtro de aire.
+
+Nota: El filtro de aire no se debe instalar roto, ya que permite el
+
+paso de polvo al motor reduciendo su vida útil en forma
+
+drástica.
+
+Nota ecológica: Los filtros de aire usados son tóxicos y presentan un riesgo al
+
+medio ambiente si se desechan inadecuadamente, NO LOS
+
+TIRES EN LA BASURA, llévalos a un centro de recolección.
+
+Ajuste del Puño del Acelerador
+
+Para un buen funcionamiento del acelerador es necesario revisar
+
+que el juego libre del puño del acelerador esté dentro de la
+
+especificación de 2~6 mm. Si no está dentro de la especificación
+
+debes: 1. Ubicar la tuerca y la contratuerca de ajuste del acelerador.
+
+Ver imagen 16.
+
+2. Sujetar la tuerca con llave de 8 mm y aflojar la contratuerca
+
+con llave de 10 mm.
+
+3. Dar vuelta a la tuerca de ajuste para ponerla dentro de
+
+especificación.
+
+4. Revisar que el juego libre del acelerador esté en el rango
+
+de 2 a 6 mm, además que la rotación sea suave desde
+
+la posición de cerrado hasta la posición de abierto.
+
+5. Sujetar la tuerca con llave de 8 mm y apretar la contratuerca
+
+con llave de 10 mm.
+
+6. Encender el motor para revisar que funcione correctamente.
+
+En caso de que el funcionamiento no sea el adecuado, repetir
+
+del paso 2 al 6.
+
+REVISIONES PERIÓDICAS
+
+Atención: Si el indicador de desgaste alcanza la línea de desgaste, acude
+
+a tu Centro de Servicio Autorizado ITALIKA para que realicen
+
+el cambio de las balatas.
+
+Atención: No conduzcas de forma inmediata tu italika WS150 después de
+
+cambiar las balatas del freno. Presiona la palanca, gira las ruedas y
+
+revisa que giren libremente. Repite este proceso varias veces para
+
+permitir que el líquido de frenos circule normalmente.
+
+Desgaste del Freno Trasero
+
+La italika WS150 cuenta con freno de tambor en la llanta
+
+trasera. Para el buen funcionamiento del freno es necesario
+
+que revises el desgaste de las balatas de la siguiente forma: 1. Colocar la italika WS150 en el parador central.
+
+2. Oprimir la palanca del freno trasero.
+
+3. Verificar que el indicador de desgaste no alcance la línea
+
+de desgaste. Ver imagen 18.
+
+Nota: Si no puedes colocar el juego libre del puño del acelerador
+
+dentro de la especificación, acude a tu Centro de Servicio
+
+Autorizado ITALIKA más cercano.
+
+Desgaste del Freno Delantero
+
+Los frenos son elementos de seguridad personal y deben estar
+
+en buenas condiciones. Tu italika WS150 cuenta con freno de
+
+disco hidráulico en la llanta delantera. Antes de conducir tu
+
+italika WS150 debes verificar el desgaste de las balatas de la
+
+siguiente forma: 1. Colocar la italika WS150 en una superficie horizontal y
+
+en el parador central .
+
+2. Revisar el nivel de desgaste de las balatas del freno
+
+delantero. Ver imagen 17.
+
+3. Si el desgaste de las balatas es mayor al límite indicado,
+
+debes acudir a tu Centro de Servicio Autorizado ITALIKA
+
+para realizar el cambio de balatas.
+
+Imagen 17. Desgaste del freno delantero.
+
+REVISIONES PERIÓDICAS
+
+Imagen 16. Ajuste del puño del acelerador.
+
+2 mm
+
+1. Tuerca.
+
+2. Contratuerca de ajuste.
+
+3. Puño del acelerador
+
+(Juego libre 2~6 mm).
+
+Nota: Si no puedes colocar la carrera libre de la palanca de freno
+
+acude a tu Centro de Servicio Autorizado ITALIKA más cercano.
+
+Nivel del Líquido de Freno Delantero
+
+Para garantizar su funcionamiento debes revisar el nivel del
+
+líquido de freno y el estado físico de la manguera de presión: 1. Colocar la italika WS150 de forma horizontal.
+
+2. Revisar que el nivel del líquido de freno del contenedor no
+
+esté por debajo de la marca mínima. El nivel del líquido
+
+de frenos siempre debe estar por arriba de la marca mínima
+
+del contenedor.
+
+3. Revisar que la manguera de presión esté libre de fisuras
+
+se encuentre afectada por corrosión.
+
+4. Si la manguera de presión se encuentra dañada, acude a
+
+tu Centro de Servicio Autorizado ITALIKA para realizar el
+
+cambio.
+
+Ajuste de la Palanca del Freno Trasero
+
+Para un buen funcionamiento del freno trasero la carrera
+
+libre de la palanca del freno debe ser de 20 a 30 mm. Para
+
+ajustar la carrera debes: 1. Colocar la italika WS150 en el parador central.
+
+2. Ubicar la tuerca de ajuste en el lado izquierdo de la llanta
+
+trasera. Ver imagen 19-A.
+
+3. Girar la tuerca a la derecha para reducir la carrera libre y
+
+a la izquierda para aumentarla.
+
+4. Revisar que la carrera libre de la palanca del freno esté
+
+dentro de la especificación. Ver imagen 19-B.
+
+Imagen 19. Ajuste de la palanca del freno trasero.
+
+Imagen 20. Nivel del líquido de freno delantero.
+
+REVISIONES PERIÓDICAS
+
+Imagen 18. Desgaste del freno trasero.
+
+20~30
+
+Batería
+
+La italika WS150 utiliza una batería de 12 V y 7 A, la cual
+
+contiene ácido sulfúrico y placas de plomo. Para el buen
+
+funcionamiento del sistema eléctrico es necesario limpiar
+
+la batería. Para tal efecto debes:
+
+1. Colocar la italika WS150 en posición horizontal.
+
+2. Retirar la cubierta del piso central.
+
+3. Retirar primero la terminal negativa y luego la positiva.
+
+4. Limpiar las sedimentaciones de los postes y terminales
+
+de la batería.
+
+5. Acudir a tu Centro de Servicio Autorizado ITALIKA para
+
+realizar el cambio de la batería, en caso de ser necesario.
+
+Nota: Para un buen funcionamiento de la batería no cambies
+
+componentes ni instales accesorios eléctricos a tu italika
+
+WS150. Utiliza baterías marca ITALIKA.
+
+Nota: Al retirar la batería, primero desmonta el polo negativo (-) y
+
+luego el polo positivo (+). Al instalar la batería primero monta
+
+el polo positivo (+) y luego el polo negativo (-). Evita que el
+
+polo positivo (+) tenga contacto con las partes metálicas de
+
+la italika WS150.
+
+Imagen 22. Batería.
+
+Completar el Nivel del Líquido de Freno Delantero
+
+Para completar el nivel de líquido del freno delantero debes: 1. Colocar la italika WS150 en posición horizontal.
+
+2. Retirar los dos tornillos de la tapa. Ver imagen 21.
+
+3. Retirar la tapa y su membrana.
+
+4. Llenar el recipiente hasta alcanzar la marca de máximo,
+
+utilizando líquido de frenos DOT 4.
+
+5. Colocar la membrana, la tapa y apretar los tornillos.
+
+Nota: Para evitar accidentes o daños a la italika WS150 te recomendamos
+
+acudir al Centro de Servicio Autorizado ITALIKA más cercano para
+
+que se le realice el rellenado de líquido de freno.
+
+Nota: Limpiar inmediatamente el líquido de frenos que haya podido
+
+derramarse con un trapo húmedo para evitar daños a la italika
+
+WS150.
+
+Imagen 21. Completar el nivel del líquido de freno delantero.
+
+REVISIONES PERIÓDICAS
+
+Nota: Nunca cargues la batería mientras esté montada en la italika
+
+WS150, ya que puedes dañar la batería o el regulador.
+
+Nota ecológica: Las baterías usadas contienen materiales corrosivos que
+
+pueden contaminar el suelo y el agua, NO LAS TIRES EN LA
+
+BASURA, llévalas a un centro de reciclaje.
+
+Cambio del Fusible
+
+Una de las causas por las que el sistema eléctrico no funciona,
+
+se debe a que el fusible se encuentra quemado. En el
+
+portafusible de tu italika WS150 se encuentra un fusible de
+
+10 A de repuesto. Para cambiarlo debes:
+
+1. Poner el interruptor de encendido en posición
+
+2. Localizar el portafusible en un costado de la batería.
+
+3. Abrir el portafusible.
+
+4. Sustituir el fusible quemado por el de repuesto. Ver imagen 23.
+
+5. Colocar el portafusible en su lugar.
+
+6. Revisar el funcionamiento del sistema eléctrico.
+
+7. Comprar un nuevo fusible de repuesto.
+
+Imagen 23. Fusible.
+
+Atención: El cambio de un fusible por otro de amperaje diferente al
+
+recomendado puede causar daños al sistema eléctrico.
+
+Nota: Si después de cambiar el fusible, el sistema eléctrico no
+
+funciona, debes acudir a un Centro de Servicio Autorizado
+
+ITALIKA para que revisen tu italika WS150.
+
+Llantas
+
+Las llantas que vienen de fábrica están diseñadas de acuerdo a la
+
+capacidad de desempeño de tu italika WS150, proporcionando la
+
+mejor combinación de manejo, frenado, durabilidad y comodidad.
+
+Para que tu italika WS150 funcione correctamente las llantas deben: Ser del tipo y tamaño correcto.
+
+Estar en buenas condiciones.
+
+Tener un perfil adecuado.
+
+Tener la presión adecuada.
+
+Las llantas que tienen una presión baja se desgastan de manera
+
+dispareja, afectan el manejo y son propensas a fallar por
+
+calentamiento. Las llantas que tienen una presión alta
+
+casionan que la conducción sea dura, se desgastan de
+
+manera dispareja y son propensas a dañarse por la condición
+
+del camino.
+
+Presión de la llanta delantera: 28 Libras por pulgada cuadrada (psi).
+
+Presión de la llanta trasera: 30 Libras por pulgada cuadrada (psi).
+
+REVISIONES PERIÓDICAS
+
+Nota: La presión de las llantas debe medirse sólo cuando están
+
+frías. Si se ajusta la presión de una llanta caliente a la que se
+
+recomienda para frío, la lectura de la presión es más alta y la
+
+llanta no tendrá suficiente aire.
+
+Atención: Usar llantas muy desgastadas o con una presión inadecuada
+
+puede ser causa de accidentes.
+
+Cada vez que revises la presión de las llantas, también debes
+
+revisar el perfil y las paredes laterales en busca de desgaste,
+
+daños y objetos extraños. Debes poner atención principalmente en:
+
+Golpes o protuberancias.
+
+Cortes.
+
+Rajaduras o fisuras.
+
+Desgaste excesivo del perfil.
+
+Atención: Si en el momento de conducir tu italika WS150 pasas por
+
+un bache o un objeto duro, detente lo más pronto posible y
+
+revisa si ha ocurrido algún daño a las llantas.
+
+Si una llanta se perfora o se daña, debe ser reemplazada lo
+
+antes posible. Una llanta reparada no es tan confiable como
+
+una nueva y puede presentar fallas durante el manejo. Si
+
+reparas una llanta de manera provisional colocando un
+
+parche o usando sellador en aerosol, maneja con precaución
+
+a baja velocidad. Para realizar el cambio de una llanta, acude
+
+a tu Centro de Servicio Autorizado ITALIKA.
+
+Atención: La instalación de llantas inadecuadas en tu italika WS150
+
+puede afectar el manejo y la estabilidad.
+
+También es importante inspeccionar algún daño en los
+
+rines antes de utilizar tu italika WS150. Si encuentras
+
+que la desviación de los rines es muy notoria, acude a tu
+
+Centro de Servicio Autorizado ITALIKA más cercano para
+
+que hagan los ajustes necesarios.
+
+Imagen 24. Llantas en buenas condiciones.
+
+REVISIONES PERIÓDICAS
+
+Alta
+
+Presión
+
+Baja
+
+Presión
+
+Presión
+
+Correcta
+
+Realizar los servicios de mantenimiento de tu italika WS150 por tiempo es la mejor forma de proteger tu inversión. El mantenimiento oportuno
+
+previene, en la mayoría de los casos, los problemas a futuro; así mismo tu italika WS150 tiene un periodo de Garantía el cual continúa vigente si se
+
+hacen oportunamente los servicios de mantenimiento en los Centros de Servicio Autorizados ITALIKA (CESIT). La siguiente tabla indica los periodos
+
+y las actividades que se deben realizar de acuerdo a un uso normal.
+
+Los CESIT deben utilizar piezas originales y nuevas, exige las piezas sustituidas al momento de retirar tu italika WS150.
+
+NO realizar los servicios preventivos ANULA LA GARANTÍA.
+
+Limpieza de carburador y carburación
+
+Ajuste y lubricación de cadena y/o banda de tracción
+
+Revisión y ajuste de punterías
+
+Lubricación y ajustes de chicotes
+
+Apriete general de tornillería
+
+Revisión eléctrica: – Régimen de carga
+
+– Comprobación de luces (faro, luz trasera, luz de freno, direccionales y cuartos)
+
+– Líquido de batería
+
+Revisión y limpieza del ﬁltro o cedazo del aceite
+
+Actividad
+
+kilómetros
+
+30 días
+
+1 mes
+
+90 días
+
+3 meses
+
+180 días
+
+6 meses
+
+270 días
+
+9 meses
+
+360 días
+
+12 meses
+
+Primero
+
+Segundo
+
+Tercero
+
+Quinto
+
+Sexto
+
+Servicios
+
+kilómetros
+
+Cuarto
+
+Cambiar aceite de motor
+
+450 días
+
+15 meses
+
+Cambiar la bujía
+
+kilómetros
+
+kilómetros
+
+kilómetros
+
+kilómetros
+
+Revisión y limpieza del ﬁltro de aire
+
+Lo que ocurra primero a partir de la fecha de venta
+
+Posteriores
+
+Cada 3,000
+
+kilómetros
+
+Cada 3 meses
+
+Revisión de niveles: – Líquido de frenos
+
+– Aceite de transmisión
+
+– Presión de llantas
+
+– Aceite de suspensión delantera
+
+Revisión y limpieza de balatas
+
+Lavado
+
+La mejor protección contra las influencias del medio ambiente
+
+es lavar con frecuencia tu italika WS150. La frecuencia depende,
+
+entre otros factores, del uso que le das, de la estación del año, de
+
+las condiciones atmosféricas y del medio ambiente.
+
+Mientras más tiempo permanezcan sobre la italika WS150 los
+
+excrementos de pájaros, los restos de insectos, las resinas de
+
+árboles, el polvo, las partículas de hollín y otras sedimentaciones
+
+de índole agresiva, más persistentes serán sus efectos destructivos.
+
+Para lavar la italika WS150 debes: 1. Enjuagar la italika WS150 con agua fría para remover la
+
+suciedad suelta.
+
+2. Lavar la italika WS150 con un paño suave, solución jabonosa
+
+y agua fría.
+
+3. Frotar las áreas sucias.
+
+4. Enjuagar la italika WS150 con abundante agua limpia.
+
+5. Secar la italika WS150 con un paño suave y seco.
+
+6. Encender el motor y dejarlo funcionar de 1 a 3 minutos.
+
+Ver Encender el Motor página 33.
+
+Nota: Evitar el uso de productos de limpieza que no hayan sido
+
+diseñados para superficies de italikas, ya que pueden
+
+contener detergentes o solventes químicos que dañen el
+
+metal, la pintura o el plástico.
+
+Nota: Evitar el uso de agua a alta presión, ya que puede dañar partes
+
+de la italika WS150. Si utilizas lavado con agua a presión se
+
+recomienda no aplicarlo a las siguientes partes: Interruptor de encendido.
+
+Debajo del asiento.
+
+Interruptor cortacorriente.
+
+Eje de las llantas.
+
+Salida del Silenciador/Escape.
+
+Tablero y/o controles.
+
+Motor.
+
+Carburador.
+
+Guardapolvo.
+
+Partes eléctricas y sus conectores.
+
+Atención: Después de lavar tu italika WS150, la funcionalidad de los
+
+frenos se afecta parcial y temporalmente, mide la distancia de
+
+frenado para evitar accidentes.
+
+Cuidado de la Pintura
+
+Una buena aplicación de productos de mantenimiento protege
+
+ampliamente la pintura de tu italika WS150 contra las influencias
+
+del medio ambiente e incluso contra otros factores de efectos
+
+mecánicos ligeros.
+
+La pintura puede ser tratada con cera líquida una semana después
+
+de haber sido entregada la italika WS150. Se recomienda, por lo
+
+menos, dar a la pintura una capa de cera líquida dos veces al año.
+
+Cuidado del Asiento
+
+Las piezas exteriores de material sintético, como el asiento,
+
+se limpian con un lavado normal. Si esto no es suficiente,
+
+puedes usar productos especiales de limpieza y mantenimiento
+
+para material sintético y cuero artificial que no contengan
+
+solventes.
+
+Limpieza normal
+
+Limpia las superficies de material sintético sucias con un
+
+trapo de algodón o de lana ligeramente húmedo.
+
+Suciedad incrustada
+
+Limpia la suciedad incrustada con un trapo mojado en una
+
+solución ligera de jabón suave (2 cucharadas de jabón
+
+neutro con un litro de agua). Al hacerlo, asegúrate de que
+
+el material sintético no se empape en ningún sitio y que el
+
+agua no se filtre por las costuras. Seca con un trapo suave
+
+y seco.
+
+Limpieza de manchas
+
+Retira manchas recientes de productos a base de agua como
+
+son café, té, jugos, etc., con un paño absorbente o papel de
+
+cocina.
+
+Retira con un paño absorbente o papel de cocina las manchas
+
+recientes de productos a base de grasas como mantequilla,
+
+mayonesa, chocolate, etc. Utiliza un aerosol para disolver
+
+grasas para las manchas de grasa secas.
+
+Trata las manchas especiales como manchas de bolígrafo,
+
+rotulador, esmalte para uñas, etc., con un quitamanchas
+
+especial para material sintético.
+
+Nota: Retira del asiento el plástico protector con el que se entrega la
+
+italika WS150 para evitar que con el uso se pegue y deteriore
+
+el asiento.
+
+Concepto
+
+Actividad
+
+Revisa que la cantidad de gasolina sea suﬁciente para tu recorrido. Ver Agregar Gasolina,
+
+página 20.
+
+Combustible
+
+Aceite
+
+Revisa que el nivel de aceite esté en la marca de máximo. Agrega de ser necesario. Ver
+
+Nivel de Aceite del Motor, página 20.
+
+Revisa que el juego libre del acelerador esté entre 2 y 6 mm. Ver Ajuste del Puño del
+
+Acelerador, página 23.
+
+Revisa el desgaste de las balatas del freno delantero y las balatas de freno trasero. Ver
+
+Desgaste del Freno Delantero y Desgaste del Freno Trasero, página 24.
+
+Revisa la presión de las llantas y que no presenten golpes, cortes, ﬁsuras o desgaste excesivo
+
+del perﬁl. Ver Llantas, página 27 y Datos Técnicos, página 40.
+
+Revisa el funcionamiento del faro delantero, de la luz trasera, de los cuartos, de las direccionales
+
+traseras/delanteras, del claxon y del interruptor de arranque eléctrico.
+
+Acelerador
+
+Frenos
+
+Llantas
+
+Sistema eléctrico
+
+REVISIÓN ANTES DE MANEJAR
+
+Cuídate y cuida tu italika WS150, realiza esta revisión cada vez que te subas a tu italika WS150.
+
+Encender el Motor
+
+Para encender el motor debes: 1. Subirte a la italika WS150 por el lado izquierdo.
+
+2. Retirar el parador central y/o lateral.
+
+3. Introducir la llave en el interruptor de encendido.
+
+4. Girar la llave a la posición
+
+. Ver imagen 25-A.
+
+5. Revisar que la cantidad de combustible sea la suficiente
+
+para tu recorrido.
+
+6. Oprimir la palanca de freno delantero o trasero.
+
+7. Oprimir el interruptor de arranque eléctrico para dar
+
+marcha al motor. Ver imagen 25-B.
+
+8. Esperar alrededor de 1 a 3 minutos para utilizar la italika
+
+WS150, sólo si el motor está frío.
+
+Nota: No dejar oprimido el interruptor de arranque eléctrico por
+
+más de 5 segundos, ni oprimirlo cuando la italika WS150 está
+
+encendida, así como dejar de oprimirlo de forma inmediata en
+
+el momento que el motor enciende.
+
+Nota: Te recomendamos que el primer arranque o después de un
+
+reposo de 4 horas sean con el pedal, todos los posteriores
+
+sea con el interruptor de arranque eléctrico.
+
+Atención: No dejar el motor funcionando por más de 3 minutos en alto
+
+total, ya que puede haber sobrecalentamiento y se podría
+
+dañar algún componente interno del motor.
+
+Encender el Motor con Pedal de Arranque
+
+Para encender el motor debes: 1. Colocar la italika WS150 en el parador central.
+
+2. Introducir la llave en el interruptor de encendido.
+
+3. Girar la llave a la posición
+
+4. Oprimir la palanca del freno trasero.
+
+5. Pisar el pedal de arranque fuertemente.
+
+6. Quitar el parador central.
+
+7. Acelerar suavemente y no dar más de 1/2 vuelta al puño
+
+del acelerador una vez que el motor enciende.
+
+8. Esperar alrededor de 1 a 3 minutos para utilizar la italika
+
+WS150. Sólo cuando el motor está frío.
+
+Apagar el Motor
+
+Para apagar el motor debes: 1. Hacer alto total oprimiendo ambos frenos.
+
+Imagen 25. Encender el motor.
+
+2. Girar la llave del interruptor de encendido en posición
+
+de apagado
+
+3. Colocar la italika WS150 en el parador lateral o central.
+
+4. Retirar la llave del interruptor de encendido.
+
+Motor Ahogado
+
+Si el motor no enciende después de varios intentos es posible
+
+que se encuentre ahogado de gasolina. Para liberar el motor
+
+del exceso de gasolina debes: 1. Esperar 1 minuto por cada vez que aceleraste.
+
+2. No accionar el puño del acelerador.
+
+3. Intentar encender el motor nuevamente.
+
+Bloquear la Dirección
+
+Para bloquear la dirección debes: 1. Apagar el motor.
+
+2. Colocar la italika WS150 en el parador central.
+
+3. Girar el manubrio a la izquierda.
+
+4. Colocar la llave en el interruptor de encendido.
+
+5. Oprimir y girar la llave a la posición LOCK . Ver imagen 26.
+
+6. Retirar la llave.
+
+Para desbloquear la dirección debes: 1. Colocar la llave en el interruptor de encendido.
+
+2. Oprimir y girar la llave a la posición
+
+3. Retirar la llave.
+
+Nota: Si se te dificulta girar la llave para desbloquear, mueve el
+
+manubrio e intenta girar la llave nuevamente.
+
+Nota: Cuando abandones la italika WS150, aunque sea por un espacio
+
+corto de tiempo, no olvides quitar la llave del interruptor de
+
+encendido y bloqueo, así como bloquear la dirección.
+
+Imagen 26. Bloquear la dirección.
+
+El almacenamiento por periodos largos de tiempo requiere
+
+de ciertos cuidados para evitar daños a la italika WS150. Antes
+
+de almacenar debes: 1. Drenar el aceite del motor.
+
+2. Drenar la gasolina del carburador y del tanque.
+
+3. Colocar el interruptor de encendido en posición
+
+4. Quitar la batería y colocarla en un lugar fresco y
+
+ventilado. Evitar hacer contacto con el piso.
+
+5. Limpiar totalmente la italika WS150 .
+
+6. Quitar la bujía.
+
+7. Poner de 15 a 20 ml de aceite para italikas en el espacio
+
+de la bujía.
+
+8. Poner la bujía. Ver Tabla de Torques, página 41.
+
+9. Guardar la italika WS150 en un lugar fresco y seco.
+
+No exponerla al sol.
+
+10. Colocar una cubierta protectora a la italika WS150.
+
+Volver a Usar
+
+Para utilizar la italika WS150 después de un periodo de
+
+almacenamiento debes: 1. Limpiar la italika WS150.
+
+2. Colocar aceite ITALIKA.
+
+3. Colocar la batería a la italika WS150.
+
+4. Agregar gasolina. Ver Agregar Gasolina, página 20.
+
+5. Verificar la presión de las llantas.
+
+Nota: Si no utilizas tu italika WS150 por más de 2 meses, debes
+
+poner a cargar la batería cada mes.
+
+Nota: Cuando vuelvas a utilizar tu italika WS150, al momento de
+
+encenderla saldrá humo del escape hasta que se queme
+
+todo el aceite que colocaste en el espacio de la bujía.
+
+Atención: Antes de conducir tu italika WS150 debes asegurarte de que se
+
+encuentra en buenas condiciones, para ello se te recomienda
+
+probarla en un sitio seguro y lejos del tránsito a baja velocidad.
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Conducir tu italika WS150 es una actividad emocionante, pero
+
+requiere precauciones de seguridad. Las principales son:
+
+Equipo de Protección
+
+Para tu protección, al momento de conducir tu italika WS150
+
+debes utilizar el siguiente equipo:
+
+Atención: El vestirse con ropa floja puede ocasionar graves daños
+
+al conductor y a la italika WS150, ya que se puede atorar en el
+
+manubrio o en las llantas.
+
+Atención: La temperatura del escape de la italika WS150 es elevada,
+
+para evitar quemaduras se te recomienda utilizar botas o un
+
+pantalón que cubra la antepierna.
+
+Carga de Pasajeros o Mercancía
+
+La italika WS150 está diseñada para transportar una carga
+
+máxima (conductor y pasajero) de 150 kg (330 lbs). El exceder
+
+este límite afecta su estabilidad y puede ser causa de accidentes
+
+y daños a la italika WS150. ITALIKA no se hace responsable
+
+de ningún daño causado por el exceso de carga. Para prevenir
+
+accidentes evita cargar: Objetos voluminosos o pesados en la italika WS150.
+
+Objetos que obstruyan la visibilidad del conductor.
+
+Condiciones del Camino
+
+Tu italika WS150 está diseñada para rodar en caminos
+
+pavimentados. Considera que en un camino cualquier cosa
+
+puede ser un obstáculo, por lo que siempre debes conducir
+
+con precaución y reducir la velocidad lo suficiente cuando
+
+sea necesario. Es recomendable que cuando en el camino
+
+te encuentres con: Charcos de agua, evita entrar en ellos ya que puedes
+
+perder el control de la dirección o puedes caerte dependiendo
+
+de la velocidad con la que entres.
+
+Usa ropa brillante y de piel u otro
+
+material grueso.
+
+En caso de no tener, mínimo llevar
+
+cubiertos brazos y piernas.
+
+Usa casco completo, tres cuartos
+
+etc., y que cumpla con las normas
+
+de seguridad vigentes.
+
+Usa botas o zapatos suficientemente
+
+altos y resistentes para cubrir los
+
+tobillos.
+
+En caso de no tener, mínimo llevar
+
+zapato cubierto.
+
+Usa guantes de cuero
+
+un material similar.
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+Conducción y Alcohol
+
+Utilizar tu italika WS150 bajo los efectos del alcohol es una
+
+de las causas más frecuentes de accidentes. La habilidad
+
+para conducir se ve perjudicada cuando el nivel de alcohol
+
+en la sangre se halla por encima del nivel máximo permitido
+
+por la ley, debido a que tus reflejos se vuelven lentos y tu
+
+capacidad de decisión se ve perjudicada. Si has bebido, NO
+
+MANEJES tu italika WS150, llama a un taxi o utiliza un medio
+
+de transporte público.
+
+Recomendaciones de Conducción
+
+Al conducir debes ser cuidadoso para garantizar tu seguridad,
+
+por lo que antes de utilizar tu italika WS150 te recomendamos: 1. Revisar y/o ajustar algunos componentes de desgaste
+
+natural debido al uso como: El nivel de aceite en el motor.
+
+La presión del aire de las llantas.
+
+El desgaste de los frenos.
+
+El encendido de las luces.
+
+2. Subir y bajar de la italika WS150 siempre del lado izquierdo.
+
+3. Vestir ropa en colores llamativos o brillantes.
+
+4. Obedecer el reglamento de tránsito local.
+
+5. Sostener el manubrio con ambas manos.
+
+6. Obedecer los límites de velocidad.
+
+Arena, barro y hojas caídas, evítalos o pasa sobre ellos
+
+a baja velocidad, ya que puedes perder la dirección o patinar
+
+en ellos. De ser posible detén la italika WS150 y camina
+
+con ella.
+
+Topes, reduce la velocidad y cruza en ángulo recto.
+
+Grava y baches, maneja lentamente vigilando las
+
+condiciones del camino y con la cintura ligeramente
+
+levantada para equilibrar la italika WS150.
+
+Planchas de hierro, detén la italika WS150 y camina
+
+con ella, ya que estas superficies son muy resbalosas,
+
+especialmente en días lluviosos.
+
+Aceite o caminos congelados, maneja lentamente o detén
+
+la italika WS150 y camina con ella.
+
+Días Lluviosos
+
+El conducir tu italika WS150 en un día lluvioso puede ser
+
+peligroso por lo que te recomendamos: Reducir la velocidad más que en un día despejado, ya
+
+que la lluvia impide ver los obstáculos y determinar las
+
+condiciones del camino.
+
+Mantener una distancia prudente con el vehículo de
+
+adelante.
+
+No tomar las curvas a la misma velocidad que en un día
+
+despejado, ya que puedes patinar, caerte o salirte del camino.
+
+Modificación del Diseño
+
+El modificar o cambiar piezas no originales a tu italika
+
+WS150, no sólo afecta la seguridad de la italika WS150 o de
+
+sus ocupantes, también ocasiona la pérdida de la Garantía.
+
+SEGURIDAD EN LA CONDUCCIÓN
+
+7. Conducir tu italika WS150 utilizando un carril y del
+
+lado donde los conductores de vehículos te puedan ver,
+
+ya que gran cantidad de accidentes son ocasionados
+
+debido a que el conductor del otro vehículo, no ve al
+
+conductor de la italika WS150.
+
+8. Encender la luz direccional con anticipación para dar la
+
+vuelta.
+
+9. Tener cuidado al cruzar en las esquinas de calles y en la
+
+entrada y salida de vehículos.
+
+10. Que el pasajero coloque los pies en los posapies del
+
+pasajero y que se sujete con ambas manos al conductor
+
+a la italika WS150.
+
+Atención: Te sugerimos practicar la conducción de tu italika
+
+WS150 en un área libre de tránsito y obstáculos hasta
+
+que estés completamente familiarizado con la máquina
+
+y sus controles.
+
+Postura para el Manejo
+
+El conducir tu italika WS150 en una postura correcta te ayuda
+
+a que puedas utilizar los controles fácilmente y a protegerte
+
+de posibles accidentes. Ten en cuenta los siguientes puntos
+
+para adquirir una postura correcta: No mirar hacia los pies o manos, ni hacia un solo punto.
+
+Mantener un campo de visión amplio mirando hacia
+
+todos lados por igual.
+
+Sujetar firmemente el centro de los mandos con ambos
+
+pulgares hacia abajo.
+
+Apuntar las rodillas ligeramente hacia dentro y no hacia
+
+afuera.
+
+Mantener los hombros relajados y en posición natural.
+
+Doblar los codos ligeramente hacia dentro y relajarlos
+
+para que éstos funcionen como resortes cuando el
+
+manubrio reciba algún golpe.
+
+Elegir una posición que mantenga tu cuerpo estable.
+
+Si tienes la cintura demasiado hacia delante o hacia
+
+atrás, los hombros y la cintura pueden estar muy tensos
+
+y el cuerpo tener poca estabilidad.
+
+Mantener los pies firmes y paralelos a la italika WS150.
+
+Cuidados para Evitar Robo
+
+Para evitar el robo de tu italika WS150 debes: Quitar la llave del interruptor de encendido y bloqueo.
+
+Dejar siempre la italika WS150 en un lugar bajo llave y
+
+seguro.
+
+Utilizar el bloqueo de la dirección.
+
+Evitar prestar tu italika WS150.
+
+Anotar tu nombre, dirección y teléfono en la Póliza de
+
+Garantía y llevarla siempre en la italika WS150.
+
+DATOS TÉCNICOS
+
+Concepto
+
+Especiﬁcación
+
+Dimensiones
+
+Modelo
+
+Dimensión largo x ancho x alto
+
+Distancia entre ejes
+
+Peso
+
+Carga máxima (conductor y pasajero)
+
+Tipo
+
+Sistema de enfriamiento
+
+Potencia del motor
+
+Torque
+
+Modo de arranque
+
+Volumen de desplazamiento
+
+Modo de ignición
+
+Bujía
+
+Fusible
+
+Batería
+
+Luz delantera
+
+Luz del freno trasero
+
+Luz direccional
+
+Sistema
+
+eléctrico
+
+Motor
+
+WS150
+
+1,895 x 665 x 1,115 mm
+
+1,275 mm
+
+105 kg (231 lbs)
+
+150 kg (330 lbs)
+
+4 tiempos
+
+Aire
+
+9.38 @ 8,000 Hp/rpm
+
+9 @ 5,500 Nm/rpm (6.6 lbs.ft)
+
+Eléctrico y de pedal
+
+149.6 cc
+
+12 V, 3 W
+
+C7HSA
+
+10 A
+
+12 V, 7A
+
+12 V, 35 W / 35 W
+
+12 V, 5 W / 10 W
+
+Capacidad de
+
+carga
+
+Concepto
+
+Especiﬁcación
+
+Llantas
+
+Freno delantero
+
+Freno trasero
+
+Volumen del tanque de combustible
+
+Volumen del combustible de reserva
+
+Volumen del aceite del motor
+
+Llanta trasera
+
+Llanta delantera
+
+Presión llanta delantera sin carga (en frío)
+
+Presión llanta trasera sin carga (en frío)
+
+Transmisión
+
+Disco
+
+Tambor
+
+6 L
+
+1 L
+
+800 ml
+
+130/90-R10
+
+120/90-R10
+
+28 psi
+
+30 psi
+
+Automática
+
+Presión llanta delantera con carga (en frío)
+
+Presión llanta trasera con carga (en frío)
+
+32 psi
+
+30 psi
+
+Frenos
+
+Capacidad de
+
+combustible y
+
+aceite
+
+DATOS TÉCNICOS
+
+Concepto
+
+Torques
+
+M 25 x 1
+
+M 6 X 1.0
+
+M 12 x 1.25
+
+M 16 x 1.5
+
+M 10 x 1.25
+
+M 8 X 1.25
+
+Tornillos y tuercas de 8 mm
+
+Tornillos y tuercas de 10 mm
+
+Tornillos y tuercas de 12 mm
+
+70-80 N-m (51.62-59 lbs.ft)
+
+10±1 N-m (7.38±0.74 lbs.ft)
+
+81±8 N-m (59.74±5.9 lbs.ft)
+
+90-100 N-m (66.38-73.75 lbs.ft)
+
+40-50 N-m (29.50-36.87 lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs.ft)
+
+18-25 N-m (13.27-18.43 lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs.ft)
+
+40-50 N-m (29.50-36.87 lbs.ft)
+
+Tornillos y tuercas de 6 mm
+
+8-12 N-m (5.9-8.85 lbs.ft)
+
+Tornillos y tuercas de 5 mm
+
+4.5-6 N-m (3.31-4.42 lbs.ft)
+
+Tornillos hexagonales de 6 mm
+
+Tornillos hexagonales de 8 mm
+
+Tornillos hexagonales de 10 mm
+
+10-15 N-m (7.38-11.06 lbs.ft)
+
+20-30 N-m (14.75-22.12lbs.ft)
+
+30-40 N-m (22.12-29.50 lbs. ft)
+
+México
+
+Argentina
+
+Guatemala
+
+Honduras
+
+Panamá
+
+Perú
+
+Ahogador
+
+Cebador
+
+Schock
+
+Schock
+
+Estrangulador
+
+Arnés
+
+Arnés
+
+Arnés
+
+Arnés
+
+Ramal
+
+Balatas
+
+Pastillas
+
+Pastillas
+
+Pastillas
+
+Pastillas
+
+Balero
+
+Balero
+
+Cagineto
+
+Balinero
+
+Rodaje
+
+Bujía
+
+Bujía
+
+Candela
+
+Candela
+
+Bujía
+
+Calavera
+
+Acrílico
+
+Estop
+
+Stop
+
+Faro
+
+Chicote
+
+Cable
+
+Cable
+
+Cable
+
+Cable
+
+Claxon
+
+Bocina
+
+Bocina
+
+Bocina/Pito
+
+Claxon
+
+Clutch
+
+Embrague
+
+Embrague
+
+Clutch
+
+Clutch
+
+Cuadro
+
+Cuadro
+
+Chasis
+
+Cuadro
+
+Chasis
+
+Direccionales
+
+Giros
+
+Pide-Vías
+
+Vías
+
+Direccionales
+
+Empaque
+
+Junta
+
+Empaque
+
+Empaque
+
+Empaquetadura
+
+Engrane
+
+Engranaje
+
+Engranaje
+
+Engranaje
+
+Engrane
+
+Estator
+
+Estator
+
+Estator
+
+Estator
+
+Alternador
+
+Horquilla
+
+Horquilla
+
+Horquilla
+
+Horquilla
+
+Telescópica
+
+Llanta
+
+Neumático
+
+Llanta
+
+Llanta
+
+Llanta
+
+Manubrio
+
+Manubrio
+
+Timón
+
+Manubrio
+
+Timón
+
+Parador central
+
+Caballete
+
+Parador central
+
+Parador central
+
+Parador central
+
+Parador lateral
+
+Muleta
+
+Parador lateral
+
+Parador lateral
+
+Parador lateral
+
+Rin
+
+Llanta
+
+Llanta
+
+Llanta
+
+Llanta
+
+Salpicadera
+
+Guardabarro
+
+Lodera
+
+Guardafango
+
+Tapabarro
+
+Zapatas
+
+Zapatas
+
+Zapatas
+
+Fricciones
+
+Zapatas
+
+Engrane ﬁnal
+
+Engrane ﬁnal
+
+Engrane ﬁnal
+
+Engrane ﬁnal
+
+Catalina
+
+Schock
+
+Arnés
+
+Pastillas
+
+Cagineto
+
+Candela
+
+Estop
+
+Cable
+
+Bocina
+
+Embrague
+
+Chasis
+
+Pide-Vías
+
+Empaque
+
+Engranaje
+
+Estator
+
+Horquilla
+
+Llanta
+
+Timón
+
+Parador central
+
+Parador lateral
+
+Llanta
+
+Lodera
+
+Zapatas
+
+Engrane ﬁnal
+
+Equivalencias
+
+Texto impreso
+
+Brasil
+
+Afogador
+
+Conjunto cabos elétricos
+
+Pastilhas
+
+Rolamento
+
+Vela de ignição
+
+Stop de freio
+
+Chicote
+
+Buzina
+
+Embreagem
+
+Chassi
+
+Seta indicadora de direção
+
+Junta
+
+Engrenagem
+
+Engrenagem ﬁnal
+
+Alternador
+
+Amortecedor
+
+Pneu
+
+Guidão
+
+Cavalete central
+
+Cavalete lateral
+
+Roda de liga leve
+
+Lameira
+
+Sapata de freito
+
+COMERCIALIZADORA DE MOTOCICLETAS DE CALIDAD, S. A. de C. V.
+
+Av. Ferrocarril De Río Frío 419 A 90 Cuchilla Del Moral 1 Distrito Federal - C.P. 09319 - México, D.F.
+
+MUWS150-06
+
+Impreso en China

@@ -1,0 +1,10337 @@
+Manualslib.com - Simplified Manuals
+
+Manuals / Brands / Suzuki Manuals / Motorcycle / GN125F / Service manual / PDF
+
+SUZUKI GN125F SERVICE MANUAL
+
+Quick Links
+
+Engine
+
+Carburetor(Idling)
+
+Electrical
+
+Table of Contents
+
+Table of Contents
+
+service
+
+brake fluid
+
+BREAK-IN PROCEDURE
+
+WARNING/CAUTION/NOTE
+
+lubrication chart
+
+BATTERY/FUSE
+
+air cleaner
+
+CARBURETOR(IDLING)
+
+chain wear
+
+rear brake
+
+rear brake pedal height
+
+engine removal and installation
+
+engine remounting
+
+cylinder head cover
+
+rocker arm shaft
+
+valve spring
+
+cylinder head
+
+valve stem
+
+cylinder head assembly
+
+cylinder removal
+
+lubrication system
+
+Front axle shaft
+
+Spacer
+
+Washer
+
+Oil seal
+
+master cylinder
+
+Roller bearing
+
+Spacer
+
+starter motor disassembly
+
+starter motor inspection
+
+starter motor reassembly
+
+starter relay inspection
+
+ignition coil
+
+turn signal light
+
+initial charging
+
+Oil seal
+
+special tools
+
+tightening torque
+
+tightening torque chart
+
+service data
+
+GN125F
+
+99500H3030DE001
+
+Downloaded from www.Manualslib.com manuals search engine
+
+DACHANGJIANG GROUP CO.,LTD.
+
+DECEMBER, 2014
+
+©COPYRIGHT DA
+
+CHANGJIANG GROUP CO.,LTD.
+
+This manual contains an introductory description on the
+
+and
+
+procedures
+
+for
+
+its
+
+inspec tion/service and overhaul of its main components. Other
+
+information
+
+considered
+
+as
+
+generally
+
+known
+
+is
+
+not
+
+included.
+
+Read the GENERAL INFORMATION section to familia rize yourself with the motorcycle and its maintenance.
+
+Use this section as well as other sections to use as a
+
+guide for proper inspection and service.
+
+This manual will help you know the motorcycle better so
+
+that you can assure your customers of fast and reliable
+
+service.
+
+GN125F
+
+This manual has been prepared on the basis of the
+
+latest specifications at the time of publication. If
+
+modifications have been made since then, differ ences may exist between the content of this manual
+
+and the actual motorcycle.
+
+Illustrations in this manual are used to show the
+
+basic principles of operation and work procedures.
+
+They
+
+may
+
+not
+
+represent
+
+the
+
+actual
+
+motorcycle
+
+exactly in detail.
+
+This manual is written for persons who have enough
+
+knowledge, skills and tools, including special tools,
+
+for servicing SUZUKI motorcycles. If you do not
+
+have the proper knowledge and tools, ask your
+
+authorized
+
+motorcycle dealer to help you.
+
+Improper
+
+repair
+
+may
+
+result
+
+in
+
+injury
+
+to
+
+the
+
+mechanic and may render the motorcycle unsafe
+
+for the rider and passenger.
+
+Inexperienced mechanics or mechanics without
+
+proper tools, not to able to properly perform the
+
+services described in this manual.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Under the name of each system or unit, is its exploded view. Work instruction and tightening torque,
+
+lubricating points and locking points, are provided.
+
+Example: Front wheel
+
+N•m
+
+Kgf•m
+
+18-28
+
+36-52
+
+1.8-2.8
+
+3.6-5.2
+
+Front axle shaft
+
+Spacer
+
+Dustcover
+
+Washer
+
+Front brake disc
+
+Oil seal
+
+Roller bearing
+
+Spacer
+
+Front tire
+
+Front wheel rim
+
+Speedometer gear driver
+
+Oil seal
+
+TO LOCATE WHAT YOU ARE LOOKING FOR: 1.The text of this manual is divided into 7 sections.
+
+2.The section titles are listed in the GROUP INDEX.
+
+3.Holding the manual as shown as at the right will allow you
+
+to find
+
+the first page of the section easily.
+
+4.The contents are listed on the first page of each section to help
+
+you find the item and page you need.
+
+Speedometer gear box
+
+Brake disc bolt
+
+Front axle nut
+
+Downloaded from www.Manualslib.com manuals search engine
+
+The following symbols are instructions and necessary information for maintenance.
+
+Torque control required.
+
+Data
+
+beside
+
+it
+
+indicates
+
+specified
+
+torque.
+
+Apply
+
+il.
+
+Use
+
+engine
+
+il
+
+unless
+
+therwise specified.
+
+Apply MOLY PASTE
+
+99000-25140
+
+Apply or use the absorber oil
+
+Apply THREAD LOCK “1342"
+
+99000-32050
+
+Apply THREAD LOCK “1303"
+
+99000-32030
+
+Apply or use the brake fluid
+
+Measure voltage
+
+Apply sealant “1215”
+
+99000-31110
+
+Apply sealant “1207B”
+
+99000-31140
+
+Measure continuity test range
+
+Use special tool
+
+Apply SUPER GREASE “A”
+
+99000-25010
+
+Measure in resistance
+
+Apply THREAD LOCK “1360"
+
+99000-32130
+
+The data of maintenance
+
+Downloaded from www.Manualslib.com manuals search engine
+
+O/Bl
+
+O/W
+
+O/Y
+
+R/B
+
+R/Y
+
+W/B
+
+W/R
+
+Y/G
+
+Y/R
+
+Y/W
+
+Orange with Blue tracer
+
+Orange with White tracer
+
+Orange with Yellow tracer
+
+Red with Black tracer
+
+Red with Yellow tracer
+
+White with Black tracer
+
+White with Red tracer
+
+Yellow with Green tracer
+
+Yellow with Red tracer
+
+Yellow with White tracer
+
+B/Bl
+
+B/Br
+
+B/G
+
+B/R
+
+B/W
+
+B/Y
+
+Bl/W
+
+Bl/Y
+
+Br/Y
+
+G/Y
+
+O/B
+
+Black with Blue tracer
+
+Black with Brown tracer
+
+Black with Green tracer
+
+Black with Red tracer
+
+Black with White tracer
+
+Black with Yellow tracer
+
+Blue with White tracer
+
+Black with Yellow tracer
+
+Brown with Yellow tracer
+
+Green with Yellow tracer
+
+Orange with Black tracer
+
+Black
+
+Blue
+
+Brown
+
+Deep green
+
+Green
+
+Bl
+
+Br
+
+Dg
+
+Grown
+
+Light blue
+
+Light green
+
+Orange
+
+Pink
+
+Gr
+
+Lbl
+
+Lg
+
+Red
+
+Violet
+
+White
+
+Yellow
+
+Downloaded from www.Manualslib.com manuals search engine
+
+1-1
+
+1-1
+
+1-2
+
+1-2
+
+1-2
+
+1-3
+
+WARNING/CAUTION/NOTE
+
+BREAK-IN PROCEDURE
+
+Downloaded from www.Manualslib.com manuals search engine
+
+WARNING/CAUTION/NOTE
+
+Indicates a potential hazard that could result in death or injury.
+
+Indicates a potential hazard that could result in motorcycle damage.
+
+NOTE: Indicates special information to make maintenance easier or instructions clearer.
+
+Please read this manual and follow its instructions carefully. To emphasize special information, the
+
+symbol and the words WARNING,CAUTION and NOTE have special meanings. Pay special attention to
+
+the messages highlighted by these signal words.
+
+Please note, however, that the warnings and the cautions contained in this manual cannot possibly cover
+
+all potential hazards relating to the servicing, or lack of servicing of the motorcycle. In addition to the
+
+WARNING and CAUTION stated, you must use good judgment and basic mechanical safety principles. If
+
+you are unsure about how to perform a particular service operation, ask a more experienced technician for
+
+advice.
+
+Proper service and repair procedures are important for the safety of the service technician and the
+
+safety and reliability of the motorcycle.
+
+When 2 or more persons work together, pay attention to safety of each other.
+
+When it is necessary to run the engine indoors, make sure that exhaust gas is forced outdoor.
+
+When working with the toxic or flammable materials, make sure that the area you work in is well ventilated and that you follow all of the material manufacturer's instructions.
+
+Never use gasoline as a cleaning solvent.
+
+To avoid getting burned, do not touch the engine, engine oil or exhaust system during or for a while
+
+after engine operation.
+
+After servicing fuel, oil, exhaust or brake system, check all lines and fittings related to the system
+
+for leakage.
+
+1-1
+
+Downloaded from www.Manualslib.com manuals search engine
+
+1-2
+
+NOTE: If parts replacement is necessary, replace the parts with SUZUKI GENUINE PARTS or their
+
+equivalent.
+
+When removing parts that are to be reused, keep them arranged in an orderly manner so that they
+
+may be reinstalled in the proper order and orientation.
+
+Be sure to use special tools when instructed.
+
+Make sure that all parts used in reassembly are clean, and also lubricated when specified.
+
+When use of a certain type of lubricant, bond, or sealant is specified, be sure to use the specified
+
+type.
+
+When performing service to electrical parts, if the service procedures not require used of battery
+
+power, disconnect the positive terminal.
+
+When removing the battery, disconnect the negative cable first and then the positive cable.
+
+When reconnecting the battery, connect the positive cable first and then the negative cable, and
+
+replace the terminal cover on the positive terminal.
+
+Tighten cylinder head and case bolts and nuts, beginning with larger diameter and ending with
+
+smaller diameter, from inside to outside diagonally, to the specified tightening torque.
+
+Whenever you remove oil seals, gaskets, packing, O-rings, locking washers, cotter pins, cir-clips,
+
+and certain other parts as specified, be sure to replace them with new ones. Also, before installing
+
+these new parts, be sure to remove any odd material from the mating surfaces.
+
+Never reuse a circlip. When installing a new circlip, take care not to expend the end gap larger than
+
+required to slip the circlip over the shaft. After installing a circlip, always ensure that it is completely
+
+seated in its groove and securely fitted.
+
+Do not use self-locking nuts a few times over.
+
+Use a torque wrench to tighten fasteners to the torque values when specified. Wipe off grease or oil
+
+if a thread is smeared with them.
+
+After reassembly, check parts for tightness and operation.
+
+To protect environment, do not unlawfully dispose of used motor oil and other fluids,
+
+batteries and tires.
+
+To protect earth's natural resources, properly dispose of used motorcycles and parts.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+The
+
+frame
+
+serial
+
+number
+
+V.I.N.
+
+(Vehicle
+
+Identification Number) 1
+
+is stamped on the right
+
+side of the steering head pipe. The engine serial
+
+number 2 is located on the left side of the
+
+crankcase.
+
+These
+
+numbers
+
+are
+
+required
+
+especially
+
+for
+
+registering
+
+the
+
+machine
+
+and
+
+rdering spare parts.
+
+Use
+
+fuel
+
+with
+
+an
+
+ctane
+
+number
+
+90-97
+
+(Research method), preferably unleaded.
+
+NOTE: Unleaded fuel will extend spark plug life.
+
+Be sure that the motorcycle engine oil you use
+
+comes under API classification of SF or SG and its
+
+viscosity rating is SAE 10W-40. If SAE 10W-40
+
+engine oil is not available, select the oil viscosity
+
+according to the following chart: SAE
+
+20W/50
+
+10W/50
+
+10W/30
+
+20W
+
+10W
+
+Temp.
+
+BREAK-IN PROCEDURE
+
+During the manufacture only the best
+
+ssible
+
+are used and all machined parts are
+
+finished to a very high standard
+
+allow the moving part to “BREAK-IN”
+
+subjecting the engine to maximum stresses
+
+the care and restraint exercised during
+
+its early life
+
+The general rules are as follows: p
+
+materials
+
+, it is still necessary
+
+to
+
+before
+
+. The
+
+future performance and reliability of the engine
+
+depend
+
+The throttle must not be opened to the full during
+
+the new motorcycle's break-in period. Throttle
+
+pening should be limited to less than 3/4 of its
+
+maximum, while violent acceleration should be
+
+avoided.
+
+Do
+
+not
+
+maintain
+
+constant
+
+engine
+
+gear
+
+and
+
+speed for an extended time period during any
+
+portion of the break-in. Try to vary the throttle
+
+position. During the period of break-in, increase
+
+the throttle opening properly to enable break-in
+
+fully.
+
+When engine is running at constant low speed
+
+(low load), parts will wear rapidly leads to bad
+
+brake-in.
+
+1-2
+
+SUZUKI ABSORBER OIL #32 OR EQUIVALENT
+
+DOT4
+
+Downloaded from www.Manualslib.com manuals search engine
+
+1-3
+
+2 000 mm
+
+815 mm
+
+1 100 mm
+
+1 300 mm
+
+175 mm
+
+113 kg
+
+Overall length
+
+Overall width
+
+Overall height
+
+Wheelbase
+
+Ground clearance
+
+Curb weight
+
+Single cylinder, vertical, air-cooled, four stroke
+
+57 mm
+
+48.8 mm
+
+124 ml
+
+9.2 : 1
+
+BS type
+
+Wet sump
+
+lyurethane foam element
+
+Electric
+
+Type
+
+Number of cylinders
+
+Bore
+
+Stroke
+
+Piston displacement
+
+Compression ratio
+
+Carburetor
+
+Air cleaner
+
+Starter system
+
+Lubrication system
+
+Clutch
+
+Transmission
+
+Primary reduction ratio
+
+Final reduction ratio
+
+Gear ratios, Low
+
+2nd
+
+3rd
+
+4th
+
+Top
+
+Drive chain
+
+Wet multi-plate type
+
+5-speed constant mesh
+
+3.470
+
+2.867
+
+3.000
+
+1.857
+
+1.368
+
+1.143
+
+0.957
+
+KMC 428H 116 links
+
+Downloaded from www.Manualslib.com manuals search engine
+
+1-4
+
+Ignition type
+
+Ignition timing
+
+Spark plug
+
+Battery
+
+Fuse
+
+Headlight
+
+Tail light/brake light
+
+Turn signal light
+
+Position light
+
+13° B.T.D.C below 2 000 r/min
+
+NGK CR8E
+
+12V 7Ah
+
+15 A
+
+12V, 35W/35W
+
+12V, 5W/21W
+
+12V, 10W
+
+12V, 5W
+
+Front absorber
+
+Rear absorber
+
+Steering angle
+
+Caster
+
+Trail
+
+Turning diameter
+
+Front brake
+
+Rear brake
+
+Front tire size
+
+Rear tire size
+
+Front absorber stroke
+
+Telescopic
+
+coil spring, oil damped
+
+Swingarm type, 5 level adjustable coil spring oil damped
+
+42°
+
+°
+
+,
+
+27 50'
+
+105 mm
+
+4 200 mm
+
+Disc brake
+
+Drum brake
+
+2.75-18 4PR
+
+3.50-16 4PR
+
+130 mm
+
+Fuel tank
+
+Reserve
+
+Engine oil, oil change
+
+with filter change
+
+Overhaul
+
+Front absorber oil (single)
+
+10 L
+
+2 L
+
+850 ml
+
+950 ml
+
+1 300 ml
+
+168 ml
+
+The specifications subject to change without notice.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-1
+
+2-3
+
+2-3
+
+2-4
+
+2-5
+
+2-5
+
+2-5
+
+2-6
+
+2-7
+
+2-7
+
+2-8
+
+2-8
+
+2-8
+
+2-9
+
+2-9
+
+2-9
+
+2-10
+
+2-11
+
+2-14
+
+2-14
+
+2-14
+
+2-15
+
+2-15
+
+2-17
+
+2-18
+
+BATTERY/FUSE
+
+CYLINDER HEAD, CYLINDER BOLTS AND NUTS
+
+CARBURETOR(IDLING)
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-1
+
+The chart below lists recommended intervals for all the required periodic service work necessary to keep
+
+the motorcycle operating at peak performance and economy. Mileages are expressed in terms of kilometer
+
+and time for your convenience.
+
+NOTE: More frequent servicing may be performed on motorcycles that are used under severe conditions.
+
+Valve clearance (when cold)
+
+Fuel hose
+
+Engine oil
+
+Oil sump filter
+
+Inspect
+
+Inspect
+
+Inspect
+
+2-3
+
+2-5
+
+2-9
+
+2-9
+
+2-7
+
+Air cleaner
+
+2-4
+
+2-7
+
+Spark plug
+
+Inspect
+
+Inspect
+
+2-6
+
+Replace every 10 000 km
+
+Muffler bolts
+
+2-5
+
+Tighten
+
+Tighten
+
+Clutch
+
+2-8
+
+Throttle cable clearance
+
+Inspect
+
+2-8
+
+Fuel strainer
+
+Inspect
+
+2-9
+
+Inspect
+
+Drive chain
+
+Inspect, clean and lubricate every 1 000 km
+
+2-10
+
+Tighten
+
+Tighten
+
+2-5
+
+Cylinder head and cylinder nuts
+
+Clean every 3 000 km
+
+Inspect
+
+Inspect
+
+25
+
+Tire
+
+Steering
+
+Front and rear absorber
+
+Chassis bolts and nuts
+
+Inspect
+
+Inspect
+
+Inspect
+
+Inspect
+
+Inspect
+
+Inspect
+
+Brakes
+
+Inspect
+
+Inspect
+
+2-14
+
+2-14
+
+2-14
+
+2-15
+
+Inspect
+
+Lighting and signal
+
+Brake fluid
+
+Brake fluid hose
+
+Inspect
+
+Inspect
+
+2-11
+
+Replace every 4 years
+
+Replace every 4 years
+
+Change every 2 years.
+
+Brakes
+
+Inspect
+
+Inspect
+
+Clean
+
+Inspect
+
+Inspect
+
+Inspect
+
+Interval
+
+Item
+
+Initial1 000
+
+Every 5 000
+
+Every 10 000
+
+Month
+
+Km 3
+
+Battery / Fuse
+
+Carburetor
+
+2-8
+
+Inspect
+
+Inspect
+
+Engine oil filter
+
+Change
+
+Change
+
+Replace
+
+Replace
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-2
+
+Throttle cable
+
+Throttle grip
+
+Clutch cable
+
+Drive chain
+
+Tachometer cable
+
+Brake cam shaft
+
+Steering
+
+Swing arm bearings
+
+Initial and Every 5 000
+
+Engine oil
+
+Engine oil
+
+Motor oil, every 1 000 km
+
+Every 10 000
+
+Grease
+
+Grease
+
+Grease every 2 years or 20 000 km.
+
+Be careful not to apply too much grease to the brake cam shafts. If grease gets on the
+
+linings, break slippage will result.
+
+Interval
+
+Item
+
+Month
+
+Km 6
+
+Speedometer cable
+
+Speedometer gear box
+
+Grease
+
+Grease
+
+Lubricate exposed parts which are subject to rust, with either motor oil or grease whenever the
+
+motorcycle has been operated under wet or rainy conditions. Before lubricating each part, clean
+
+ff any rusty spots and wipe off any grease, oil dirt or grime.
+
+Brake pedal
+
+Grease or motor oil
+
+Grease
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-3
+
+BATTERY / FUSE
+
+Inspect Initial 1 000 km and every 5 000 km
+
+When installing the battery lead wires, fix the
+
+lead first
+
+and
+
+lead last.
+
+09900-28403 : Hydrometer
+
+The battery must be removed to check the electrolyte level
+
+and specific gravity.
+
+Remove the right frame cover.
+
+Remove battery
+
+lead at the battery terminal.
+
+Remove battery
+
+lead.
+
+Remove battery from the chassis.
+
+Check
+
+electrolyte
+
+for
+
+level
+
+and
+
+specific
+
+gravity. Add
+
+distilled water, as necessary, to keep the surface of the
+
+electrolyte above the LOWER level line
+
+but not above the
+
+UPPER level line
+
+. For checking specific gravity, use a
+
+hydrometer to determine the charged condition. An S.G.
+
+reading of 1.28 (20
+
+C) or under means that the battery
+
+needs recharging off the machine: take it off and charge it
+
+from a recharger. Charging the battery in place can lead to
+
+failure of the regulator/rectifier.
+
+To install the battery, reverse the procedure described above.
+
+Make sure that the breather pipe is tightly secured and
+
+undamaged, and is routed as shown in the figure.
+
+The fuse locates on the belt of the battery. In case of engine
+
+stop suddenly or opened circuit, the fuse must be inspected.
+
+Standard specific gravity: 1.28 ± 0.01 at 20 C
+
+This section describes the service procedures for each
+
+section of Periodic Maintenance.
+
+Breather pipe
+
+Battery
+
+Do not use a fuse of a different specification , or it will
+
+incur negative effect to electric, fire and power loss of
+
+engine which is very dangerous.
+
+Do not use aluminum, iron wire or any other substitute for
+
+the fuse. If the fuse blows frequently, it indicates the
+
+electric system may has problem. Always investigate the
+
+cause, correct it and then replace the fuse.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-4
+
+Clean every 3 000 km
+
+Do not twist or wring the element because it will tear
+
+r the individual cells of the element will be damaged.
+
+If driving under dusty condition
+
+clean the air cleaner
+
+element more frequently.
+
+,
+
+Make
+
+sure
+
+the
+
+drain
+
+plug
+
+is
+
+fitted
+
+correctly
+
+after
+
+cleaning
+
+If driving under humidity condition
+
+clean the air
+
+cleaner more frequently.
+
+,
+
+Non-flammable
+
+Cleaning
+
+Solvent
+
+Motor oil
+
+If the air filter is clogged with dust, intake resistance will be
+
+increased with a resultant decrease in output and an increase
+
+in fuel consumption.
+
+Remove the plug and drain water and oil at the periodic
+
+maintenance interval.
+
+Remove the left frame cover.
+
+Remove the screws and take off the air filter cover.
+
+Separate the polyurethane foam element form the element
+
+frame.
+
+Fill a washing pan of a proper size with nonflammable clean ing solvent. Immerse the element in the cleaning solvent and
+
+wash it.
+
+Squeeze the cleaning solvent out of the washed element by
+
+pressing it between the palms of both hands.
+
+Immerse the element in motor oil, and squeeze the oil out of
+
+the element leaving it slightly wet with oil.
+
+Check and clean the element in the following manner.
+
+Reassemble the air cleaner in the reverse order of removal.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-5
+
+Muffler bolt
+
+: 11~15 N•m
+
+Inspect initial 1 000 km and tighten every 5 000 km
+
+Inspect initial 1 000 km and every 5 000 km.
+
+Cylinder head nut: 21~25 N•m
+
+Tighten the muffler bolts
+
+to the specified torque.
+
+Tighten four M10 nuts
+
+to the specified torque when the
+
+engine is cold.
+
+Inspect initial 1 000 km and every 5 000 km
+
+Excessive valve clearance results in valve noise, insufficient
+
+valve clearance results in valve damage and reduced power.
+
+At the distances indicated above, check and adjust the valve
+
+clearance to the following specification.
+
+Remove the spark plug,
+
+and
+
+valve inspection caps
+
+Remove the generator cover cap
+
+and rotate the generator
+
+rotor with wrench anticlockwise until the line on the rotor is
+
+aligned with the center(arrow mark) of hole on the crankcase
+
+to set the piston at TDC fo the compression stroke.
+
+valve timing inspection plug
+
+Cylinder nut: 8-12 N m
+
+Tighten the cylinder nut
+
+and
+
+to the specified torque.
+
+Valve clearance shoukld be checked when the engine is
+
+cold.
+
+Both
+
+the
+
+intake
+
+and
+
+exhaust
+
+valve
+
+must
+
+be
+
+checked and adjusted when the piston is at TDC of the
+
+compression stroke.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-6
+
+09900 20803
+
+Thickness gauge
+
+11F14-017: Valve adjust spring
+
+:
+
+Hook the valve rocker arm with the special tool, insert the
+
+thickness gauge to the valve stem end and the adjusting
+
+screw on the rocker arm.
+
+If the clearance is off the specification, bring it into the
+
+specified range by using the special tool.
+
+Valve clearance (when cold)
+
+IN.: 0.04-0.07 mm
+
+EX.: 0.13-0.18 mm
+
+0.7-0.8 mm
+
+Inspect initial 1 000 km and every 5 000 km, replace
+
+every 10 000 km.
+
+Hot type
+
+Standard
+
+Cold type
+
+CR7E
+
+CR8E
+
+CR9E
+
+Remove the carbon deposits with a wire of pin and adjust the
+
+spark plug gap to 0.7-0.8 mm, measuring with a thickness
+
+gauge.
+
+When removing the carbon deposits, be sure to observe the
+
+appearance of the plug, noting the color of the carbon
+
+deposits. The color observed indicates whether the standard
+
+plug is suitable or not. if the standard plug is apt to get wet, a
+
+hotter plug should be used. If the standard plug is apt to
+
+verheat (porcelain is whitish in appearance), replace with a
+
+cooler one.
+
+09900-20803: Thickness gauge
+
+Spark plug gap: 0.7-0.8 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-7
+
+Change initial 1 000 km and every 3 000 km
+
+Engine oil should be changed while the engine is hot.
+
+Start up the engine and allow it to run for several minutes at
+
+idling speed.
+
+Shut down the engine and wait about two minute. Then check
+
+the oil level in the oil level window. The motorcycle must be in
+
+a level, upright position for accurate measurement. If the
+
+level is below the “F” mark, add oil until the level reaches the
+
+“F” mark.
+
+Support the motorcycle by the center stand
+
+Drain the
+
+il by removing the drain plug and filler cap
+
+/ gauge.
+
+Tighten the drain plug and pour new engine oil through the oil
+
+filler. The engine will hold about 1 000 ml of oil. Use of SF/SG
+
+in API with an oil viscosity of SAW 10W-40.
+
+engine
+
+Required amount of engine oil: Oil change: 850 ml
+
+Oil filter change: 950 ml
+
+Overhaul: 1 300 ml
+
+⑤
+
+Clean initial 1 000 km and every 5 000 km
+
+Replace the oil filter in the following manner: Drain the engine oil by removing the drain plug.
+
+Remove the two screws securing the filter cap.
+
+Take off the cap
+
+, and pull out the filter
+
+Replace with the new engine oil filter.
+
+Before installing on the filter, check to be sure that the O ring
+
+is properly installed.
+
+Before putting on the filter cap
+
+make sure that spring
+
+and o-rings
+
+are installed correctly.
+
+Install the filter cap
+
+and tighten the screws securely.
+
+Add the engine oil and inspect the engine oil level.
+
+,
+
+When reassembly the oil filter, make sure to check the
+
+il filter installed as shown in illustration.
+
+If the filter is installed improperly, serious engine
+
+damage may result.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-8
+
+Clean every 10 000 km
+
+Clean the sump filter to remove any foreign matter that may be
+
+collected there. Inspect the screen to insure that it is free of
+
+any sign of damage.
+
+Inspect initial 1 000 km and every 5 000 km.
+
+4mm
+
+4mm
+
+The clutch play should be 4 mm as measured at the clutch
+
+lever holder before the clutch begins to disengage. If the play
+
+in the clutch is incorrect, adjust it in the following way:
+
+Loosen the lock nut
+
+and screw the adjuster
+
+n the
+
+clutch lever holder all the way in.
+
+Loosen clutch cable adjuster lock nut
+
+Turn the clutch cable adjuster
+
+in or out to acquire the
+
+specified play.
+
+Use the adjuster
+
+for minor adjustment.
+
+Tighten lock nut while holding the adjuster in position.
+
+Inspect initial 1 000 km and every 5 000 km
+
+Make this adjustment when the engine is hot.
+
+Excessive clutch cable play makes clutch dragging
+
+easily lead to the damage or wear of the clutch and gear
+
+shifting mechanism.
+
+Stable carburetor performance is the basis requirement for
+
+engine. The carburetor is pre-set at the factory for the best
+
+carbureting. Do not attempt to alter its setting. There are two
+
+items of adjustment, engine idle speed and throttle cable play.
+
+Start up the motorcycle, maintain the low engine speed until
+
+the motorcycle is preheated fully.
+
+After preheating
+
+set its speed at anywhere between 1 400
+
+and 1 600 r/min by turning adjust screw.
+
+,
+
+Engine idle speed: 1500±100 r/min
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-9
+
+Inspect initial 1 000 km and every 5 000 km.
+
+Replace
+
+every 4 years.
+
+Clean initial 1 000 km and every 5 000 km.
+
+Inspect the fuel hose
+
+and connections for damage and fuel
+
+leakage. If any defects are found, the fuel hose must be
+
+replaced.
+
+After fuel strainer removed, the fuel strainer should be
+
+throughly blown by compressed air from its interior to its
+
+exterior.
+
+The fuel strainer should be inspected and cleaned periodically.
+
+If the fuel strainer is damaged, replace it immediately.
+
+0.5-1.0mm
+
+After adjustment is completed, checked that handlebar
+
+movement does not raise engine idle speed and that the
+
+throttle grip returns smoothly and automatically.
+
+To adjust the throttle cable play to be 0.5-1.0 mm.
+
+Loosen the locking nut
+
+turn the adjuster
+
+so that the
+
+throttle grip has 0.5 -1.0 mm play.
+
+Tighten the locking nut
+
+,
+
+Inspect initial 1 000 km and every 5 000 km
+
+Filter bowl
+
+Fuel filter
+
+Seal ring
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-10
+
+Clean and lubricate every 1 000 km
+
+DRIVE CHAIN / SPROCKET
+
+Cleaning and Lubrication
+
+Drive Chain Adjustment
+
+Too much chain slack can cause the chain to come off
+
+the
+
+sprocket,
+
+resulting
+
+in
+
+an
+
+accident
+
+serious
+
+damage to the motorcycle. Inspect and adjust the drive
+
+chain slack before each use.
+
+Visually inspect the drive chain for the below listed possible
+
+malconditions. (Lift the rear wheel by placing the center stand,
+
+and turn the rear wheel slowly by hand with transmission in
+
+NEUTRAL.)
+
+1. Loose pins
+
+2. Damage rollers
+
+3. Rusted links
+
+4. Twisted or seized links
+
+5. Excessive wear
+
+If any defects are found, the drive chain must be replaced.
+
+Damage to the drive chain means that the sprockets may also
+
+be damaged. Inspect the sprockets for the following:
+
+1.Excessively worn teeth
+
+2.Broken or damaged teeth
+
+3.Loose sprocket mounting nuts
+
+After throughly washing the drive chain with detergent liquid
+
+and allowing it to dry, lubricate the drive chain with chain lube
+
+r new engine oil.
+
+Adjust the drive chain slack to the proper specification. The
+
+drive chain may require more frequent adjustment than
+
+periodic maintenance schedule depending upon your riding
+
+conditions.
+
+Count out 21 pins on the chain and measure the distance
+
+between. If the distance exceeds 259.4 mm, the chain must be
+
+replaced.
+
+Drive chain 20 pitch length limit: 259.4 mm
+
+09900-20103 : Vernier caliper
+
+10-20 mm
+
+Normal
+
+Excessive
+
+wear
+
+20 21 22
+
+1 2 3
+
+Place the motorcycle on center stand.
+
+Loosen rear axle nut
+
+Loosen the right and left lock nuts
+
+Loosen or tighten both chain adjuster bolts
+
+till there is 10 20mm of slack at the middle of the chain between engine
+
+and rear sprockets. The mark
+
+n both chain adjusters 5
+
+must be at the same position on the scale to ensure that
+
+front and rear wheels are correctly aligned.
+
+After adjusting the drive chain, tighten rear wheel axle nut
+
+to the specified torque.
+
+Check the rear brake pedal travel. (Refer to page 2-14)
+
+Rear axle nut: 50-80 N m
+
+Clip opening direction
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-11
+
+Inspect initially at 1 000 km and every 5 000 km.
+
+Replace hose every 4 years.
+
+Change fluid every 2 years.
+
+FRONT BRAKE(DISC TYPE)
+
+Brake fluid level
+
+Specification and classification: DOT 3 or DOT 4
+
+The brake system of this motorcycle is filled with a
+
+glycol-based brake fluid. Do not use or mix different
+
+types of fluid such as silicone-based or pertroieum based. Do not use any brake fluid taken from old, used
+
+r unsealed containers. Never re-use brake fluid left
+
+ver from the last servicing or stored for a long period.
+
+Brake fluid is harmful or fatal if swallowed, and harmful
+
+if it comes in contact with skin or eyes. If brake fluid is
+
+swallowed,
+
+immediately
+
+contact
+
+poison
+
+control
+
+center or a physician. If brake fluid gets in eyes, flush
+
+eyes with water and seek medical attention. Do not
+
+wash the master cylinder with high pressure water.
+
+Check the thickness
+
+f front brake disc, replace the front
+
+brake disc with new one if the thickness is less than 3.5mm.
+
+The extent of brake pad wear can be checked by observing the
+
+grooved limit line
+
+n the pad. When the wear exceeds the
+
+grooved limit line, replace the pads with new ones.
+
+Do not drive the motorcycle immediately after the
+
+replacement of the new brake disc or brake pads.
+
+Squeeze and release the brake lever several times to
+
+make the mating of
+
+brake disc and brake pads
+
+completely and circulation of brake fluid stably. The
+
+brake distance is longer than the original distance
+
+after the replacement of new brake disc or brake pads.
+
+After 300 km of driving, the motorcycle will get the
+
+best break performance. Before that, Keeping enough
+
+brake distance is necessary during the driving.
+
+Support the motorcycle body on the center stand, and place
+
+the handlebars straight.
+
+Check the brake fluid level by observing the lower level line
+
+n the brake fluid reservoir.
+
+When the level is below the lower level line, replenish with
+
+brake fluid that meets the following specification.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-12
+
+Handle the brake fluid with care: the fluid reacts
+
+chemically with paint, plastics, rubber materials, etc.
+
+Replenish the brake fluid reservoir as necessary while
+
+bleeding the brake system. Make sure that there is
+
+always some fluid visible in the reservoir.
+
+Air trapped in the fluid circuit acts like a cushion to absorb a
+
+large proportion of the pressure developed by the master
+
+cylinder and thus interferes with the full braking performance
+
+f the caliper brake. The presence of air is indicated by
+
+"sponginess" of the brake lever and also by lack of braking
+
+force. Considering the danger to which such trapped air
+
+exposes the machine and rider, it is essential that, after
+
+remounting the brake and restoring the brake system to the
+
+normal condition, the brake fluid circuit be purged of air in the
+
+following manner: Fill up the master cylinder reservoir to the upper line.
+
+Replace the reservoir cap to prevent entry of dirt.
+
+Attach a pipe to the caliper bleeder valve, and insert the free
+
+end of the pipe into a receptacle.
+
+Squeeze and release the brake lever several times in rapid
+
+succession, and squeeze the lever fully without releasing it.
+
+Loosen the bleeder valve by turning it a quarter of a turn so
+
+that the brake fluid runs into the receptacle; this will remove
+
+the tension of the brake lever causing it to touch the
+
+handlebar grip. Then close the valve, pump and squeeze the
+
+lever, and open the valve.
+
+Repeat this process until the fluid flowing into the receptacle
+
+no longer contains air bubbles.
+
+Close the bleeder valve, and disconnect the pipe. Fill the
+
+reservoir to the "upper” level line.
+
+Squeeze the front brake lever to inspect the brake light switch.
+
+If the brake light switch works inflexible, inspect, adjust or
+
+replace.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-13
+
+Rear brake pedal height
+
+Rear brake pedal travel
+
+Adjust the brake pedal limit screw
+
+to set the brake pedal at
+
+the position of 10-20mm higher than the footrest, then tighten
+
+the locking nut.
+
+Rear brake travel
+
+is the distance from stepping on the brake
+
+pedal until the brake begins taking effect
+
+Turn the rear brake adjuster
+
+to adjust the travel
+
+to 20-30
+
+mm.
+
+Rear brake pedal height
+
+: 10-20 mm
+
+Brake pedal travel
+
+: 15~25 mm
+
+Adjust rear brake light switch so that brake light will come on
+
+just before a pressure is felt when the brake pedal is stepped.
+
+The motorcycle is equipped with brake lining wear limit
+
+indicator on rear brakes. To check wear of the break lining,
+
+follow the steps below.
+
+Check if the brake system is properly adjusted first.
+
+While operating the brake, check to see the extension line 1
+
+from the index mark
+
+is within the range on the brake panel.
+
+If the index mark is outside the range as shown in the
+
+illustration at right, the brake shoes should be replaced to
+
+ensure safe operation.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-14
+
+Check the tire pressure and surface during the maintenance.
+
+There are serial marks
+
+T.W.I. (Tire Wear Indicator) in the
+
+edge of the tire. Check the block
+
+f T.W.I. in the tread near
+
+the mark. If the tire wears off to reach the boss, the tire should
+
+be replaced.
+
+Check the damage
+
+(punctures or fractures) on the tire
+
+surface visually. As surface damage may impede driving
+
+stability, such tires should be replaced.
+
+Inspect initial 1 000 km and every 5 000 km
+
+Proper
+
+tire
+
+pressure
+
+and
+
+condition
+
+affect
+
+vehicle
+
+performance.
+
+Please
+
+check
+
+the
+
+tire
+
+pressure
+
+and
+
+surface condition periodically.
+
+Inspect initial 1 000 Km and every 5 000 Km
+
+Steering stem bearings should be adjusted properly for smooth
+
+turning of the handlebars and safe running.
+
+Steering which is too stiff prevents smooth movement of
+
+handlebar.
+
+Steering which is too loose will cause vibration and damage to
+
+the steering bearing. Check to see that there is no play in the
+
+front fork attachment.
+
+If the play is found, perform the steering bearing adjustment as
+
+described in page 5-16 of this manual.
+
+Inspect every 5 000 km.
+
+Grasp the front brake, squeeze the front absorber to check
+
+it’s motion.
+
+Check for leaks or damage. Replace damaged parts and
+
+tighten all bolts and nuts.
+
+Kpa
+
+kg/cm
+
+1.75
+
+2.00
+
+kpa
+
+Kg/cm
+
+1.75
+
+2.25
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-15
+
+Inspect initial 1 000 km and every 5 000 km
+
+Inspect the headlight, left and right turn signal light, tail light /
+
+brake light and dashboard signal light, replace the light if there
+
+is something unusual. (Refer to page 6-7)
+
+Press the rear carrier, move the rear absorber up and down
+
+four or five times to check for the noise or smooth movement.
+
+Inspect the rear absorber spring for damage, deformation or
+
+il leakage.
+
+Inspect initial 1 000 km and every 5 000 km
+
+The nuts and bolts listed are important parts, and they must be in good condition for safety. They must be
+
+re-tightened, as necessary, to the specified torque with a torque wrench.
+
+N•m
+
+Kg m
+
+Front axle nut
+
+Front brake caliper mounting bolts
+
+Brake hose union bolt
+
+Front brake disc mounting bolts
+
+Front absorber cap bolts
+
+Handlebar clamping bolts
+
+Steering bolt
+
+Lower bracket bolts (front absorber clamp bolts)
+
+Rear absorber fitting nuts
+
+Rear axle nut
+
+Rear brake cam lever bolt
+
+Engine mounting bolts
+
+Engine hanging nuts
+
+Rear swing arm shaft nut
+
+Exhaust pipe bolt
+
+Rear torque link bolts
+
+36-52
+
+18-28
+
+20-25
+
+18-28
+
+35-55
+
+12-20
+
+35-55
+
+25-35
+
+22-35
+
+50-80
+
+6-8
+
+33-39
+
+22-33
+
+10-16
+
+50-80
+
+11-15
+
+3.6-5.2
+
+1.8-2.8
+
+2.0-2.5
+
+1.8-2.8
+
+3.5-5.5
+
+1.2-2.0
+
+3.5-5.5
+
+2.5-3.5
+
+2.2-3.5
+
+5.0-8.0
+
+0.6-0.8
+
+3.3-3.9
+
+2.2-3.3
+
+1.0-1.6
+
+5.0-8.0
+
+1.1-1.5
+
+Downloaded from www.Manualslib.com manuals search engine
+
+2-16
+
+Downloaded from www.Manualslib.com manuals search engine
+
+A low compression pressure may indicate any of the following malfunctions: Excessively worn cylinder wall.
+
+Worn piston or piston rings.
+
+Piston rings stuck in the grooves.
+
+Poor seating contact of valves.
+
+Defective cylinder head gasket.
+
+NOTE: Before testing the engine for compression pressure, make sure that the cylinder head nuts
+
+and bolts are tightened to specified torque values and valves clearance are properly adjusted.
+
+Have the engine warmed up by idling before testing it.
+
+Ensure that the battery is fully charged.
+
+Compression gauge
+
+09915-64512
+
+Adapter
+
+09915-63310
+
+①
+
+②
+
+Compression pressure
+
+Standard
+
+Limit
+
+8 kg/cm
+
+10-14 kg/cm
+
+When the compression pressure noted is down to or below the limit indicated above, the engine must be
+
+disassembled, inspected and repaired as required.
+
+2-17
+
+Cylinder compression is an indicator of its inner state. The necessity of repair depends on the result of
+
+inspection. The record of your authorized maintenance dealer should include compression pressure
+
+readings obtained in every maintenance.
+
+Remove related parts and inspect compression pressure in the following process: Support the motorcycle with the main stand;
+
+Remove spark plug;
+
+Fit pressure gauge
+
+and adapter
+
+to the spark plug
+
+hole, pay attention to connector tightening;
+
+Turn throttle to full opening;
+
+Electrically
+
+start
+
+the
+
+motorcycle,
+
+take
+
+the
+
+maximum
+
+reading in the recording as cylinder compression pressure.
+
+①
+
+②
+
+2-17
+
+Inspect initial 1 000 km and every 5 000 km
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Support the motorcycle with the main stand;
+
+Install the oil pressure gauge in the position shown in the
+
+illustration.
+
+Warm up the engine as follows.
+
+Summer: approx. 10 min. at 2 000 r/min.
+
+Winter: approx. 20 min. at 2 000 r/min.
+
+After the warming up operation, increase the engine speed to
+
+3 000 r/min, and read the oil pressure gauge
+
+③Oil pressure gauge
+
+09915-74510
+
+2-18
+
+Periodically inspect oil pressure of engine so as to ascertain the state of moving parts.
+
+Oil pressure specification
+
+Above 10 kPa (0.1kg/cm )
+
+Below 30 kPa (0.3kg/cm )
+
+at 3,000rpm, Oil temperature 60
+
+Engine strainer clogging
+
+Oil leakage at oil hole
+
+O-ring damage
+
+Engine oil pump damage
+
+Any concurrence of the above
+
+A low oil pressure may indicate any of the following malfunctions: Excessive viscosity of engine oil
+
+Oil hole clogging
+
+Any concurrence of the above
+
+A high oil pressure may indicate any of the following malfunctions: Oil pressure inspection procedure
+
+2-18
+
+Inspect every 5 000 km
+
+Downloaded from www.Manualslib.com manuals search engine
+
+CRANKSHAFT, TRANSMISSION AND KICK STARTER DEVICE
+
+3-1
+
+3-2
+
+3-6
+
+3-17
+
+3-21
+
+3-25
+
+3-26
+
+3-27
+
+3-31
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-1
+
+Chain tensioner
+
+Cam shaft
+
+Cylinder head cover
+
+Cylinder head
+
+Cylinder
+
+Piston
+
+Oil filter
+
+Clutch cover
+
+Clutch
+
+Oil pump
+
+Gear shifting shaft
+
+Sprocket cover
+
+Starting motor
+
+Generator rotor
+
+Starting clutch
+
+Generator stator
+
+Trigger coil
+
+3-6
+
+3-6
+
+3-7
+
+3-7
+
+3-17
+
+3-17
+
+3-21
+
+3-21
+
+3-22
+
+3-25
+
+3-26
+
+3-27
+
+3-27
+
+3-27
+
+3-28
+
+3-28
+
+3-28
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-2
+
+Before taking the engine out of the frame, wash the
+
+engine
+
+with a suitable cleaner. The procedure of engine removal is
+
+sequentially explained in the following steps: Support the motorcycle with main stand.
+
+Drain the engine oil.
+
+Remove the left and right seat mounting bolts and left rear
+
+shock absorber nut, then take off the seat.
+
+Remove the left and right side cover
+
+Remove the battery
+
+lead.
+
+Turn off the fuel switch, remove the fuel hose.
+
+Disconnect the fuel gauge coupler.
+
+Take off the fuel tank by removing the mounting bolts
+
+Take off the clutch cable by removing the clutch lever bolt
+
+2 and adjuster lock nut
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-3
+
+Remove the generator and gear indication light coupler 5
+
+and
+
+Disconnect the carburetor balancer pipe
+
+by unscrewing
+
+the clamp screws.
+
+Take off the engine sprocket cover
+
+Disconnect the ground wire
+
+from the crankcase.
+
+Take off the drive chain by removing the clip
+
+Remove the crankcase breather pipe
+
+Remove the speedometer cable mounting screw, take off the
+
+speedometer cable assembly
+
+Loosen the throttle cable adjuster lock nuts, and take off the
+
+throttle cable
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-4
+
+Remove the lead wire
+
+f starter motor wire.
+
+Take off the spark plug cap
+
+Remove the muffler mounting bolt
+
+Remove the muffler mounting bolts
+
+then take off the
+
+muffler.
+
+,
+
+Remove the engine front mounting bolt
+
+and engine lower
+
+hanging plate bolt
+
+, take off the engine lower hanging
+
+plate.
+
+Remove the engine upper mounting bolt
+
+and rear lower
+
+mounting bolt
+
+Remove the rear swing arm shaft nut
+
+, draw out the rear
+
+swing arm shaft, take out the engine from the right side.
+
+,
+
+Be
+
+careful
+
+not
+
+to
+
+draw
+
+ut
+
+the
+
+swing
+
+arm
+
+pivot
+
+shaft completely from the left side swing arm pivot
+
+hole
+
+Insert the shaft or rod into the right side pivot
+
+hole from the right side of the frame to keep the
+
+alignment of the frame holes and swing arm pivot
+
+holes.
+
+The engine must be taken out from the right side
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-5
+
+The engine can be mounted in the reverse order of removal.
+
+Engine mounting nut
+
+: 33-39 N•m
+
+Engine lower hanging nut
+
+: 22-33 N•m
+
+Swing arm nut
+
+:50-80 N•m
+
+Muffler bolt
+
+:11-15 N•m
+
+Install the drive chain and drive chain clip
+
+Align the release arm slit surface with the notch mark on the
+
+release cam shaft.
+
+Notch mark
+
+Slit
+
+:
+
+The engine mounting nuts are self-lock nuts. Once the nut
+
+has been removed, it is no longer of any use. Be sure to
+
+use new nuts and tighten them to the specified torque.
+
+Temporarily
+
+fasten the engine mounting bracket before
+
+inserting the engine mounting bolts.
+
+Tightening torque for engine mounting bolts: 1
+
+After installing the engine, pour the engine oil into the
+
+engine. (Refer to page 2-7)
+
+Inspect the oil level. (Refer to page 2-7)
+
+Inspect the throttle cable (page 2-9)
+
+Inspect the clutch cable
+
+Inspect the idling speed
+
+Inspect the drive chain
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-6
+
+When removing cylinder head cover
+
+piston must be
+
+at top dead center on compression stroke.
+
+,
+
+Drain the engine oil, take off the engine. (Refer to page 3-2)
+
+Remove the generator cover cap
+
+and valve timing inspect ing plug
+
+Bring the piston to top dead center.
+
+Remove the camshaft chain tensioner
+
+Loosen the cylinder head cover bolts diagonally.
+
+Remove the cylinder head cover.
+
+Remove the valve inspecting caps
+
+Do not remove
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-7
+
+Do not drop camshaft drive chain, pin and sprocket into
+
+the crankcase.
+
+The cam chain tensioner bolt
+
+is to be removed
+
+nly when disassembling the engine
+
+Remove the camshaft sprocket bolts and detach the cam shaft.
+
+Remove the cylinder head side nuts and cylinder side nuts.
+
+Loosen the cylinder head cover nuts diagonally, then detach
+
+the cylinder head.
+
+Remove the rocker arm shaft set bolts.
+
+Pull out the rocker arm shafts with pliers, remove the spring
+
+and spring washer.
+
+If it is difficult to remove the cylinder head
+
+gently pry it
+
+ff while tapping the finless portion of the cylinder
+
+head with a plastic hammer
+
+Be careful not to break the
+
+fins.
+
+,
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-8
+
+Take off the valve cotters from the valve stem.
+
+Take out the valve spring retainers
+
+inner springs and
+
+uter springs.
+
+Pull out the valves from the other side.
+
+,
+
+Remove the oil seal.
+
+Remove the spring lower retainer.
+
+After removed the sealant from the fitting surface of the
+
+cylinder head cover, place the cylinder head cover on a plain
+
+plate and check for distortion with a thickness gauge. Check
+
+points are shown in Fig. If the distortion exceeds the limit,
+
+replace the cylinder head cover.
+
+Measure the diameter of rocker arm shaft.
+
+11F14 018: Valve spring tools
+
+Removed oil seal should be replaced with a new one.
+
+09900 20803 Thickness gauge
+
+:
+
+09900-20205 : Micrometer (0-25 mm)
+
+Cylinder head distortion limit: 0.05 mm
+
+Rocker arm shaft O.D. (IN and EX): 11.977-11.995 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-9
+
+09900 20605: Caliper gauge
+
+09900-22302: Plastigage (0.051 – 0.152 mm)
+
+Check the inside diameter of the valve rocker arm and wear
+
+f the camshaft contacting surface.
+
+The camshaft should be checked for runout and also for
+
+wear of cams and journals if the engine has been noted
+
+to produce abnormal noise or vibration or a lack of output
+
+power.
+
+Worn-down cams are often the cause of mistimed valve
+
+peration resulting in reduced output power. The limit of cam
+
+wear is specified for both intake and exhaust cams in terms of
+
+cam height
+
+, which is to be measured with a micrometer.
+
+Replace camshafts if found it worn down to the limit.
+
+Determine whether each journal is worn down to the limit or
+
+not by measuring camshaft journal oil clearance with the
+
+camshaft installed.
+
+Use the plastigage to read the clearance at the widest
+
+portion, install the cylinder head cover and tighten the
+
+cylinder head cover bolts to the specified torque.
+
+Remove the cylinder head cover and measure the width of
+
+the compressed plastigage using the envelope scale. This
+
+measurement should be taken at the widest part of the
+
+compressed plastigage.
+
+09900-20202: Micrometer (25-50 mm)
+
+Rocker arm shaft O.D. (IN and EX): 12.0-12.018 mm
+
+Camshaft journal oil clearance limit: 0.15 mm
+
+Cam height H limit: IN.: 33 35mm
+
+EX.: 33.0 mm
+
+If the camshaft journal oil clearance measured exceeds the
+
+limit, measure the outside diameter of camshaft.
+
+Replace either the cylinder head set or the camshaft if the
+
+clearance is incorrect.
+
+09900-20205: Micrometer (0-25 mm)
+
+Camshaft journal O.D.: 21.970-21.991 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-10
+
+09900 20103: Vernier calipers
+
+Measure the valve spring free length.
+
+Measure the thickness
+
+, and if the thickness is found to
+
+have been reduced to the limit, replace the valve.
+
+Check the spark plug hole and valve of combustion chamber
+
+part for scratch.
+
+Check the gasketed surface of the cylinder head for distor tion with a straightedge and thickness gauge.
+
+Check the valve stem for bending, pitting or abnormal wear.
+
+Measure the valve stem O.D.
+
+09900-20803:Thickness gauge
+
+09900-20205 : Micrometer (0~25 mm)
+
+Visually
+
+inspect
+
+each
+
+valve for wear of its seating
+
+face. Replace any valve with an abnormally worn face.
+
+Valve stem O.D.:
+
+IN.: 4.975-4.99 mm
+
+EX.: 4.955-4.97 mm
+
+Valve spring free length imit: IN.: 31.24 mm
+
+EX.: 33.58 mm
+
+Cylinder head distortion limit: 0.05 mm
+
+Valve face thickness limit: 0.5 mm
+
+09900-20606: Dial gauge (1/100 mm)
+
+09900-20701: Magnetic stand
+
+09900-21304: V-block ( 100 mm)
+
+Measure the runout with a dial gauge
+
+Replace the cam shaft if the runout exceeds the limit.
+
+Camshaft runout limit: 0.1 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-11
+
+Place the dial gauge at right angles to the valve head,
+
+and measure the valve head radial runout. If it measures
+
+more the limit, replace the valve .
+
+09900-20606: Dial gauge (1/100 mm)
+
+09900-20701: Magnetic stand
+
+09900-21304: V-block ( 100 mm)
+
+Valve stem runout limit: 0.03 mm
+
+Support the valve with “V” blocks as shown, and check its
+
+runout with a dial gauge. The valve must be replaced if the
+
+runout exceeds the limit.
+
+09900-20606: Dial gauge (1/100 mm)
+
+09900-20701: Magnetic stand
+
+09900-21304: V-block ( 100 mm)
+
+Valve stem runout limit: 0.05 mm
+
+Throughly clean the the carbon deposits on the valves and
+
+valve seat.
+
+Coat the valve seat with Prussian Blue uniformly.
+
+Hold the valve with valve lapper, fit the valve and tap the
+
+coated seat with the valve face in a rotating manner in order
+
+to obtain a clear impression contact.
+
+The ring-like dye impression left on the valve face must be
+
+continuous without any break.
+
+The impression contact can be used to check the contact
+
+surface institute, the contact position.
+
+In addition, the width of the dye ring, which is the visualized
+
+seat "width", must be within the specification.
+
+If any requirement is not met, correct the valve seat by
+
+servicing it as follow steps.
+
+09916-10911: Valve lapper set
+
+The valve seat contact area must be inspected after
+
+each cut.
+
+Do not use lapping compound after the final cut is
+
+made. The finished valve seat should have a velvety
+
+smooth finish but not a highly polished or shiny finish.
+
+This will provide a soft surface for the final seating of
+
+the valve which will occur during the first few seconds
+
+f engine operation.
+
+valve seat
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-12
+
+Valve seat angle
+
+Valve width
+
+0.9-1.1mm
+
+Check the contact surface institute.
+
+If found any defective, service the valve seat.
+
+Exhaust side
+
+N-122
+
+N-121
+
+Intake side
+
+N-122
+
+N-126
+
+N-111
+
+09916-21110: Valve reamer set
+
+Damaged surface
+
+Uneven contact surface
+
+valve seat
+
+Contact surface is too low
+
+Contact surface is too high
+
+Using the 45
+
+reamer, descale and cleanup the seat with
+
+ne or two turns.
+
+The valve seat position will affect the contact surface
+
+f valve, this is very important to the good sealing.
+
+NOTE: Check the contact position.
+
+°
+
+If the contact face of the valve
+
+is too high, finish it with 30 reamer to reduce the height.
+
+If the contact face of valve is too low finish it with 60
+
+reamer to increase the height.
+
+Finish the valve seat surface again to standard range with
+
+°
+
+45 reamer
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Width
+
+Valve seat width: 0.9-1.1 mm
+
+3-13
+
+09900-20103: Vernier calipers
+
+Check the contact width.
+
+If contact width is too small, cut the valve seat with a 45
+
+reamer to raise.
+
+After the desired seat position and width is achieved, apply a
+
+layer of lapping compound and use the reamer very lightly to
+
+service the valve seat. After servicing, clean up the remaining
+
+lapping compound on the cylinder head and valve.
+
+Check the valve seat contact surface again.
+
+If the lapping pressure is too big, valve seat will be
+
+possibly distorted or damaged. Change the lapping
+
+tool angel frequently to prevent valve seat surface
+
+from being uneven. If the lapping compound get into
+
+the middle of the valve and valve guide will possibly
+
+lead to damage.
+
+If the valve seat contact width is too big, cut the valve seat
+
+ut side 1/8 with a 30 reamer and cut the bottom 1/8 with a
+
+60 reamer to lower.
+
+Check the contact width.
+
+If the width is out out off the specication, repeat the operation
+
+above steps.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-14
+
+Gasoline is very explosive, be sure to keep the work
+
+area well ventilated. Keep away from fire and spark.
+
+Clean and assemble cylinder head and valve components.
+
+Fill intake and exhaust ports with gasoline to check for
+
+leaks and worn seals.
+
+If any leaks occur, check the valve seat and face for burrs or
+
+ther defects that could prevent the valve from fully seating.
+
+Clean the cylinder head thoroughly with a cleaning
+
+liquid and blow all passages with compressed air.
+
+99000-25140: MOLY PASTE
+
+NOTE: When a valve spring is mounted, the seal ring side should face
+
+the combustion chamber. In order to avoid oil seal damage,
+
+the valve oil seal should be mounted while the valve is rotating
+
+slowly.
+
+Reassemble the cylinder head in the reverse order of
+
+removal, pay attention to the following points:
+
+Oil each seal, and drive them into the position.
+
+Always use new oil seal.
+
+Lubricate all valves with Moly Paste.
+
+Insert the valves into valve guide pipes.
+
+Install the valve spring washer, inner spring, outer spring
+
+and retainer.
+
+Install
+
+valve
+
+springs
+
+making
+
+sure
+
+that
+
+the
+
+close pitch end of each spring goes in first to rest on the head.
+
+,
+
+Cylinder
+
+head
+
+Close-pitch
+
+Large-pitch
+
+Large-pitch
+
+Close-pitch
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-15
+
+11F14 018: Valve spring tools
+
+Do not let dirt and dust get into the engine.
+
+Install the valve cotters with the special tool.
+
+Clean the cylinder head cover throughly with detergent.
+
+Lubricate the rocker arm shaft with engine oil.
+
+Mount the rocker arm, rocker spring, flexuous washer and
+
+rocker arm to the cylinder head cover.
+
+Tighten the rocker arm shaft set bolts to the specified torque.
+
+Clean up the cylinder head surface.
+
+Reassemble the cylinder head in the reverse order of dis assembly, pay attention to the following points:
+
+Install the dowel pins
+
+and cylinder head gasket.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-16
+
+Cylinder head nut: 21-25 N•m
+
+Install the four nuts and washers, tighten the nuts to
+
+specified torque.
+
+Cylinder side nut: 8-12 N•m
+
+Install the four cylinder side nuts, tighten the nuts to the
+
+specified torque.
+
+Inspect the valve clearance. (Refer to page 2-5)
+
+Bring the piston to top dead center before installing the
+
+camshaft and cam sprocket. Align the marks on the
+
+camshaft so it is parallel with the surface of the
+
+cylinder head. Apply Thread lock to the bolts.
+
+99000-32030: Thread lock “1303"
+
+99000-31110: Bond No. 1215
+
+Wipe up the oil on the cylinder head fitting surface.
+
+Install the two dowel pins on the cylinder head.
+
+Apply the Bond No. 1215 to the mating surface of cylinder
+
+head.
+
+Apply the Moly paste to the tip of cam
+
+Install the camshaft, sprocket and chain.
+
+EX.
+
+IN.
+
+Copper washer
+
+Copper washer
+
+Copper washer
+
+Copper washer
+
+99000-25100: Moly paste
+
+Pins
+
+Pins
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-17
+
+09900-20803: Thickness gauge
+
+09900-20508: Cylinder gauge set
+
+09910 34510: Piston pin remover
+
+Place a clean rag over the cylinder base to prevent
+
+piston pin circlip from dropping into crankcase.
+
+Hold the piston stably when taking out the piston pin
+
+to prevent the damage to conrod big end bearing.
+
+When removing the piston ring, be careful not to
+
+damage the piston. Do not expand the piston ring
+
+excessively since it is apt to be broken down.
+
+Remove the cylinder head. (Refer to page 3-7)
+
+Remove the gasket, dowel pins and guide rod.
+
+Remove the cylinder.
+
+Clean the remaining gasket on the cylinder surface
+
+Check the gasketed surface of the cylinder for distortion
+
+with a stragihtedge and thickness gauge.
+
+Inspect the cylinder bore for wear or damage.
+
+Measure the cylinder bore diameter at six places. If any one
+
+the
+
+measurements
+
+exceeds
+
+the
+
+limit,
+
+verhaul
+
+the
+
+cylinder and replace the piston with an oversize, or replace
+
+the cylinder.
+
+Remove the piston pin circlip
+
+Remove the piston pin and piston with the special tool.
+
+Remove the piston rings one by one by expanding the gap
+
+symmetry.
+
+Cylinder distortion limit: 0.05 mm
+
+Cylinder bore diameter limit : 57.135 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-18
+
+09900-20803: Thickness gauge
+
+Using a soft-metal scrapper or discarded piston ring
+
+to decarbon the ring grooves of the piston. Do not use
+
+the steel brush or the piston will be scratched.
+
+09900-20203: Micrometer (50~75 mm)
+
+09900-20605: Caliper gauge
+
+09900-20205: Micrometer (0-25)
+
+8mm
+
+Decarbonize the piston.
+
+Temporary install the piston rings to the suitable position
+
+with marked side upward.
+
+Measure the clearance between the piston ring and groove
+
+with a thickness gauge.
+
+Measure the piston outside diameter at the place 8mm from
+
+the skirt end with a micrometer.
+
+Using a caliper gauge to measure the inside diameter of the
+
+piston pin bore.
+
+Using a micrometer to measure the piston pin O.D..
+
+Piston ring-groove clearance limit:
+
+1st: 0.180 mm
+
+2nd: 0.150 mm
+
+Piston outside diameter limit: 56.844 mm at the 8 mm from the skirt end
+
+Piston pin bore inside diameter limit: 14.03 mm
+
+Piston pin O.D.: limit: 13.98 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-19
+
+Make sure to fit the piston ring in the cylinder evenly
+
+with the piston head.
+
+09900-20803 Thickness gauge
+
+:
+
+Hold each piston ring with the piston rings properly
+
+spaced and insert them into the cylinder.
+
+Check to insure that piston rings are properly inserted
+
+in the the cylinder skirt.
+
+Install the piston rings in the order of oil ring, 2nd ring
+
+and 1st ring. Do not align the gap of oil ring with
+
+expander ring.
+
+Piston rings should turn smoothly in the piston groove after
+
+assembly.
+
+The gaps of two piston rings should be staggered at 120°.
+
+Carefully fit the piston rings to the piston with marked
+
+side to the top.
+
+Clean the top, skirt or groove of the piston.
+
+Install the piston and cylinder in the reverse order of removal.
+
+Pay attention to the following points: Fit the rings in the cylinder, and measure each ring end gap
+
+with a thickness gauge. If any ring has an excess end gap,
+
+replace the ring.
+
+Piston ring end gap limit: 1st: 0.50 mm
+
+2nd: 0.50 mm
+
+09900-20605: Caliper gauge
+
+Measure the conrod small end I D
+
+Conrod small end I.D.: limit: 14.04 mm
+
+Be careful do not damage the piston ring and piston
+
+when installing the piston ring. Make sure to position
+
+the gaps of the top ring and 2nd ring as required.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-20
+
+Hold each piston ring with their properly spaced and insert
+
+them into the cylinder.
+
+Check to insure that the piston rings are properly inserted
+
+into the cylinder skirt.
+
+Before assembling the cylinder head, apply oil to conrod big
+
+end, small end and piston sliding part.
+
+Install the dowel pins
+
+, then install the gasket.
+
+When installing the piston
+
+the indent on the piston head
+
+must be located to the exhaust side
+
+,
+
+Place a clean rag over the cylinder base to prevent piston pin
+
+circlip from dropping into crankcase, and then fit the piston
+
+pin circlip with long-nose pliers.
+
+Replace with a new piston pin circlip to prevent circlip
+
+slipping from position.
+
+End gap of the circlip should not be aligned with the
+
+cutaway in the piston pin bore.
+
+To prevent oil leakage, do not use the used gasket
+
+again, always use new one.
+
+NOTE: When mounting the cylinder
+
+after attaching camshaft
+
+drive chain
+
+, keep the camshaft drive chain taut, The
+
+camsahft drive chain must not be caught between cam
+
+drive chain sprocket and crankcase when crankshaft is
+
+rotated.
+
+There is a holder for the bottom end of the cam chain
+
+guide cast in the crankcase. Be sure that the guide is
+
+inserted properly or binding of the cam chain and guide
+
+may result.
+
+,
+
+Install the cylinder head. (Refer to page 3-15)
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-21
+
+Drain the engine oil
+
+Remove the oil filter cover nuts, take off the oil filter cover
+
+Remove the oil filter.
+
+Remove the clutch cover screws diagonally, take off the
+
+clutch cover
+
+Remove the gasket and dowel pins.
+
+Remove the clutch spring bolts diagonally.
+
+Remove clutch pressure plate
+
+, washer
+
+, bearing
+
+and
+
+clutch push block
+
+Remove the clutch push rod
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-22
+
+Flatten the lock washer..
+
+Hold the clutch hub with the special tool, remove the clutch
+
+hub nut and lock washer.
+
+09920-53710: Clutch sleeve hub holder
+
+Remove the clutch hub and washer.
+
+Remove the primary driven gear, spacer and washer.
+
+Measure the thickness and claw width of each drive plate
+
+with vernier calipers. Replace the drive plates found to have
+
+worn down to the limit.
+
+09900-20103: Vernier calipers
+
+Drive plate thickness limit: 2.6 mm
+
+Remove the clutch drive plates and driven plates.
+
+Checking thickness
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-23
+
+Measure each driven plate for distortion with a thickness
+
+gauge. Replace all driven plates if any of them exceeds the
+
+limit.
+
+09900 20803: Thickness gauge
+
+Replace the drive and drive plates as a whole set which
+
+exceed the limit.
+
+Drive plate claw width limit: 11.0 mm
+
+Driven plate distortion limit: 0.1 mm
+
+Measure the clutch spring free length.
+
+Replace all the springs if any spring is not within the
+
+limit.
+
+09900 20103: Vernier calipers
+
+Clutch spring free length limit: 29.45 mm
+
+Inspect the clutch release bearing for any abnormality, parti cularly cracks, to decide whether it can be reused or should
+
+be replaced.
+
+Smooth engagement and disengagement of the clutch de pend on the condition of this bearing.
+
+Primary driven gear
+
+Damper
+
+Plate
+
+Rivet
+
+Clutch housing
+
+Primary driven gear is composed as shown.
+
+If the internal damper wears
+
+the play is generated between
+
+gear and housing, causing abnormal noise. If the play is too
+
+big, replace the primary driven gear assembly with a new one.
+
+,
+
+Checking distortion
+
+Checking claw width
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-24
+
+Reassemble the clutch in the reverse order of removal, pay
+
+attention to the following points: Clutch sleeve hub nut: 30-50 N·m
+
+09920 53710: Clutch driven hub holder
+
+Bend the clutch sleeve hub washer to the nuts.
+
+Install the clutch drive plates and driven plates.
+
+Install the drive plates as shown in the illustration.
+
+Install the washer, spacer, primary driven gear assembly,
+
+washer and clutch drive hub.
+
+Install the lock washer, tighten the clutch sleeve hub nut to
+
+the specified torque.
+
+Set the marked side of clutch spring faces outside.
+
+Install the clutch push rod, push piece, bearing, washer and
+
+pressure plate.
+
+Install the clutch spring, tighten the clutch spring bolts dia gonally.
+
+Install a new gasket and pins.
+
+Install the clutch cover, and tighten clutch cover bolts
+
+dia gonally
+
+Install a new oil seal ring.
+
+Install the oil filter and oil filter cover.
+
+Tighten three nuts.
+
+Install and adjust clutch cable, and pour engine oil.(Refer to
+
+page 2-8 and page 2-7)
+
+Use new gasket to prevent oil leakage.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-25
+
+Apply a small quantity of engine oil to the inside the oil pump
+
+before assembly.
+
+Apply theThread lock “1342” to the oil pump mounting bolts
+
+and tighten the bolts.
+
+99000-32050: Thread lock "1342"
+
+Remove the clip, oil pump driven gear and oil pump driven
+
+gear pin.
+
+Remove the oil pump.
+
+Rotate the oil pump by hand and check whether it moves
+
+smoothly. If the oil pump does not move smoothly, replace it.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-26
+
+Reassemble the gear shifting shaft in the reverse order of
+
+removal, pay attention to the following points:
+
+Check the return spring
+
+for damage, gear shifting shaft 8
+
+for wear or bending.
+
+Remove the gear shifting shaft
+
+Remove the screws, gear shifting cam guide plate
+
+and
+
+Remove the gear shifting driven gear
+
+, pawl
+
+, gear
+
+shifting pawl pin
+
+and return spring
+
+Remove gear shifting lever.
+
+Remove the clutch. (Refer to page 3-20)
+
+When installing the gear shifting pawls to the driven gear
+
+the large shoulder
+
+must face to the outside as shown.
+
+Install the cam guide. Apply a small quantity of THREAD
+
+LOCK “1342" to the threaded parts of the securing screws.
+
+,
+
+99000 32050: Thread lock “1342"
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-27
+
+GENERATOR & STARTING CLUTCH
+
+Remove the generator rotor nut while holding the generator
+
+rotor with the special tool.
+
+Remove the generator cover
+
+Remove the gasket and dowel pins.
+
+Remove the starting motor by removing the bolts.
+
+Remove the engine sprocket cover.
+
+Disconnect the generator coupler.
+
+11F14 001: Rotor holder
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-28
+
+Remove the generator stator
+
+Remove the trigger coil
+
+Hold the generator rotor with the special tool, remove the
+
+starting clutch bolt.
+
+Remove the roller
+
+, push piece
+
+, and spring
+
+from the
+
+starting clutch.
+
+Remove the starter clutch gear.
+
+Remove the generator rotor and key with the special tool.
+
+11F14-003: M16 screw
+
+11F14-001: Rotor holder
+
+11F14 005: Generator rotor remover M30
+
+11F14-001: Rotor holder
+
+Do not damage the key slot and crankshaft when
+
+removing the key.
+
+Do not remove the starting clutch unless necessary.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-29
+
+Install the starter driven gear to the starter clutch and turn
+
+the starter driven gear by hand to inspect the starter clutch
+
+for a smooth movement. The gear turns one direction only. If
+
+a large resistance is felt to rotation, inspect the starter clutch
+
+for damage or inspect the starter clutch contacting surface of
+
+the starter driven gear for wear or damage. If they are found
+
+to be damaged, replace them with new ones.
+
+Inspect the starter clutch for wear, damage or abnormity
+
+moving.
+
+Install the stator
+
+, cable pressure plate, apply the Thread
+
+lock to the bolt and tighten it.
+
+Install the trigger coil
+
+, apply Thread lock to the screw
+
+head and tighten it.
+
+Apply bond to the grommet
+
+groove.
+
+Replace the whole set of springs, if starter clutch
+
+springs are removed.
+
+99000 32050: Thread lock “1342"
+
+99000-31140 Bond ”1207B”
+
+:
+
+Clean the starter clutch, apply engine oil to the separate
+
+ring, Fit the starter clutch on the rotor.
+
+Apply the Tread lock to the starter clutch, tighten the bolts to
+
+the specified torque.
+
+Reassemble in the reverse order of removal, pay attention to
+
+the following points: 11F14-001: Rotor holder
+
+99000-32030: Thread lock “1303"
+
+Starter clutch bolt: 8-12 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-30
+
+Fit the key in the crankshaft key slot.
+
+When installing the rotor, align the rotor key slot with the key
+
+n the crankshaft.
+
+Install the generator nut, tighten the nut to the specified
+
+torque.
+
+When installing the key, take care not to damage the key
+
+slot and crankshaft.
+
+Generator nut: 50-60 N•m
+
+11F14-001: Rotor holder
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-31
+
+CRANKSHAFT, TRANSMISSION AND KICKSTARTERSET.
+
+Remove the cylinder head and cylinder. (Refer to page 3-7)
+
+Remove the clutch and gear shifting shaft.(Refer to page 3 21)
+
+Remove the generator rotor and starting clutch. (Refer to
+
+page 3-27)
+
+Remove the neutral locate screw plug and oil filter cover.
+
+Do not take off the neutral locating screw plug (inner
+
+hexagon when drain the engine oil.
+
+)
+
+Remove the gear shifting cam guide.
+
+Remove the gear shifting cam driven gear assembly.
+
+Remove the gear switch position screws, take off the gear
+
+position switch, pin and spring.
+
+Remove the two bolts, take off the drive shaft oil seal block
+
+plate.
+
+Clamp the conrod small end with conrod holder, remove
+
+the lock washer, remove the primary drive gear lock nut.
+
+09910 20116 Conrod holder
+
+:
+
+Primary drive gear lock nut is left-hand nut.
+
+Remove the crankcase mounting bolts.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-32
+
+Fit the crankcase separator, so that the tool plate is parallel
+
+with the end face of the crankcase.
+
+Remove the right crankcase with the special tool.
+
+Remove the gear shifting hub fixing spring.
+
+Remove the gear shifting shafts, take off the forks.
+
+Remove the gear shifting hub.
+
+Remove the crankshaft with the special tool.
+
+Remove the transmission assembly.
+
+: Crankcase separator
+
+09920-13120
+
+09920-13120: Crankcase separator
+
+The crankshaft and transmission components must
+
+remain in the left crankcase half, This is necessary
+
+because the gear shifting cam stopper is mounted on
+
+the left crankcase half and will be damaged if the
+
+transmission components remain in the right half.
+
+,
+
+NOTE: Two kinds of gear shifting forks,
+
+and
+
+are used.
+
+They resemble each other very closely in extermal
+
+appearance and configuration. Carefully examine the
+
+illustration
+
+for
+
+correct
+
+installing
+
+positions
+
+and
+
+directions.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-33
+
+Support the crankshaft with “V” blocks as shown.
+
+Measure the crankshaft runout with the dial gauge.
+
+Measure the big end of the conrod side clearance with a
+
+thickness gauge.
+
+09900-20803: Thickness gauge
+
+09900-20606: Dial gauge (1/100 mm)
+
+09900-20701: Magnetic stand
+
+09900-21304: V-block
+
+Conrod big end clearance limit: 0.5 mm
+
+Crankshaft runout limit: 0.05 mm
+
+Measure the gear shifting fork thickness.
+
+Using a thickness gauge, check the shifting fork clearance in
+
+the groove of its gear. If the clearance limit exceeds by any
+
+gear, determine whether the gear or the gear shifting fork
+
+should be replaced by measuring the thickness and groove
+
+width.
+
+09900-20803 Thickness gauge
+
+:
+
+09900-20103: Vernier calipers
+
+Measure gear shifting groove width.
+
+09900-20103: Vernier calipers
+
+Fork to groove clearance limit: 0.5 mm
+
+Checking clearance
+
+Checking thickness
+
+Checking groove width
+
+Fork thickness: No.1 and 2: 4
+
+No.3: 5.3-5.4 mm
+
+.8-4.9 mm
+
+Gear shifting
+
+No.
+
+: 5
+
+No.3: 5.5-5.6 mm
+
+groove width: 1 and 2
+
+.1 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-34
+
+●
+
+Inspect the gear shifting hub guide slot.
+
+Replace the gear shifting hub if the guide slot is damage.
+
+Inspect each bush, gear inner surface and gear teeth face
+
+for abnormal wear or poor lubrication.
+
+Remove
+
+the
+
+bearing locating plates
+
+left
+
+and
+
+right
+
+crankcase.
+
+Rotate the inner race by hand to inspect for an abnormal
+
+noise and a smooth rotation and inspect to see if the outer
+
+race is movable in the crankcase.
+
+Replace the bearing if there is something unusual.
+
+Remove the crankshaft bearing, countershaft bearing and
+
+driveshaft bearing with the special tool.
+
+09921-20240: Bearing remover
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-35
+
+Install the bearings on the left and right crankcase with the
+
+special tool.
+
+Reassemble in the reverse order of removal, pay attention
+
+to the following points: REASSMEBLY
+
+09913-70210: Bearing installer
+
+Decide the width between the webs when rebuilding the
+
+crankshaft.
+
+Width between webs: Standard: 52.9-53.1 mm
+
+09910 32812: Crankshaft installer
+
+When
+
+mounting the crankshaft in the crankcase, it is
+
+necessary to pull its left end into the crankcase.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-36
+
+Never
+
+fit
+
+the
+
+crankshaft
+
+into
+
+the
+
+crankcase
+
+by
+
+striking it with a plastic hammer
+
+Always
+
+use
+
+the
+
+special tool otherwise
+
+crankshaft
+
+alignment accuracy will be affected.
+
+,
+
+Never
+
+reuse
+
+circlip.
+
+After
+
+circlip
+
+has
+
+been
+
+removed from a shaft, it should be discarded and a new
+
+circlip must be installed. When installing a new circlip,
+
+care must be taken not to expand the end gap larger
+
+than required to slip the circlip over the shaft. After
+
+installing a circlip, always insure that it is completely
+
+seated in its groove and securely fitted.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-37
+
+Press-fit 2nd drive gear onto the counter shaft. Before
+
+reassembling, coat the internal face of the 2nd drive gear
+
+with Thread Lock super “1303B”and install it so that the
+
+length
+
+as shown in Fig.
+
+99000-32030: Thread lock super "1303"
+
+The procedure may be performed only twice before
+
+shaft replacement is required.
+
+Countershaft length
+
+:
+
+87.8-88.1 mm
+
+Fit the gear shifting hub on the crankcase.
+
+Position the hub as shown in Fig. so that the gear shifting
+
+forks can be installed easily.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-38
+
+,
+
+NOTE: Two kinds of gear shifting forks,
+
+and
+
+are used.
+
+They resemble each other very closely in extermal
+
+appearance and configuration. Carefully examine the
+
+illustration
+
+for
+
+correct
+
+installing
+
+positions
+
+and
+
+directions.
+
+Coat Super Grease “A” to the lip of oil seals.
+
+Remove sealant material on the fitting surfaces of right and
+
+left halves of crankcase and thoroughly remove oil stains.
+
+Fit dowel pins on the left halt.
+
+Apply engine oil to the big end of the crankshaft and all parts
+
+f the transmission gears.
+
+Apply Bond No. 1215 uniformly to the fitting surface of the
+
+left half of the crankcase, and after waiting a few minutes, fit
+
+the right half on the left half.
+
+99000-31110: Bond No.1215
+
+99000 25010: Super grease
+
+“A”
+
+After the
+
+driven gear, guide, shifting
+
+shaft and neutral stopper have been fitted, confirm that
+
+gear change is normal while turning the countershaft
+
+and driveshaft. If gear change is not obtained, it means
+
+that assembly of gears or installation of gear shifting
+
+fork is incorrect. If this is th e case, disassemble and
+
+trace the mistake.
+
+gear shifting hub
+
+Install the generator and starting clutch. (Refer to page 3-30)
+
+Install the clutch and gear shifting shaft. (Refer to page 3-24
+
+and 3-26)
+
+Install the cylinder and cylinder head. (Refer to page 3-20
+
+and 3-15)
+
+Install the engine, and add the oil. (Refer to page 3-6)
+
+Hold the conrod small end with conrod holder, tighten the
+
+primary drive gear nut to the specified torque. Bend the
+
+washer to the primary drive gear nut.
+
+09910 20116: Conrod holder
+
+Primary drive gear nut: 40-60 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-1
+
+4-3
+
+4-7
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-1
+
+Turn the fuel cock to ”
+
+” position shown in photo and
+
+disconnect fuel hose from the fuel cock.
+
+Place a clean pan under the fuel cock assembly, turn fuel
+
+cock to “
+
+” position and drain the gasoline.
+
+Remove the fuel filter.
+
+Remove the fuel cock.
+
+Clean filter with compressed air and inspect for cracks.
+
+Rust from the fuel tank tends to build up in the filter, which,
+
+when the filter has been neglected for a long period, inhibits
+
+the flow of fuel. Remove the rust from the filter using
+
+compressed air.
+
+Gasoline is very explosive. Extreme care must be used.
+
+Replace the fuel filter with a new one if it is damage or crack.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-2
+
+Reassemble the fuel cock or fuel filter in the reverse order of
+
+removal. Pay attention to the following points:
+
+Install the fuel cock.
+
+Install the fuel filter.
+
+Gasket must be replaced with a new one to prevent
+
+leakage.
+
+Gasket
+
+Do not miss to install the O-ring
+
+during the remounting.
+
+A Filter cup
+
+B Fuel filter
+
+C O-ring
+
+ 
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-3
+
+Carburetor type
+
+I.D. No.
+
+Main jet
+
+Bubbling jet
+
+Needle
+
+Needle jet
+
+Idle jet
+
+Idle air screw
+
+Idle air jet
+
+# 12.5
+
+0(390)
+
+4DH41-2
+
+Ø 3
+
+# 110
+
+054G
+
+BS26
+
+1400 100 r/min
+
+±
+
+2,5/8 turn out
+
+Idle
+
+# 1.25
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-4
+
+Disconnect the carburetor balance pipe
+
+Remove the carburetor clamp screw
+
+Remove the throttle cable
+
+Remove the fuel hose
+
+Remove the carburetor.
+
+Remove the carburetor diaphragm cover.
+
+Remove the spring, diaphragm and piston.
+
+Remove the float chamber body.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-5
+
+Remove the float pin screws.
+
+Pull out the float pin and remove the float and needle valve.
+
+Remove the main jet
+
+Remove the Bubbling jet
+
+Remove the idle jet
+
+If foreign matter is caught between the valve seat and the
+
+needle, the gasoline will continue flowing and cause it to
+
+verflow.
+
+Clean the float chamber and float parts with gasoline, if the
+
+needle is worn as shown in the illustration, replace it together
+
+with a valve seat. Clean the fuel passage of the mixing
+
+chamber with compressed air.
+
+Reassemble the carburetor by reversing the sequence of
+
+disassembling steps.
+
+When installing the floating chamber, make sure to fit the
+
+seal ring correctly.
+
+Replace the O-ring with a new one when installing the
+
+float chamber.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-6
+
+Remount the carburetor by reversing the sequence of removal
+
+steps,
+
+and
+
+following
+
+adjustments
+
+and
+
+inspection
+
+are
+
+necessary after remounting the carburetor.
+
+Adjust the throttle cable play
+
+to be 0.5-1.0 mm.
+
+Adjust the throttle cable play as follows
+
+Slide the boot, loosen the lock nut
+
+f the throttle pulling
+
+cable, turn the adjuster
+
+clockwise or counterclockwise
+
+until the throttle cable play (at the throttle grip) is between
+
+0 5-1 0 mm.
+
+Tighten the lock nut
+
+after adjusting the play,
+
+Recheck that handlebar movement does not raise the
+
+engine idle speed and that the throttle grip returns smoothly
+
+and automatically.
+
+Turn in the idle air screw until it lightly seats
+
+then back
+
+it out the pre-set turns.
+
+,
+
+Start the engine, preheat it under idle running condition.
+
+Adjust the idle speed by means of the pilot screw.
+
+Throttle cable play: 0.5~1.0 mm
+
+If engine running is needed in work, be sure to keep the
+
+work area well ventilated. Do not run engine in an
+
+closed space. In engine exhaust gas, there is carbon
+
+monoxide that leads to loss of consciousness or leads
+
+to death.
+
+Engine running
+
+is
+
+allowable only at a well ventilated
+
+place or in an enclosure with exhaust gas discharge
+
+system.
+
+Engine idle speed: 1 500
+
+100 r/min
+
+±
+
+Pre set: 2, 5/8 turns back
+
+Slowly and repeatedly adjust the idle air screw to obtain
+
+maximum engine speed.
+
+Adjust idle speed to specified value by means of pilot screw.
+
+In case of unstable engine running, repeat till the engine
+
+running is easy and stable.
+
+Idle air screw is factory-installed and set. Adjustment
+
+is
+
+not
+
+necessary
+
+unless
+
+carburetor
+
+needs
+
+to
+
+be
+
+disassembled for inspection or screws need to be
+
+replaced.
+
+For
+
+accurate
+
+adjustment,
+
+ten-minute
+
+engine preheating is necessary.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+4-7
+
+
+
+
+
+
+
+Rocker arm shaft
+
+Camshaft journal
+
+and cam face
+
+Camshaft
+
+Conrod small end bearing
+
+Cylinder wall
+
+Conrod big end bearing
+
+Driveshaft bearing
+
+Drive shaft and gears
+
+Clutch plates
+
+Primary driven gear
+
+spacer
+
+Countershaft and
+
+gears
+
+Countershaft bearing
+
+Clutch release cam
+
+Sump filter
+
+Oil pump
+
+Oil filter
+
+By pass
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-1
+
+5-6
+
+5-12
+
+5-18
+
+5-24
+
+5-30
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-1
+
+Item
+
+N•m
+
+kgf•m
+
+36-52
+
+3.6-5.2
+
+18-28
+
+1.8-2.8
+
+Front axle
+
+Front axle nut
+
+Oil seal
+
+Brake disc bolt
+
+Spacer
+
+Dust seal
+
+Washer
+
+Brake disc
+
+Roller bearing
+
+Spacer
+
+Front tire
+
+Front rim
+
+Speedometer gear driver
+
+Oil seal
+
+Speedometer gear box
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-2
+
+Support the motorcycle by the center stand.
+
+Disconnect the front brake and speedometer cable
+
+Remove the front axle nut
+
+, take off the front wheel
+
+Remove the speedometer gearbox assembly
+
+Remove the front axle spacer and front wheel assembly dust
+
+seal
+
+Flatten the lock washer, remove the brake disc bolts, take
+
+ff the brake disc
+
+Remove the oil seal
+
+n both sides with the special tool.
+
+Do not operate the front brake lever when removing
+
+the front wheel.
+
+09913 50121: Oil seal remover
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-3
+
+Remove the bearings
+
+n both sides with the special tool,
+
+take off the spacer.
+
+09921-20240: Bearing remover tool
+
+Inspect the oil seal for wear or damage, replace the oil seal if
+
+there are any defects.
+
+Using the special tools
+
+check the axle shaft for runout
+
+and replace it if the runout exceeds the limit.
+
+,
+
+09900-20606 : Dial gauge (1/100)
+
+09900-20701 : Magnetic stand
+
+09900-21304 : V-block (100mm)
+
+Wheel rim runout: Service limit: 2.0 mm
+
+Wheel axle runout: Service limit: 0.25 mm
+
+Make sure that the wheel rim runout does not exceed the
+
+service limit when checked as shown. An excessive amount
+
+f runout is usually due to loose spokes or a bent wheel rim. If
+
+properly tightening the spokes will not correct the runout,
+
+replace the wheel rim.
+
+Inspect the play of the wheel bearings inner race by hand
+
+while fixing it in the wheel hub.
+
+Rotate the inner race by hand to inspect whether abnormal
+
+noise occurs or rotating smoothly.
+
+Replace the bearing if there is something unusual.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-4
+
+Reassemble and remount the front wheel in reverse order of
+
+removal. Pay special attention to the following points.
+
+Apply Super Grease ”A” to bearings before reassembly.
+
+99000-25010: Super grease ”A”
+
+The sealed cover of the bearing must face outside.
+
+09924-84521: Bearing installer
+
+Left bearing
+
+Spacer
+
+Right bearing
+
+Removed wheel bearing
+
+Clearance
+
+Install left wheel bearing
+
+first, then install the spacer
+
+and right wheel bearing
+
+with the special tool and removed
+
+wheel bearings
+
+Apply the Super Grease A to the dust seal lips.
+
+Install the new dust seals using the special tool.
+
+09913-70210 : Bearing installing set (10-75
+
+)
+
+Φ
+
+99000-25010 : Super grease ”A”
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-5
+
+Make sure that the brake disc is clean and free of any
+
+greasy matter.
+
+Install the brake disc, tighten to the brake disc bolts to the
+
+specified torque.
+
+Bend the lock washer to the brake disc bolt.
+
+Front brake disc bolt: 18~28 N•m
+
+Install the front wheel and front axle
+
+tighten the front axle
+
+nut to the specified torque
+
+,
+
+N•m
+
+Front axle nut: 36-52
+
+99000-25010: Super grease ”A”
+
+Before installing the speedometer gear box, apply Super
+
+Grease A to it, then install it on the wheel.
+
+After installing the front wheel, pump the brake lever
+
+until the pistons push the pads correctly.
+
+When tightening the front axle, check to be sure that
+
+speedometer gear box is in the position shown.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-6
+
+O-ring
+
+Plug
+
+Tube
+
+Oil lock piece
+
+Oil seal
+
+N•m
+
+kgf•m
+
+Washer
+
+Rebound spring
+
+Ring
+
+Oil seal
+
+Outer tube
+
+Damper rod
+
+Inner tube
+
+Front axle pinch bolt
+
+Oil seal stopper ring
+
+Seal ring
+
+Damper rod bolt
+
+35-55
+
+3.5-5.5
+
+20-26
+
+2.0-2.6
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-7
+
+Remove the front wheel (refer to page 5-2).
+
+Remove the two bolts and dismount the front caliper
+
+Remove the cap bolt and draw out the spacer and absorber
+
+spring.
+
+Remove the four bolts and take off the front fender
+
+Remove the four handlebar holder clamp bolts, take off the
+
+handle bar
+
+, then remove the two front absorber cap bolts.
+
+Remove the decoration plate.
+
+Loosen the lower bracket clamp bolts, put down the left and
+
+right front absorbers.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-8
+
+11F14 010: Front absorber tools
+
+Invert the absorber and stroke it several times to remove the
+
+il.
+
+Remove the damper rod bolt by using the special tools
+
+and hexagon wrench.
+
+Remove the oil lock piece and damper rod with rebound
+
+spring.
+
+Separate the inner tube from the outer tube.
+
+Remove the stopper ring.
+
+Remove the oil seal by using the special tool.
+
+The oil seal removed should be replaced with a new
+
+ne.
+
+09913-50121: Oil seal remover
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-9
+
+Thread lock
+
+Inspect the damper rod ring for wear and damage.
+
+Inspect the inner tube and outer tube sliding surface for any
+
+scuffing or flaws.
+
+Measure the spring free length. If it is shorter than the
+
+service limit, replace it.
+
+Apply Bond No 4 and Thread Lock Cement to the damper
+
+rod bolt and tighten the bolt by using the hexagon wrench
+
+and special tools.
+
+Remounting the front fork in the reverse order of removal, pay
+
+attention to the following points：
+
+Fork spring free length limit: 385.5 mm
+
+Cleaning: clean the parts with solvent and blow dry.
+
+O ring copper
+
+(
+
+)
+
+99000-32040: Thread lock ”1303”
+
+11F14-010: Front absorber tools
+
+Damper rod bolt: 20~26 N•m
+
+Do not reuse the removed O-ring.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-10
+
+Install the oil seal to the outer tube by using the special
+
+tool as shown.
+
+09940-50112: Absorber oil seal installer
+
+Apply Super Grease lightly on the oil seal lip.
+
+Upside
+
+Downside
+
+When installing the front fork spring, the close pitch end
+
+should position upside.
+
+Install the front absorber inner screw plug and tighten it.
+
+Absorber oil type: # 32
+
+Pour the specified absorber oil into the inner tube.
+
+Front absorber oil capacity (each leg): 168±3 ml
+
+Hold the front absorber vertical and adjust the absorber oil
+
+level with the special tool.
+
+When adjusting the absorber oil level, compress the
+
+inner tube fully without the absorber spring.
+
+09943-74111: Front absorber oil level gauge
+
+Absorber oil level: 166 mm
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-11
+
+Reassemble the front absorbers in the reverser order of
+
+removal. Pay attention to the following points:
+
+Absorber oil type: #34
+
+Apply a small quantity of absorber oil to the O-ring
+
+the front absorber.
+
+Tighten the front absorber lower bracket clamp bolts
+
+to
+
+the specified torque.
+
+Lower bracket clamp bolt : 25-35 N•m
+
+Install the front absorbers to the upper and lower bracket,
+
+tighten the front absorber cap bolts
+
+to the specified
+
+torque.
+
+Front absorber cap bolts: 35-55 N•m
+
+Install the front caliper, tighten the mounting bolts to the
+
+specified torque.
+
+Install the front wheel. (Refer to page 5-4)
+
+Lower bracket clamp bolt: 18-28 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-12
+
+N•m
+
+kgf•m
+
+35~55
+
+3.5~5.5
+
+12~20
+
+1.2~2.0
+
+25~35
+
+2.5~3.5
+
+Steering stem nut
+
+Dust seal
+
+Handlebar clamp bolt
+
+Lower bracket clamp bolt
+
+Upper bearing outer race
+
+Steering stem bolt
+
+Washer
+
+Ball
+
+Upper bearing inner race
+
+Lower bearing inner race
+
+Ball
+
+Lower bracket
+
+Steering stem upper bracket
+
+Steering stem lower bracket
+
+Upper bracket
+
+Headlight right bracket
+
+Spacer
+
+Dust seal
+
+Headlight bracket damper
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-13
+
+Disconnect the couplers and lead wires.
+
+Remove the lead wires from the headlight housing.
+
+Remove the two bolts and take off the headlight housing.
+
+Remove the two nuts and take off the turn signal lights, right
+
+and left.
+
+Loosen the lower bracket bolts.
+
+Remove the tachometer cable.
+
+Remove the front wheel. (Refer to page 5-2)
+
+Remove the front absorber. (Refer to page 5-6)
+
+Remove the two screws and take off the headlight.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-14
+
+Remove the two bolts and take off the dashboard assembly.
+
+Remove the ignition switch cover.
+
+Remove the handlebar holder clamp bolts, take off the
+
+handlebar
+
+Remove the front absorber cap bolts and steering stem nut,
+
+take off the upper bracket.
+
+Take off the front absorbers.
+
+Remove the steering stem nut and draw out steering stem.
+
+09940-14911: Steer stem nut wrench
+
+Hold the steering stem by hand to prevent from falling.
+
+Remove the steering stem dust seal and upper bearing outer
+
+race.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-15
+
+Handlebars distortion.
+
+Handlebars clamp wear.
+
+Race wear and brinelling
+
+Worn or damaged steel balls.
+
+Distortion of steering stem.
+
+Remove the upper and lower steel balls.
+
+Remove the outer race fitted on the steering stem. This can
+
+be down with a chisel.
+
+Draw out the two inner races fitted to the top and bottom
+
+ends of the head pipe with the special tool.
+
+Inspect and check the removed parts for the following
+
+abnormalities.
+
+Number of balls:
+
+Upper: 22 pcs
+
+Lower: 18 pcs
+
+09941-54911: Bearing remover
+
+09941-74910: Steering bearing installer
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-16
+
+09940-34513: Steering race installer
+
+09941-74910 : Steering bearing installer
+
+Reassemble and remount the steering stem in the reverse
+
+rder of removal, and carry out the following steps:
+
+Press in the upper and lower inner races with a special tool.
+
+Apply grease to the upper and lower inner races when
+
+installing the steel balls.
+
+Apply grease on the new lower oil seal
+
+Press in the lower outer race with the special tool.
+
+99000-25010 : Super grease ”A”
+
+99000-25010 : Super grease ”A”
+
+Tighten the steering stem nut to 40-50 N•m by using the
+
+special tool.
+
+Turn the steering stem right ang left, lock-to-lock, five or
+
+six time to
+
+seat
+
+the ball bearings.
+
+“
+
+”
+
+09941-14911: Steering nut socket wrench
+
+Steer stem bolt: 40~50 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-17
+
+Turn back the stem nut by 1/4-1/2 turn.
+
+1/4-1/2 turn back
+
+The adjustment will vary from motorcycle to another.
+
+Tighten the steering stem head bolts to the specified torque.
+
+Set the handlebar to match its punched mark to the mating
+
+face of the holder.
+
+Secure the each handlebar clamp in such a way that the
+
+clearance
+
+ahead of and behind the handlebar should be
+
+equalized.
+
+Steer stem bolt: 35~55 N•m
+
+After
+
+performing
+
+the
+
+adjustment
+
+and
+
+installing
+
+the
+
+steering stem upper bracket, “rock” the front wheel
+
+assembly forward and backward to ensure that there is
+
+no
+
+play
+
+and
+
+that
+
+the
+
+procedure
+
+was
+
+accomplished
+
+correctly. Finally check
+
+that the steering stem moves
+
+freely from left to right with its own weight. If play or
+
+stiffness is noticeable, re-adjust the steering stem nut.
+
+Handlebar clamp bolt: 12~20 N•m
+
+09910 60611: Universal wrench
+
+Install and ighten the front absorber bolts and the brake
+
+caliper bolts. (Refer to page 3-11)
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-18
+
+Brake lever
+
+Piston cup set
+
+Brake light switch
+
+Brake hose
+
+Pad set
+
+Master cylinder clamping bolt
+
+Brake hose union bolt
+
+Air bleeder valve
+
+N•m
+
+kgf•m
+
+8-12
+
+0.8-1.2
+
+20-25
+
+2.0-2.5
+
+6-9
+
+0.6-0.9
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-19
+
+The brake system of this motorcycle is filled with a Suzuki brake fluid. Do not use or mix
+
+different types of fuid such as silicone-based and petroleum-based fluid for refilling the
+
+system, otherwise serious damage will be caused.
+
+Do not use any brake fluid taken from old or used or unsealed containers. Never re-use the
+
+brake fluid left over from the last servicing and stored for long periods.
+
+When storing the brake fluid, seal the container completely and keep away from children.
+
+When replenishing brake fluid, take care not to get dust into fluid.
+
+When washing brake components, use new brake fluid. Never use cleaning solvent.
+
+A contaminated brake disc or brake pad reduces braking performance. Discard contaminated
+
+pads and clean the disc with high quality brake cleaner or neutral detergent.
+
+Immediately and completely wipe off any brake fluid contacting any part of the motorcycle. The
+
+brake fluid reacts chemically with paint, plastics and rubber materials, etc., and will damage
+
+them severely.
+
+Remove the brake caliper mounting bolts .
+
+Remove the brake pads mounting bolt and brake pads
+
+replace the
+
+rake pads.
+
+,
+
+Reinstall the new brake pads and the caliper.
+
+Tighten the caliper mounting bolts to the specified torque.
+
+Replace brake pads as a set; otherwise braking per formance will be adversely affected.
+
+While installing the brake caliper, push the pistons all
+
+the way into the brake caliper.
+
+Brake caliper mounting bolts: 18~28 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-20
+
+Disconnect the brake hose
+
+from the caliper catch the
+
+brake fluid in a suitable receptacle.
+
+Remove the caliper mounting bolts
+
+and then take off the
+
+caliper.
+
+Remove the brake pads.
+
+Place a rag over the piston to prevent popping up. Force out
+
+the piston by using air gun.
+
+Remove the piston, piston boot and piston seal.
+
+Inspect the master cliper bore for any scratches or other
+
+damage.
+
+Do not use high pressure air to prevent piston damage.
+
+Never reuse brake fluid left over from the last servicing
+
+r stored for a long period of time.
+
+Do not operate the brake lever with the pads removed.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-21
+
+Inspect the piston surface for scratches or other damage.
+
+Inspect the rubber parts for cracks and damage. If any
+
+defects are found, replace the affected parts.
+
+Visually inspect brake disc for cracks or damage, and
+
+measure brake disc thickness with a micrometer.
+
+Measure the brake disc surface runout with a dial gauge.
+
+Reassemble the cliper in the reverse orders of disassembly
+
+and removal, and also carry out the following steps.
+
+09900-20205: Micrometer (0-25 mm)
+
+Wash the master cylinder components with fresh brake
+
+fluid before reassembly.
+
+Never use cleaning solvent or gasoline to wash them.
+
+Apply brake fluid to the cylinder bore and all internal
+
+parts before inserting into the bore.
+
+09900-20606 Dial gauge (1/100 mm)
+
+09900-20701: Magnetic stand
+
+:
+
+Brake disc thickness limit: 3.5 mm
+
+Brake disc runout limit
+
+0.3 mm
+
+：
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-22
+
+Tighten the brake hose union bolt to the specific torque.
+
+Bleed air from the brake fluid circuit after reassembly the
+
+cliper. (Refer to page 2-13)
+
+Brake hose union bolt: 20~25 N•m
+
+Brake fluid, if it leaks, will interfere with safe running
+
+and immediately discolor painted surfaces.
+
+Check the brake hoses for cracks and hose joint for
+
+leakage before riding.
+
+Place a cloth underneath the union bolt on the master
+
+cylinder to catch spilled drops of brake fluid.
+
+Unscrew the union bolt and disconnect the brake hose from
+
+the master cylinder joint.
+
+Remove two clamp bolts and take off the master cylinder.
+
+Remove
+
+two
+
+fitting
+
+screws,
+
+and
+
+remove
+
+the
+
+cap
+
+and
+
+diaphragm.
+
+Drain the brake fluid.
+
+Remove the dust seal boot.
+
+Remove the circlip, piston and spring by using the special
+
+tool.
+
+Immediately and completely wipe off any brake fluid
+
+contacting any part of the motorcycle. The fluid reacts
+
+chemically with paint, plastics, rubber materials, etc.
+
+and will damage them severely.
+
+09900-06108: Snap ring pliers
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-23
+
+Inspect the master cylinder bore for any scratches or
+
+ther damage.
+
+Inspect the piston surface for scratches or other damage.
+
+Inspect the primary cup, secondary cup and dust seal boot
+
+for wear or damage.
+
+Wash the master cylinder components with fresh brake fluid
+
+before reassembly.
+
+When remounting the master cylinder on the handlebars,
+
+tighten the clamp bolts for upside as shown first.
+
+Reassemble and remount the master cylinder in the reverse
+
+rders of disassembly and removal, and also carry out the
+
+following steps: REASSEMBLY
+
+Brake fluid specification: Suzuki brake fluid
+
+When washing the components, use the specified
+
+brake fluid. Never use different types of fluid or
+
+cleaning solvents such as gasoline, kerosine, etc.
+
+Do not wipe the brake fluid off after washing the
+
+components.
+
+Apply brake fluid to the cylinder bore and all internal
+
+parts before inserting into the bore.
+
+Connect the brake hose, tighten the union bolt to the
+
+specified torque.
+
+Bleed air from brake system after installing the master
+
+cylinder. (Refer to page 2-12)
+
+Brake hose union bolt: 20~25 N•m
+
+Master cylinder
+
+Cleanrance
+
+Handlebar
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-24
+
+Rear axle shaft
+
+Rear sprocket
+
+Tire
+
+Roller bearing
+
+Spacer
+
+Oil seal
+
+Roller bearing
+
+Rear sprocket drum retainer
+
+Rear sprocket drum
+
+Brake rod
+
+Brake shoe
+
+Rear break anchor panel
+
+Brake cam lever
+
+Rear wheel
+
+Roller bearing
+
+Spacer
+
+Rear axle nut
+
+N•m
+
+kgf•m
+
+50-80
+
+5.0-8.0
+
+6 9
+
+0.6-0.9
+
+18-28
+
+1.8-2.8
+
+Damper
+
+Inner tire
+
+Rear sprocket nut
+
+Rear brake cam lever nut
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-25
+
+Support the motorcycle by the center stand.
+
+Remove the rear brake adjuster nut.
+
+Puff off the cotter pin, remove the torque link nut and bolt.
+
+Remove the rear axle nut.
+
+Loosen the chain adjuster lock nut and adjuster bolt, right
+
+and left.
+
+Draw out the axle shaft and take off the chain from rear
+
+sprocket.
+
+Take off the rear wheel and separate the brake panel from
+
+the wheel.
+
+Flatten the washers and remove the four nuts.
+
+Separate the rear sprocket and mounting drum from the
+
+wheel.
+
+Remove the oil seal by using the special tool.
+
+09913-50121: Oil seal remover
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-26
+
+Remove the cam lever nut and bolt.
+
+Pull off the brake cam, washer, O-ring and cam lever.
+
+Inspect the wheel bearings for play by hand, Rotate the inner
+
+race by hand to inspect whether abnormal noise occurs and it
+
+rotates smoothly. Replace the bearing if there are any defects.
+
+
+
+
+
+Play
+
+Play
+
+Remove the cushion from the wheel.
+
+Remove the right and left side wheel bearings.
+
+Take off the brake shoes.
+
+It will be easier to remove the left side bearing first.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-27
+
+Using the special tools, check the axle shaft for runout and
+
+replace it if the runout exceeds the limit.
+
+Inspect the sprocket teeth for wear. If they are worn as
+
+illustrated, replace the sprocket and drive chain.
+
+Measure the brake drum I D to determine the extent of
+
+wear and, if the limit is exceeded by the wear noted, replace
+
+the drum. The value of this limit is indicated inside the drum.
+
+Check the brake shoes and decide whether is should be
+
+replaced or not from the thickness of the brake shoe linings.
+
+Inspect the cushion for wear and damage.
+
+09900-20606: Dial gauge (1/100)
+
+09900-20701: Magnetic stand
+
+09900-21304: V block
+
+Axle shaft runout limit: 0.25 mm
+
+Break drum I.D. limit
+
+130.7 mm
+
+：
+
+Brake shoe lining thickness limit: 1.5 mm
+
+09900-20103 Vernier calipers
+
+:
+
+09900-20103 Vernier calipers
+
+:
+
+Replace the brake shoes as a set
+
+therwise braking
+
+performance will adversely affected.
+
+,
+
+Normal
+
+Excessive wear
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-28
+
+Reassemble and remount the rear wheel and
+
+rear brake in
+
+the reverse order of disassembly and removal, and also carry
+
+ut the following steps.
+
+the
+
+Apply grease to the bearings before installing.
+
+Install the bearings by using the special tool.
+
+Insert the bearing by using the special tool.
+
+Apply grease to the mounting drum as shown.
+
+99000-25010: Super grease ”A”
+
+99000-25010 Super grease ”A”
+
+:
+
+First install the bearing for right side.
+
+09913-70210 Bearing installer
+
+:
+
+09940-53311 Bearing installer
+
+:
+
+Tighten the four nuts to specified torque.
+
+Do not reuse the removed nuts, replace the nuts with
+
+new ones for safe riding.
+
+Sprocket lock nut: 18~28 N•m
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-29
+
+Apply grease to the brake cam.
+
+99000-25010: Super grease “A”
+
+Be careful not to apply too much grease to the brake
+
+cam. If the grease gets on the lining, the brake slippage
+
+will result.
+
+Install the brake cam lever and tighten the cam lever nut
+
+with specified torque.
+
+Cam lever bolt: 6~9 N•m
+
+Bend the lock washers.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-30
+
+Rear swingarm pivot shaft
+
+Dust seal
+
+Thrust washer
+
+Oil seal
+
+Spacer
+
+Spacer
+
+Washer
+
+Rear torque link
+
+Rear swing arm
+
+Lock washer
+
+Bolt
+
+Chain buffer
+
+Rear swing arm pivot nut
+
+Rear torque link nut
+
+N m
+
+kgf m
+
+50-80
+
+5.0-8.0
+
+10-15
+
+1.0-1.5
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-31
+
+Remove the rear wheel (Refer to page 5-24)
+
+Remove the rear absorber mounting nuts, take off the rear
+
+absorber, right and left..
+
+Remove the chain case mounting screws, take off the chain
+
+case.
+
+Remove the swing arm pivot nut and draw out the shaft
+
+Remove the swing arm
+
+Pull off the cotter pin and remove the nut and bolt
+
+Remove the torque link
+
+Remove the chain buffer.
+
+Remove the dust seal covers and draw out the spacers.
+
+Draw out the bushings by the special tools.
+
+09923-73210: Bearing remover
+
+: Slide shaft
+
+09930-30102
+
+Downloaded from www.Manualslib.com manuals search engine
+
+5-32
+
+Inspect the bushing for wear and damage.
+
+Using a dial gauge
+
+check the pivot shaft for runout and
+
+replace it if the runout exceeds the limit.
+
+,
+
+09900-20606: Dial gauge (1/100)
+
+09900-20701: Magnetic stand
+
+09900-21304: V block
+
+Pivot shaft runout limit: 0.6 mm
+
+Reassemble and remount the swing arm in the reverse order
+
+f disassembly and removal, and also carry out the following
+
+steps: Force-fit the bushings into the swing arm by using the
+
+special tool.
+
+Apply grease to the spacer and dust seal cover when
+
+installing
+
+Insert the swing arm pivot shaft from the left side, and
+
+tighten the pivot shaft nut to specified torque.
+
+Tighten the rear absorber nut to the specified torque.
+
+09924-84521: Bearing installer set
+
+Rear pivot shaft nut: 50~80 N•m
+
+Rear absorber nut: 22~35 N•m
+
+99000-25010 Super grease ”A”
+
+:
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-1
+
+6-5
+
+6-7
+
+6-11
+
+6-12
+
+6-12
+
+6-15
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-1
+
+The starter system is shown in the diagram below: namely, the starter motor, starter relay, starter button, clutch
+
+switch, ignition switch and battery.
+
+Depressing the starter switch(on the right handlebar switch box) energizes the relay, causing the contact points
+
+to close which connects the starter motor to the battery. The motor draws about 70 amperes to start the engine.
+
+
+
+Starter button
+
+Starter relay
+
+Starter motor
+
+Fuse
+
+Clutch switch
+
+Battery
+
+Starter motor will not run
+
+Check whether to hear the click
+
+noise from the starter relay when
+
+the starter button is pushed.
+
+Check whether to run the starter
+
+motor when connect the starter
+
+motor
+
+terminal
+
+to the
+
+battery
+
+terminal directly. (Do not use thin
+
+wire,
+
+because
+
+large
+
+amount
+
+f current flows.)
+
+No click
+
+Run
+
+Not run
+
+Faulty starter motor
+
+Clicks
+
+One of the front and rear brake light switches is
+
+ON position.
+
+Ignition switch is ON position
+
+Fuse is not blown before the diagnosis.
+
+Check: (to next page )
+
+Faulty starter relay
+
+Loose or disconnected starting
+
+motor lead wire
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-2
+
+Remove the starter motor. (Refer to page 3-7)
+
+Disassemble the starter motor as shown.
+
+O-ring
+
+Housing end(outside)
+
+Starter motor body
+
+Amature shaft
+
+Carbon brush
+
+Housing end(inside)
+
+Measure the starter relay voltage at
+
+the starter relay connectors (between
+
+Y/G
+
+and W/B
+
+) when the starter
+
+button is pushed.
+
+Voltage measured
+
+Faulty ignition switch
+
+Faulty front brake light switch
+
+Faulty rear brake light switch
+
+Faulty starter button
+
+Poor contact of connector
+
+Open circuit in wiring harness
+
+Check the starter relay
+
+Faulty starting relay
+
+Not voltage
+
+Incorrect
+
+Starter motor runs,
+
+but does not start engine.
+
+Open circuit in wiring harness
+
+Poor contact of connector
+
+Faulty CDI unit
+
+Faulty ignition coil
+
+Faulty generator
+
+Faulty starter clutch
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-3
+
+Inspect the commutator for discoloration
+
+abnormal wear.
+
+If the commutator is abnormally worn
+
+replace the armature
+
+If the commutator surface is discolored
+
+polish it with
+
+sandpaper and wipe it using a clean
+
+dry cloth
+
+,
+
+,
+
+,
+
+#
+
+,
+
+Inspect the carbon brushes for abnormal wear
+
+cracks or
+
+smoothness in the brush holder
+
+If either carbon brush is defective
+
+replace the brush with a
+
+new one
+
+Measure the length of the carbon brushes using a vernier
+
+calipers
+
+If the measurement is less then the service limit
+
+replace the
+
+brush with a new one
+
+,
+
+,
+
+,
+
+Fit the depression
+
+f the starter motor case to the groove
+
+2 of the housing end (out side).
+
+Align the match mark
+
+n the starter motor case with the match
+
+mark
+
+n the housing end (inside).
+
+Remove the left frame cover.
+
+Remove the starter motor lead wire.
+
+Set the ignition switch to “ON” position, press the starter button
+
+and
+
+check
+
+for
+
+continuity
+
+between
+
+the
+
+positive
+
++
+
+and
+
+negative - terminals using the pocket tester
+
+If the starter
+
+relay clicks and continuity is found
+
+the relay is OK
+
+,
+
+09900-25008: Multi circuit tester
+
+Tester knob indication Continuity test
+
+:
+
+Inspect for continuity between each segment and between
+
+each segment and the armature shaft using the multi circuit
+
+tester
+
+If there is no continuity between the segments or there is
+
+continuity between
+
+the
+
+segments
+
+and
+
+shaft
+
+replace
+
+the
+
+armature with a new one
+
+,
+
+09900-25008: Multi circuit tester
+
+Tester knob indication
+
+Continuity test
+
+:
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-4
+
+Measure the relay coil resistance between the terminals using
+
+the multi circuit tester. If the resistance is not within the
+
+specified value, replace the starter relay with a new one.
+
+09900-25008: Pocker tester
+
+Starter relay resistance: 3-6 Ω
+
+Tester knob indication: Resistance (Ω)
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-5
+
+Trigger coil
+
+Ignition switch
+
+Spark plug
+
+Battery
+
+Ignition coil
+
+Generator
+
+O/Y
+
+O/Y
+
+B/W
+
+Fuse
+
+in the capacitor discharged ignition system, the electrical energy generated by the magneto charges the
+
+capacitor. This energy is released in a single surge at the specified ignition timing point, and current flows
+
+through the primary side of the ignition coil. A high voltage current is induced in the secondary windings of the
+
+ignition coil resulting in strong spark between the spark plug cap.
+
+No spark at plug
+
+Inspect the battery voltage
+
+Recharge
+
+the
+
+battery
+
+replace the battery
+
+Less than 12V
+
+Check the ignition switch is ”
+
+” position. Inspect
+
+that the fuse is not blown before the diagnosis.
+
+12V
+
+Poor contact of couplers
+
+Check
+
+the
+
+CDI unit couplers for
+
+poor contact
+
+Looseness
+
+Correct
+
+Faulty ignition switch
+
+Broken wire harness or poor
+
+contact
+
+related
+
+circuit
+
+connectors.
+
+Inspect the ignition circuit
+
+Faulty trigger coil
+
+Inspect the resistance of trigger coil
+
+Correct
+
+Incorrect
+
+Correct
+
+Faulty CDI unit
+
+Faulty ignition coil
+
+Faulty high-tension cord
+
+Ignitor
+
+Incorrect
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-6
+
+KΩ
+
+Ω
+
+Tap
+
+Tap
+
+Spark plug
+
+Remove the spark plug cap
+
+Inspect the resistence of ignition coil with the pocket tester.
+
+09900-25008: Pocket tester
+
+Primary: 3 4-4.6
+
+)
+
+Secondary: 11.05-14.95 k
+
+tap plug cap)
+
+Ω (tap-tap
+
+Ω (
+
+Tester knob indication: X1
+
+range
+
+Ω
+
+Trigger coil
+
+Measure resistance between lead wires using multi-circuit
+
+tester. If resistance is out of specified values, replace with
+
+new trigger coil.
+
+09900-25008: Pocket tester
+
+Trigger coil resistence: 110
+
+Ω
+
+Tester knob indication: X1
+
+range
+
+Ω
+
+If the ignition system doesn’t work properly and abnormality
+
+is not detected in the inspections above, replace the ignitor
+
+unit.
+
+09900-25008: Pocket tester
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-7
+
+Battery runs down quickly
+
+Check accessories which excessively
+
+waste electric power
+
+Remove accessories
+
+Faulty generator coils or
+
+disconnected lead wires.
+
+Installed
+
+Not installed
+
+No leak
+
+Correct
+
+Short circuit of wiring harness.
+
+Loose or disconnected wires.
+
+Faulty battery.
+
+Faulty battery.
+
+Abnormal driving condition.
+
+Faulty generator. rotor.
+
+Inspect battery leak current
+
+Inspect charging voltage
+
+between battery terminals.
+
+Inspect continuity of generator coils
+
+Inspect generator no-load voltage
+
+Incorrect
+
+Correct
+
+Leak
+
+Incorrect
+
+The circuit of the charging system is indicated in the figure, which is composed of an AC generator,
+
+regulator/rectifier unit and battery.
+
+The AC current generated from AC generator is converted by rectifier and is turned into DC current, then is
+
+charges the battery.
+
+Regulator/rectifier
+
+A C generator
+
+Ignition switch
+
+Battery
+
+Load
+
+No continuity
+
+Correct
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-8
+
+mA
+
+Remove the left side cover
+
+Turn the ignition switch to the OFF position.
+
+Disconnect the battery lead wire.
+
+Measure voltage between the battery - terminal and the
+
+specified ground cable terminal
+
+If the reading exceeds
+
+the specified value
+
+then leakage is present
+
+,
+
+09900-25008: Pocket tester
+
+Battery leakage: Less than 10 µA
+
+Tester knob indication: ( -----, 200µA)
+
+Because the leak current
+
+might be large
+
+turn the
+
+tester
+
+to
+
+high
+
+range
+
+first
+
+when
+
+connecting
+
+an
+
+ammeter
+
+Do not turn the ignition switch to the ON position
+
+when measuring current.
+
+,
+
+Remove the right side cover.
+
+Disconnect generator coupler
+
+Measure the resistence between the lead wires, if the
+
+resistence is incorrect, replace the generator coil.
+
+09900-25008: Pocket tester
+
+Generator coil resistance: 0.9
+
+Ω
+
+Tester knob indication: Resistance
+
+Faulty regulator/rectifier.
+
+Short circuit of wiring harness.
+
+Poor contact of couplers.
+
+Inspect regulator/rectifier.
+
+Inspect wirings,
+
+Correct
+
+Incorrect
+
+Incorrect
+
+Faulty battery.
+
+Others
+
+Battery overcharge
+
+Faulty regulator/rectifier.
+
+Faulty battery.
+
+Poor contact of generator
+
+lead wire coupler.
+
+Correct
+
+(
+
+)
+
+Continue the last page
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-9
+
+GENERATOR NO-LOAD PERFORMANCE INSPECTION
+
+Disconnect the generator coupler. (Refer to page 6-4)
+
+Start engine and keep it running at 5,000 rpm.
+
+Measure voltage between generator terminal and ground by
+
+using the pocket tester. If the reading is below standard values,
+
+replace with a new generator coil.(Refer to page 3-35)
+
+09900-25008: Pocket tester
+
+Generator no-load performance:
+
+75.5-80V/5000 r/min
+
+Tester knob indication: Voltage
+
+It is not necessary to remove the engine from the
+
+chassis during the removal the generator coil.
+
+Regulator/rectifier inspection
+
+If
+
+the
+
+resistance
+
+checked
+
+is
+
+incorrect,
+
+replace
+
+the
+
+regulator/rectifier.
+
+Battery
+
+Pocket tester
+
+Remove the left side cover
+
+Start the engine, keep it running at 5 000 r/min, with lighting
+
+switch turned ON and dimmer switch turned HI position.
+
+Measure the DC voltage between the battery terminal and with a
+
+pocket tester. If the tester reads under the specified value,
+
+inspect the generator coil and regulator/rectifier.
+
+09900-25008: Pocket tester
+
+Charging output
+
+Standard: 14.6-15.4V at 5 000 r/min
+
+Tester knob indication: Voltage
+
+When making this test, be sure that the battery is fully charged condition.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-10
+
+Resistence
+
+Float position
+
+Full
+
+Empty
+
+09900-25008: Pocket tester
+
+Ω
+
+Tester knob indication: x 1
+
+range
+
+Ω
+
+4-10Ω
+
+90-100Ω
+
+Remove the fuel lever gauge. (Refer to page 4-3)
+
+Check the resistance of each float position with a pocket
+
+tester.
+
+If the resistance measured is incorrect, replace the fuel
+
+gauge assembly with a new one.
+
+The relation between the position of the fuel gauge float
+
+and resistance is shown in the following table.
+
+Remove the fuel tank. (Refer to page 3-2)
+
+Remove the fuel level gauge.
+
+When
+
+inspecting the gauge resistance, be sure to
+
+disconnect the battery lead wire, or a pocket tester
+
+may be damaged.
+
+Disconnect fuel level gauge coupler. (Refer to page 4-2)
+
+To test the fuel meter two different checks may be used. The
+
+first, connect a jumper wire between B/W and Y/B wires coming
+
+from the main wiring harness. With the ignition switch turned
+
+ON, the fuel meter should indicted “F”.
+
+The second test will check the accuracy of the meter in the full
+
+and empty positions.
+
+Fuel meter is normal if its pointer indicates the E(empty)
+
+position when the specified resistance is applied to the circuit
+
+and if its pointer indicates the F(full) position when the resistor
+
+is changed to 4-10 ohms.If either one or both indications are
+
+abnormal, replace the fuel meter with a new one.
+
+When
+
+inspecting the gauge resistance, be sure to
+
+disconnect the battery lead wire, or a pocket tester
+
+may be damaged.
+
+Resistance
+
+Float position
+
+Full
+
+Empty
+
+4-10 Ω
+
+90-100 Ω
+
+B/W
+
+B/W
+
+Y/B
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-11
+
+Remove the dashboard assembly. (Refer to page 5-13)
+
+Disassemble the dashboard assembly as follows.
+
+Using
+
+the
+
+pocket tester, check the continuity between
+
+lead wires.
+
+If
+
+the
+
+continuity
+
+measured
+
+is
+
+incorrect,
+
+replace
+
+the
+
+respective parts.
+
+When making this test, it is not necessary to remove
+
+the dashboard.
+
+09900-25008: Multi circuit tester
+
+Tester knob indication: Continuity
+
+Upper case
+
+Dashboard unit
+
+Lower case
+
+Speedometer cable
+
+Bulb
+
+Wiring harness
+
+Dashbaord
+
+Gear position light
+
+Lg
+
+B/W
+
+Br
+
+W/Y
+
+R/B
+
+G/L
+
+Y/L
+
+Br/R
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-12
+
+TAIL LIGHT/BRAKE LIGHT
+
+Inspect each switch for continuity with the pocket tester
+
+If any abnormality is found, replace the respective switch
+
+assemblies with new ones.
+
+09900-25008: Pocket tester
+
+Test scale: Continuity
+
+○
+
+○
+
+O/Y
+
+○
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-13
+
+○
+
+○
+
+○
+
+○
+
+Y/G
+
+O/W
+
+O/B
+
+O/W
+
+○
+
+○
+
+○
+
+○
+
+B/L
+
+B/W
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Y/W
+
+Sb
+
+Lg
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-14
+
+W/B
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Neutral
+
+Low
+
+2nd
+
+3rd
+
+4th
+
+Top
+
+Y/L
+
+Br/R
+
+G/L
+
+W/Y
+
+R/B
+
+Ground
+
+B/Y
+
+B/W
+
+○
+
+○
+
+○
+
+○
+
+Downloaded from www.Manualslib.com manuals search engine
+
+12N7-4A
+
+Capacity
+
+7 Ah
+
+Standard electrolyte S.G.
+
+1.28 ± 0.01 20 C
+
+Battery
+
+Breathe
+
+pipe
+
+6-15
+
+Filling electrolyte
+
+Remove the short sealed tube before filling electrolyte. Fill
+
+battery with electrolyte (dilute sulfuric acid solution with acid
+
+concentration of 35.0% by weight, having a specific gravity of
+
+1.28 at 20 C/86 F) up to indicated UPPER LEVEL. Filling
+
+electroltye should be always cooled below 20 C/86 F before
+
+filing into battery
+
+Leave battery standing for half an hour
+
+after filing. Add additional electrolyte if necessary.
+
+Charge battery with current as described in the tables shown
+
+below.
+
+Standard Charging current
+
+0.7 A
+
+In fitting the battery to the motorcycle, connect the breather
+
+tube to the battery vent.
+
+Servicing
+
+Months after manufacturing
+
+6-12
+
+Over 12
+
+Necessary charging hours
+
+Visually inspect the surface of the battery container. If any signs
+
+f cracking or electrolyte leakage from the sides of the battery
+
+have occurred, replace the battery with a new one.
+
+If the battery terminals are found to be coated with rust or an
+
+acidic white powdery substance, then this can be cleaned away
+
+with sandpaper.
+
+The charging time for a new battery is determined by the number
+
+f months that have elapsed since the date of manufacture.
+
+Near the end of charging period, adjust the specific gravity of
+
+electrolyte
+
+to
+
+value
+
+specified. After
+
+charging,
+
+adjust
+
+the
+
+electrolyte level to the UPPER LEVEL with DISTILLED WATER.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+6-16
+
+Check the electrolyte level and add distilled water, as
+
+necessary, to raise the electrolyte to each cell’s upper level.
+
+Check the battery for proper charge by taking an electrolyte
+
+S.G. reading. If the reading is 1.22 or less, as corrected to
+
+20 C, it means that the battery is still in a run-down condition
+
+and needs recharging.
+
+Disconnect the
+
+lead first
+
+BASED ON S.G. READING
+
+To read the S G
+
+n the hydrometer, bring the electrolyte
+
+in the hydrometer to eye level and read the graduations on
+
+the float scale bordering on the meniscus(curved-up portion
+
+f electroylte) as shown in figure.
+
+Check the reading (as corrected to 20 C) with chart to
+
+determine the recharging time in hours by constant-current
+
+charging at a charging rate of 0.7A.
+
+Be careful not to permit the electrolyte temperature to
+
+exceed 45 C, at any time during the recharging operation.
+
+Interrupt the operation, as necessary, to let the electrolyte
+
+cool down. Recharge the battery to the specification.
+
+Constant-voltage charging, otherwise called “quick”
+
+charging, is not recommendable for it could shorten the
+
+life of the battery.
+
+Before charging a battery, remove the seal cap from each
+
+cell.
+
+Keep fire and sparks away from a battery being charged.
+
+When removing a battery from the motorcycle, be sure to
+
+remove the
+
+terminal first.
+
+09900-28403 Hydrometer
+
+:
+
+Electrolyte specific gravity
+
+1.28 ± 0.01 20 C
+
+Specific gravity
+
+Normal
+
+Recharge
+
+Recharge or Replace
+
+Temperature
+
+Charging time (hour)
+
+Specific gravity at 20 C
+
+Hydrometer
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-1
+
+7-7
+
+7-9
+
+7-11
+
+7-16
+
+7-18
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-1
+
+Remedy
+
+Symptom and possible causes
+
+Complaint
+
+Engine will not start
+
+r is hard to start.
+
+Engine stalls easily
+
+Noisy engine
+
+Slipping clutch.
+
+1. Clutch control out of limit or loss of play.
+
+2. Weakened clutch springs.
+
+3. Worn or distorted pressure plate.
+
+4. Distorted clutch plates, driven and drive.
+
+Adjust.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Compression too low
+
+Plug not sparking
+
+No fuel reaching the carburetor
+
+1. Valve clearance out of limit.
+
+2. Worn valve guides or poor seating of valves.
+
+3. Valves mistiming.
+
+4. Piston rings excessively worn.
+
+5. Worn-down cylinder bore.
+
+6. Poor seating of spark plug.
+
+7. Starting motor cranks but too slowly.
+
+1. Fouled spark plug.
+
+2. Wet spark plug.
+
+3. Defective trigger coil.
+
+4. Defective ignitor unit.
+
+5. Defective ignition coil.
+
+1. Clogged hole in the fuel tank cap.
+
+2. Clogged or defective fuel cock.
+
+3. Defective carburetor float needle valve.
+
+4. Clogged fuel pipe.
+
+5. Clogged fuel filter.
+
+Adjust.
+
+Repair or replace.
+
+Adjust.
+
+Replace.
+
+Replace or rebore.
+
+Retighten.
+
+Consult "electrical complaints"
+
+Clean or replace.
+
+Clean and dry.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Clean.
+
+Clean or replace.
+
+Replace.
+
+Clean or replace.
+
+Clean or replace.
+
+1. Fouled spark plug.
+
+2. Defective trigger coil.
+
+3. Defective ignitor unit.
+
+4. Clogged fuel pipe.
+
+5. Clogged jets in carburetor.
+
+6. Valve clearance out of limit.
+
+7. Clogged fuel filter.
+
+Clean.
+
+Replace.
+
+Replace.
+
+Clean.
+
+Clean.
+
+Adjust.
+
+Clean or replace.
+
+Excessive valve chatter
+
+Noise appears to come from piston
+
+Noise seems to come from clutch
+
+Noise seems to come from crankshaft
+
+1. Valve clearance too large.
+
+2. Weakened of broken valve springs.
+
+3. Worn down rocker arm or rocker arm shaft.
+
+1. Piston or cylinder worn down.
+
+2. Combustion chamber fouled with carbon.
+
+3. Piston pin or piston pin bore worn.
+
+4. Piston rings or ring groove worn.
+
+1. Worn splines of countershaft or hub.
+
+2. Worn teeth of clutch plates.
+
+3. Distorted clutch plates, driven and drive.
+
+4. Clutch damper weakened.
+
+1. Worn of burnt bearings.
+
+2. B g-end bearings worn and burnt.
+
+3. Thrust clearance too large.
+
+1. Gears worn of rubbing.
+
+2. Badly worn splines.
+
+3. Primary gears worn or rubbing.
+
+4. Badly worn bearings.
+
+Noise seems to come from transmission
+
+Adjust.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Clean.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-2
+
+Remedy
+
+Symptom and possible causes
+
+Complaint
+
+Dragging clutch.
+
+Transmission will
+
+not shift.
+
+Transmission will
+
+not shift back.
+
+Transmission jumps
+
+ut of gear.
+
+Engine idles poorly.
+
+Engine runs poorly
+
+in high speed range.
+
+Dirty or heavy
+
+exhaust smoke.
+
+1.Clutch control out of adjustment or too much play.
+
+2.Some clutch springs weakened.
+
+3.Distorted pressure plate or clutch plates.
+
+Adjust.
+
+Replace.
+
+Replace.
+
+1.Broken gearshift cam.
+
+2.Distorted gearshift forks.
+
+3.Worn gearshift pawl.
+
+Replace.
+
+Replace.
+
+Replace.
+
+1.Broken return spring on shift shaft.
+
+2.Shift shafts are rubbing or sticky.
+
+3.Distrorted or worn gearshift forks.
+
+Replace.
+
+Repair.
+
+Replace.
+
+1.Worn shifting gears on drive-shaft or counter-shaft.
+
+2.Distorted or worn gearshift forks.
+
+3.Weakened stopper pawl spring on gearshift cam.
+
+4.Worn gearshift pawl.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+1.Valve clearance out of limit.
+
+2.Poor seating of valves.
+
+3.Defective valve guides.
+
+4.Worn rocker arm or arm shaft.
+
+5.Defective trigger coil.
+
+6.Defective ignitor unit.
+
+7.Spark plug gap too wide.
+
+8.Defective ignition coil resulting in weak sparking.
+
+9.Clogged jets.
+
+Adjust.
+
+Replace.
+
+Replace.
+
+Replace
+
+Replace.
+
+Replace.
+
+Adjust or replace.
+
+Replace.
+
+Clean.
+
+1.Valve springs weakened.
+
+2.Valve timing out of limit.
+
+3.Worn cams or rocker arms.
+
+4.Spark plug gap too narrow.
+
+5.Defective ignition coil.
+
+6.Clogged air cleaner element.
+
+7.Clogged fuel hose, resulting in inadequate fuel
+
+supply to carburetor,
+
+8.Defective trigger coil or ignitor unit.
+
+Replace.
+
+Adjust.
+
+Replace.
+
+Repair.
+
+Replace.
+
+Clean.
+
+Clean and prime.
+
+Replace.
+
+1.Too much engine oil in the engine.
+
+2.Worn piston rings or cylinder.
+
+3.Worn valve guides.
+
+4.Cylinder wall scored or scuffed.
+
+5.Worn valves stems.
+
+6.Defective stem seals.
+
+7.Worn oil rings.
+
+Check with inspection
+
+window.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+1. Loss of valve clearance.
+
+2. Weakened valve springs.
+
+3. Valve timing out of limit.
+
+4. Worn piston ring or cylinder.
+
+5. Poor seating of valves.
+
+6. Fouled spark plug.
+
+7. Worn rocker arms or its shafts.
+
+8. Spark plug gap incorrect.
+
+9. Clogged jets in carburetor.
+
+10. Clogged air cleaner element.
+
+11. Too much engine oil.
+
+12. Suck air intake pipe.
+
+Adjust.
+
+Replace.
+
+Adjust.
+
+Replace.
+
+Repair.
+
+Clean or replace.
+
+Replace.
+
+Adjust or replace.
+
+Clean.
+
+Clean.
+
+Drain out excess oil.
+
+Retighten or replace.
+
+1. Heavy carbon deposit on piston crown.
+
+2. Not enough oil in the engine.
+
+3. Defective oil pump or clogged oil circuit.
+
+4. Air leak from intake pipe.
+
+5. Use of incorrect engine oil.
+
+Clean.
+
+Pour oil.
+
+Repair or clean.
+
+Retighten or replace.
+
+Change.
+
+Engine lacks power.
+
+Engine overheats.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-3
+
+Trouble with
+
+starting.
+
+Idle or low speed
+
+trouble.
+
+Medium or high speed trouble.
+
+Overflow and fuel
+
+level fluctuations.
+
+Remedy
+
+Symptom and possible causes
+
+Complaint
+
+1.Starting jet is clogged.
+
+2.Starting pipe is clogged.
+
+3. Air leakage from a joint between choke and carburetor.
+
+.Starting plunger is not operated properly.
+
+4. ir leakage at carburetor joint or vacuum tube joint.
+
+Clean.
+
+Clean.
+
+Check and retighten.
+
+Check and adjust.
+
+Check and retighten.
+
+1. Idle jet, idle air jet are clogged or loose.
+
+3. Idle outlet or by-pass is clogged.
+
+4. Starting plunger is not fully closed.
+
+Air leakage at carburetor joint, vacuum tube joint or
+
+choke.
+
+Check and clean.
+
+Check and clean.
+
+Check and adjust.
+
+Check and retighten.
+
+1. Main jet or main air jet is clogged.
+
+2. Bubbling pipe is clogged.
+
+3. Throttle valve is not operated properly.
+
+4. Air filter is clogged.
+
+Check and clean.
+
+Check and clean.
+
+Check and adjust.
+
+Check and clean.
+
+1. Needle valve is worn or damaged.
+
+2. Needle valve spring is broken.
+
+3. Float is not working properly.
+
+4. Foreign matter has adhered to needle valve.
+
+Replace.
+
+Replace.
+
+Check and adjust.
+
+Clean.
+
+Complaint
+
+Poor braking.
+
+Brake squeaking.
+
+Excessive brake
+
+lever free stroke.
+
+Leakage of brake
+
+fluid.
+
+Symptom and possible causes
+
+Remedy
+
+1. Not enough brake fluid in the reservoir.
+
+2. Air trapped in brae fluid circuit.
+
+3. Pads worn down.
+
+6. Wheel hub worn down.
+
+. Too much play on brake lever.
+
+Linings worn down.
+
+Brake disc worn down.
+
+7. Oil adhesion on engaging surface of pads or linings.
+
+Check and refill to level mark.
+
+Bleed air out.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Clean.
+
+Adjust.
+
+1.Carbon adhesion on pad surface.
+
+2.Tilted pad.
+
+3.Damaged wheel bearing.
+
+4.Loose front-wheel axle or rear-wheel axle.
+
+r linings
+
+6.Foreign material in brake fluid.
+
+7.Clogged return port of master cylinder
+
+Pads
+
+worn down.
+
+1.Air in hydraulic system.
+
+2.Brake lever cam worn down.
+
+3.Insufficient brake fluid.
+
+4.Improper quality of brake fluid.
+
+5.Brake linings or wheel hub worn down.
+
+1.Insufficlent tightening of connection joints.
+
+2.Cracked hose.
+
+3.Worn piston and/or seal ring.
+
+Repair surface with sandpaper.
+
+Modify pad fitting.
+
+Replace.
+
+Tighten to specified torque.
+
+Replace.
+
+Replace brake fluid.
+
+Disassemble and clean master
+
+cylinder.
+
+Bleed air out.
+
+Replace brake lever.
+
+Replenish .
+
+Replace with correct fluid.
+
+Replace.
+
+Tighten to specified torque.
+
+Replace.
+
+Replace piston and/or cup.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-4
+
+Steering feels too
+
+heavy or stiff.
+
+Steering oscillation.
+
+Wobby front wheel.
+
+Front
+
+too
+
+soft.
+
+absorbers
+
+Front
+
+too
+
+stiff
+
+absorbers
+
+Noisy front absorbers.
+
+Wobbly rear wheel.
+
+Rear
+
+too
+
+soft.
+
+absorbers
+
+Rear
+
+too
+
+stiff.
+
+absorbers
+
+Noisy rear absorbers.
+
+Complaint
+
+1. Steering stem nut over-tightened.
+
+2. Worn bearing or race in steering stem.
+
+3. Distorted steering stem.
+
+4. Not enough pressure in tires.
+
+1. Loss of balance between right and left front absorbers.
+
+2. Distorted front absorbers.
+
+3. Distorted front axle or crooked tire.
+
+1.Distorted wheel rim.
+
+2.Warn-down front wheel bearings.
+
+3.Defective or incorrect tire.
+
+4.Loose nut on axle.
+
+1. Weakened springs.
+
+2. Not enough absorber oil.
+
+1. Absorber oil too viscous.
+
+2. Too much
+
+il.
+
+absorber
+
+1. Not enough
+
+il.
+
+2. Loose nuts on
+
+absorbers
+
+absorbers
+
+1. Distorted wheel rim.
+
+2. Worn-down rear wheel bearings.
+
+3. Defective or incorrect tire.
+
+4. Loose nut on axle.
+
+5. Worn swing arm bushings.
+
+6. Loosen nuts on the rear absorbers.
+
+1. Weakened springs.
+
+2. Rear absorbers adjuster improperly set.
+
+1. Rear suspension adjuster improperly set.
+
+2. Warn swing arm bushings.
+
+1. Loose nuts on
+
+2. Worn swing arm bushings.
+
+the rear absorbers
+
+Remedy
+
+Symptom and possible causes
+
+Adjust.
+
+Replace.
+
+Replace.
+
+Adjust.
+
+Replace.
+
+Repair or replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Retighten.
+
+Replace.
+
+Refill.
+
+Replace.
+
+Remove excess oil.
+
+Refill.
+
+Retighten.
+
+Remedy
+
+Replace.
+
+Replace.
+
+Retighten.
+
+Replace.
+
+Retighten.
+
+Replace.
+
+Adjust.
+
+Adjust.
+
+Replace.
+
+Retighten.
+
+Replace.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-5
+
+Remedy
+
+Symptom and possible causes
+
+Complaint
+
+No spark or
+
+poor spark.
+
+Spark plug soon
+
+become fouled
+
+with carbon.
+
+Spark plug
+
+become fouled
+
+too soon.
+
+Spark plug
+
+electrodes
+
+verheat or burn.
+
+Generator does
+
+not charge.
+
+Generator charge,
+
+but charging rate
+
+is below the
+
+specification.
+
+Generator
+
+vercharges.
+
+Unstable
+
+charging.
+
+Starting button
+
+is not effective.
+
+1. Defective ignition coil.
+
+2. Defective spark plug.
+
+3. Defective trigger coil or ignitor unit.
+
+Replace.
+
+Replace.
+
+Replace.
+
+1. Mixture too rich.
+
+2. Too high idle speed.
+
+3. Incorrect fuel.
+
+4. Dirty element in air cleaner.
+
+5. Spark plug too cold.
+
+Adjust carburetor.
+
+Adjust carburetor.
+
+Change.
+
+Clean.
+
+Replace by hot type plug.
+
+1.Worn piston rings.
+
+2.Pistons or cylinder worn.
+
+3.Excessive clearance of valve stems in valve guides.
+
+4.Worn stem oil seals.
+
+Replace.
+
+Replace.
+
+Replace.
+
+Replace.
+
+1.Spark plug too hot.
+
+2.The engine overheats.
+
+3.Defective trigger coil or ignitor unit.
+
+4.Spark plug loose.
+
+5.Mixture too poor.
+
+Replace by cold type plug.
+
+Adjust.
+
+Replace.
+
+Tighten.
+
+Adjust carburetor.
+
+1.Opened or shorted in lead wires, or loose lead
+
+connections.
+
+2.Shorted, grounded or opened generator coils.
+
+3.Shorted or destroyed regulator/rectifier.
+
+Repair or replace or
+
+retighten.
+
+Replace.
+
+Replace.
+
+1.Lead wires tend to get shorted or opened circuit or
+
+loosely connected at terminals.
+
+2.Grounded or opened circuit generator stator.
+
+3.Defective regulator/rectifier.
+
+4.Not enough electrolyte in the battery.
+
+5.Defective cell plates in the battery.
+
+Repair or tighten.
+
+Replace.
+
+Replace.
+
+Pour distilled water between
+
+the level lines.
+
+Replace the battery.
+
+1.Internal shorted circuit in the battery.
+
+2.Resistor element in the regulator/rectifier damaged
+
+r defective.
+
+3.Regulator/rectifier poorly grounded.
+
+Replace the battery.
+
+Replace.
+
+Clean and tighten ground
+
+connection.
+
+1.Lead wire insulation frayed due to vibration, resulting
+
+in intermittent shorted circle.
+
+2.Generator internally shorted circle.
+
+3.Defective regulator/rectifier.
+
+Repair or replace.
+
+Replace.
+
+Replace.
+
+1.Battery run down.
+
+2.Defective switch contacts.
+
+3.Brusnes not seated properly on commutator in
+
+starting motor.
+
+4.Defective starting relay.
+
+Recharge or replace.
+
+Replace.
+
+Repair or replace.
+
+Replace.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-6
+
+Remedy
+
+Symptom and possible causes
+
+Complaint
+
+1. Not enough electrolyte.
+
+2.Battery case is cracked.
+
+4.Battery has been left in a run-down condition for
+
+a long time.
+
+5.Contaminated electrolyte (Foreign matter has
+
+enters the battery and become mixed with the
+
+electrolyte.)
+
+Charging rate is too low or too high.
+
+Pour distilled water, if the battery
+
+has not been damaged and
+
+"sulfation" has not advanced
+
+too far, and recharge.
+
+Replace.
+
+Replace.
+
+If "sulfation" has not advanced
+
+too far, try to restore the battery
+
+by replacing the electrolyte,
+
+recharging it fully and then
+
+adjust the electrolyte S.G.
+
+Replace.
+
+1. The charging method is not correct.
+
+2. Cell plates have lost much of their active material
+
+as result of over-charging.
+
+3. A shorted circuit condition exists within the battery
+
+due to excessive accumulation of sediments
+
+caused by the high electrolyte S.G.
+
+4. Electrolyte S.G. is too low.
+
+5. Contaminated electrolyte.
+
+6. Battery is too old.
+
+Check the generator,
+
+regulator/rectifier and circuit
+
+connections, and make
+
+necessary adjustments to
+
+btain specified charging
+
+peration.
+
+Replace the battery, and
+
+correct the charging system.
+
+Replace the battery.
+
+Recharge the battery fully
+
+and adjust electrolyte S.G.
+
+Replace the electrolyte,
+
+recharge the battery and
+
+adjust the S.G.
+
+Replace the battery.
+
+The battery has been connected the wrong way
+
+round in the system, so that it is being charged in
+
+the reverse direction.
+
+Replace the battery and be
+
+sure to connect the battery
+
+properly.
+
+1. Dirty container tap and sides.
+
+2. Impurities in the electrolyte or electrolyte S.G. is
+
+too high.
+
+Clean.
+
+Change the electrolyte by
+
+consulting the battery
+
+’s directions.
+
+manufacturer
+
+“Sulfation”, acidic
+
+white powdery
+
+substance or spots
+
+n surface of cell
+
+plates.
+
+Battery runs
+
+down quickly.
+
+Reversed battery
+
+polarity.
+
+Battery discharges
+
+too rapidly.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+09900-20803
+
+Thickness gauge
+
+09900-20205
+
+Micrometer
+
+09910-32812
+
+Crankshaft installer
+
+09921 20240
+
+Bearing remover tool
+
+09900-20606
+
+Dial meter
+
+09900-20202
+
+Micrometer
+
+09913-50121
+
+Oil seal remover
+
+09915-21110
+
+Valve seat reamer set
+
+09930-30102
+
+Slide shaft
+
+09913-70210
+
+Bearing installer set
+
+(
+
+10-75)
+
+Φ
+
+09900-20203
+
+Micrometer
+
+09900-20701
+
+Magnetic bracket
+
+09910-20116
+
+Conrod holder
+
+09900-20508
+
+cylinder bore gauge kit
+
+09900-21304
+
+V-block (set) (100mm)
+
+09910-34510
+
+Piston pin puller
+
+09923 73210
+
+Bearing remover
+
+09900-20103
+
+Vernier calipers
+
+09900-20605
+
+Dial calipers
+
+09910-60611
+
+Universal clamp wrench
+
+09900-25008
+
+Pocket tester
+
+09916-10911
+
+Valve seat lapper set
+
+09940-14911
+
+Steering stem nut
+
+socket wrench
+
+09930-40113
+
+Sprocket holder
+
+09924-84521
+
+Bearing installer set
+
+09930-34980
+
+Rotor remover tool(M33)
+
+09920-13120
+
+Crankcase separator
+
+09900-06107
+
+Snap ring pliers
+
+7-7
+
+09900-22302
+
+plastigage
+
+09940-50112
+
+Absorber oil seal installer
+
+Downloaded from www.Manualslib.com manuals search engine
+
+09941-54911
+
+Bearing outer race
+
+remover
+
+11F14-010
+
+Front absorber tools
+
+09941-74910
+
+Bearing installer
+
+11F14-018
+
+Valve spring tools
+
+11F14-001
+
+Rotor holder
+
+11F14-017
+
+Valve adjust spring
+
+09941-34513
+
+Bearing installer
+
+11F14-019
+
+”T” valve adjust wrench
+
+11F14-023
+
+Pressure test tool
+
+09940-53311
+
+Bearing installer
+
+7-8
+
+Downloaded from www.Manualslib.com manuals search engine
+
+N•m
+
+Kg•m
+
+Cylinder head cover bolt
+
+Cylinder head nut
+
+Camshaft sprocket bolt
+
+Crankcase side bolt
+
+Oil drain plug
+
+Primary drive gear nut
+
+Cltuch sleeve hub nut
+
+Oil inspection plug
+
+Engine sprocket nut
+
+Muffler clamp bolt
+
+Tensioner bolt
+
+Camshaft sprocket bolt
+
+Generator rotor nut
+
+Starter clutch bolt
+
+Engine mounting bolt
+
+Engine hanging bolt
+
+0.9-1.0
+
+2.1-2.5
+
+1.0-1.3
+
+0.8-1.2
+
+2.0-2.5
+
+4.0-6.0
+
+3.0-5.0
+
+2.5-3.5
+
+0.8-10
+
+1.1-1.5
+
+0.9-1.4
+
+1.0-1.6
+
+3.0-4.0
+
+0.8-1.2
+
+3.3-3.9
+
+3.3-3.9
+
+3.3-3.9
+
+2.2-3.3
+
+2.2-3.3
+
+9-10
+
+21-25
+
+10-13
+
+8-12
+
+20-25
+
+40-60
+
+30-50
+
+25-35
+
+80-100
+
+11-15
+
+9-14
+
+10-16
+
+30-40
+
+8-12
+
+33-39
+
+33-39
+
+33-39
+
+22-33
+
+22-33
+
+Upper
+
+Front
+
+Rear
+
+Upper
+
+Front
+
+7-9
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-10
+
+N m
+
+Kg m
+
+Handlebars clamp bolt
+
+Front absorber upper clamp bolt
+
+Steering stem head bolt
+
+Front absorber lower clamp bolt
+
+Front axle nut
+
+Front brake disc bolt
+
+Air bleeder valve
+
+Front brake caliper bolt
+
+Brake hose union bolt
+
+Master cylinder mounting bolt
+
+Rear absorber mounting nut
+
+Rear axle nut
+
+Rear brake cam rocker bolt
+
+Rear torque link nut (Front and Rear)
+
+Rear sprocket nut
+
+Front footrest bolt
+
+Swing arm pivot bolt
+
+12-20
+
+20-30
+
+35-55
+
+25-35
+
+36-52
+
+18-28
+
+6-9
+
+18-28
+
+20-25
+
+8-12
+
+50-80
+
+22-35
+
+50-80
+
+6-8
+
+10-16
+
+18-28
+
+34-50
+
+1.2-2.0
+
+2.0-3.0
+
+3.5-5.5
+
+2.5-3.5
+
+3.6-5.2
+
+1.8-2.8
+
+0.6-0.9
+
+1.8-2.8
+
+2.0-2.5
+
+0.8-1.2
+
+5.0-8.0
+
+2.2-3.5
+
+5.0-8.0
+
+0.6-0.8
+
+1.0-1.6
+
+1.8-2.8
+
+3.4-5.0
+
+For other bolts and nuts who’s torque is not listed, refer to this chart:
+
+Bolt Diameter
+
+Conventional or "4" marked bolt
+
+N m
+
+Kg m
+
+1.5
+
+0.15
+
+0.3
+
+0.6
+
+1.3
+
+2.9
+
+4.5
+
+6.5
+
+10.5
+
+16.0
+
+"7" marked bolt
+
+Kg m
+
+N m
+
+0.2
+
+0.5
+
+1.0
+
+2.3
+
+5.0
+
+8.5
+
+13.5
+
+21.0
+
+24.0
+
+Conventional bolt
+
+”4” marked bolt
+
+”7” marked bolt
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-11
+
+IN.
+
+IN.
+
+IN.
+
+EX.
+
+EX.
+
+EX.
+
+IN & EX
+
+IN & EX
+
+IN & EX
+
+IN & EX
+
+IN & EX
+
+Inner
+
+Outer
+
+Valve diam.
+
+Valve clearance (when cold)
+
+Valve stem O.D.
+
+Valve stem deflection
+
+Valve stem runout
+
+Valve head thickness
+
+Valve seat width
+
+Valve head radial runout
+
+Valve spring
+
+free length (IN.& EX.)
+
+25.5
+
+22.5
+
+0.04-0.07
+
+5.000-5.012
+
+4.975-4.990
+
+4.955-4.970
+
+0.9-1.1
+
+Unit: mm
+
+0.35
+
+0.05
+
+0.5
+
+0.03
+
+31.24
+
+33.58
+
+CAMSHAFT + CYLINDER HEAD
+
+Cam height
+
+Camshaft journal oil clearance
+
+Rocker arm I.D
+
+Rocker arm shaft O D
+
+Cylinder head distortion
+
+Cylinder head cover distortion
+
+Unit: mm
+
+33.35
+
+33.00
+
+0.05
+
+0.05
+
+IN & EX
+
+IN & EX
+
+IN.
+
+EX.
+
+33.65-33.69
+
+33.30-33.34
+
+0.021-0.055
+
+12.0-12.018
+
+11.977-11.995
+
+0.15
+
+Valve guide to valve stem
+
+clearance
+
+Valve guide I.D.
+
+IN.& EX.
+
+IN.
+
+EX.
+
+0.13-0.18
+
+0.010-0.037
+
+0.03-0.057
+
+IN & EX
+
+Camshaft journal holder I.D.
+
+IN & EX
+
+IN & EX
+
+IN & EX
+
+Camshaft journal O.D.
+
+22.012-22.025
+
+21.970-21.991
+
+0.1
+
+Camshaft runout
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-12
+
+CYLINDER + PISTON + PISTON RING
+
+Compression pressure
+
+Piston to cylinder clearance
+
+Cylinder bore
+
+Piston diam.
+
+Cylinder distortion
+
+Piston ring free end gap
+
+Piston ring end gap
+
+Piston ring to groove clearance
+
+Piston ring groove width
+
+Piston ring thickness
+
+Piston pin bore
+
+Piston pin O D
+
+CONROD + CRANKSHAFT
+
+Conrod small end I D
+
+Conrod big end side clearance
+
+Conrod big end width
+
+Crank pin width
+
+1st
+
+1st
+
+1st
+
+1st
+
+1st
+
+2nd
+
+2nd
+
+2nd
+
+2nd
+
+2nd
+
+Oil
+
+1 000-1 400 kPa
+
+0 030-0.051
+
+57.010-57.015
+
+56.964-56.970
+
+Measure at 8 mm from the skirt end
+
+Approx.7.2
+
+Approx.5.8
+
+0.10-0.25
+
+0.10-0.25
+
+1.01-1.03
+
+1.01-1.03
+
+2.01-2.03
+
+0.97-0.99
+
+0.97-0.99
+
+14.002-14.008
+
+13.996-14.000
+
+14.006-14.014
+
+0.10-0.45
+
+15.95-16.0
+
+Unit: mm
+
+800 kPa
+
+0.12
+
+57.135
+
+56.844
+
+0.05
+
+5 76
+
+4 64
+
+0.7
+
+0.7
+
+0.18
+
+0.15
+
+13.980
+
+14.030
+
+Unit: mm
+
+14.04
+
+1.0
+
+Crank web to web width
+
+0.05
+
+52.7-52.9
+
+Oil pressure (at 60 °C, 140 °F)
+
+10-30 kPa at 3 000 r/min
+
+Conrod deflection
+
+Crank pin O.D.
+
+Crankshaft runout
+
+0.05
+
+28.000-28.004
+
+52.9-53.1
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-13
+
+Clutch cable play
+
+Drive plate thickness
+
+Drive plate claw width
+
+Driven plate distortion
+
+Clutch spring free length
+
+TRANSMISSION + DRIVE CHAIN
+
+Primary reduction ratio
+
+Final reduction ratio
+
+Gear ratios
+
+Shift fork to groove clearance
+
+Drive chain
+
+Drive chain slack
+
+Shift fork thickness
+
+Unit: mm
+
+2 4
+
+11.3
+
+0.1
+
+29.45
+
+259.0 mm
+
+10-15
+
+2.9-3.1
+
+11.8-12.0
+
+Low
+
+2nd
+
+3rd
+
+4th
+
+Top
+
+Type
+
+Links
+
+20 pitch length
+
+3.470 (59/17)
+
+2.867 (43/15)
+
+3.000 (33/11)
+
+1.857 (26/14)
+
+1.368 (26/19)
+
+1.095 (23/21)
+
+0.957 (22/23)
+
+KMC428HG
+
+10-20 mm
+
+Shift fork groove width
+
+0.10-0.30
+
+No.1 & No.2
+
+No.3
+
+No.1 & No.2
+
+No.3
+
+Cuontershaft length
+
+5.1
+
+5.5-5.6
+
+4.8-4.9
+
+5.3-5.4
+
+79.8-88.1
+
+Carburetor type
+
+I.D. No.
+
+Main jet
+
+Bubbling jet
+
+Needle
+
+Needle jet
+
+Idle jet
+
+Idle air screw
+
+Idle air jet
+
+# 12.5
+
+0(390)
+
+4DH41-2
+
+Ø 3
+
+# 110
+
+054G
+
+BS26
+
+1400 100 r/min
+
+±
+
+2,5/8 turn out
+
+Idle
+
+# 1.25
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Y-Y
+
+Bl-G
+
+Terminal - Ground or
+
+Terminal - Terminal
+
+Plug cap - Terminal or
+
+Plug cap - Plug cap
+
+35 W
+
+35 W
+
+5/21 W
+
+10 W
+
+5 W
+
+Dashboard light
+
+High beam indicator light
+
+Turn signal indicator light
+
+Gear indication light
+
+Type
+
+Gap
+
+Primary
+
+Secondary
+
+Trigger
+
+Charging
+
+NGK CR8E
+
+0.7 mm-0.8 mm
+
+13000±20% Ω
+
+Approx.0.9 Ω
+
+More than 75.5-80V at 5000 r/min
+
+14.6-15.4V at 5 000 r/min
+
+12N7-4A
+
+12 V7Ah
+
+1.28±0.01 (20
+
+)
+
+15 A
+
+Approx.110 Ω
+
+Headlight
+
+Tail/Brake light
+
+Turn signal light
+
+Position light
+
+Spark plug
+
+Ignition coil resistance
+
+Generator coil resistance
+
+Generator no-load voltage
+
+Regulate voltage
+
+Type designation
+
+Capacity
+
+Standard
+
+electrolyte S G
+
+Battery
+
+Fuse
+
+Cold inflation tire pressure
+
+Cold inflation tire pressure
+
+Tire size
+
+175 kPa(1.75 kgf/cm²)
+
+200 kPa(2.00 kgf/cm²)
+
+175 kPa(1.75 kgf/cm²)
+
+225 kPa(2.25 kgf/cm²)
+
+2.75-18 4PR
+
+3.50-16 4PR
+
+2 W
+
+2 W
+
+3 W
+
+2 W
+
+7-14
+
+4 15
+
+Ω
+
+±
+
+%
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-15
+
+Unit
+
+mm
+
+：
+
+Unit
+
+mm
+
+：
+
+Front fork stroke
+
+Front fork spring free length
+
+Fork fork oil type
+
+Front fork oil capacity(each leg)
+
+Rear suspension spring adjustment
+
+Swing arm pivot shaft runout
+
+BRAKE + WHEEL
+
+Rear brake pedal height
+
+Brake disc thickness
+
+Brake disc runout
+
+Brake fluid type
+
+Wheel rim runout
+
+Wheel axle runout
+
+Brake drum I D
+
+Brake lining thickness
+
+FUEL +OIL
+
+Fuel type
+
+Fuel tank
+
+capacity
+
+Engine oil type and grade
+
+385.5
+
+168±3 ml
+
+0.6
+
+2nd
+
+Front
+
+Front
+
+Front
+
+Rear
+
+Rear
+
+20-30
+
+3.8-4.2
+
+3.0
+
+0.3
+
+Dot 4
+
+2.0
+
+2.0
+
+0.25
+
+0.25
+
+130.7
+
+1.5
+
+STD/SPEC.
+
+Fuel used should be graded 91 octane or higher.
+
+An unleaded fuel is recommended.
+
+10 L
+
+2 L
+
+Reserve
+
+Including reserve
+
+SAE 10W-40, API SF or SG
+
+Engine oil
+
+capacity
+
+850 ml
+
+1 300 ml
+
+Oil change
+
+Overhaul
+
+950 ml
+
+Filter change
+
+SUZUKI fork oil #32 or
+
+equivalent fork oil
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-16
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-17
+
+Downloaded from www.Manualslib.com manuals search engine
+
+7-18
+
+TAIL LIGHT/BRAKE LIGHT
+
+15A
+
+12V 7Ah
+
++
+
++
+
++
+
+Lg
+
+B/W
+
+Lg
+
+B/W
+
+B/W
+
+B/W
+
+B/W
+
+Br
+
+B/W
+
+B/W
+
+Lg
+
+Lg
+
+B/W
+
+B/W
+
+B/W
+
+B/W
+
+W/B
+
+W/B
+
+Br
+
+B/W
+
+Lg
+
+Lg
+
+B/W
+
+B/W
+
+Br
+
+W/Y
+
+R/B
+
+G/L
+
+Y/L
+
+Br/R
+
+W/Y
+
+R/B
+
+G/L
+
+Y/L
+
+Br/R
+
+Y/G
+
+Y/G
+
+O/W
+
+W/B
+
+O/W
+
+O/B
+
+Y/B
+
+B/W
+
+Y/B
+
+B/W
+
+G/L
+
+O/W
+
+B/W
+
+B/W
+
+B/R
+
+B/W
+
+W/B
+
+W/B
+
+Sb
+
+B/W
+
+B/W
+
+L/Gr
+
+Y/G
+
+B/W
+
+G/L
+
+G/L
+
+Br/R
+
+Br/R
+
+Y/L
+
+Y/L
+
+G/L
+
+G/L
+
+R/B
+
+R/B
+
+W/Y
+
+W/Y
+
+B/R
+
+Y/W
+
+Y/W
+
+B/W
+
+B/W
+
+B/L
+
+B/R
+
+Sb
+
+Sb
+
+Lg
+
+Lg
+
+B/Y
+
+L/Gr
+
+O/Y
+
+REGULATIOR/RECTIFIER
+
+Downloaded from www.Manualslib.com manuals search engine
+
+JIANG MEN DACHANGJIANG GROUP CO., LTD
+
+Customer service department
+
+1st Ed. DEC, 2014
+
+Printed in China
+
+Downloaded from www.Manualslib.com manuals search engine
+
+JIANGMEN DACHANGJIANG GROUP CO., LTD.
+
+Downloaded from www.Manualslib.com manuals search engine
