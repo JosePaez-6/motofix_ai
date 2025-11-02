@@ -52,11 +52,6 @@ __pycache__/
 *.npy
 *.npz
 
-# --- Archivos generados o temporales ---
-# (solo si prefieres regenerarlos en servidor)
-#manuales_txt/
-#vectores/
-
 # --- Compilaciones JS/CSS (si usas frontend en Vercel/Netlify) ---
 web/node_modules/
 web/package-lock.json

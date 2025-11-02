@@ -8,49 +8,56 @@ from dotenv import load_dotenv
 from loader import cargar_vectorstore
 from local_llm import responder_con_llm
 
+# =========================================================
+# Configuración base
+# =========================================================
 load_dotenv()
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+VECTORES_DIR = os.path.join(BASE_DIR, "vectores")
 
 app = FastAPI(
     title="MOTOFIX - API de Asistente Técnico",
     description="Asistente experto en mantenimiento de motocicletas basado en IA.",
-    version="1.1.0"
+    version="1.2.0"
 )
 
 # =========================================================
-# Configuración CORS
+# CORS
 # =========================================================
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Reemplaza con tu dominio de Vercel si deseas restringir
-    allow_credentials=True,
+    allow_origins=["*"],  # puedes cambiarlo a ["https://tuapp.vercel.app"] si deseas restringir
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 # =========================================================
-# Cargar todos los modelos automáticamente
+# Función para cargar todos los vectores
 # =========================================================
 def cargar_todos_los_vectores():
     vectorstores = {}
-    carpeta = "vectores"
 
-    if not os.path.exists(carpeta):
-        os.makedirs(carpeta)
+    if not os.path.exists(VECTORES_DIR):
+        print(f"Carpeta de vectores no encontrada en {VECTORES_DIR}")
         return vectorstores
 
-    for modelo in os.listdir(carpeta):
-        ruta = os.path.join(carpeta, modelo)
+    for modelo in os.listdir(VECTORES_DIR):
+        ruta = os.path.join(VECTORES_DIR, modelo)
         if os.path.isdir(ruta):
             try:
                 vectorstores[modelo] = cargar_vectorstore(modelo)
                 print(f"Vectorstore del modelo '{modelo}' cargado correctamente.")
             except Exception as e:
                 print(f"Error cargando vectorstore '{modelo}': {e}")
+
     return vectorstores
 
 
 vectorstores = cargar_todos_los_vectores()
 modelos_disponibles = list(vectorstores.keys())
+
+print("Modelos cargados en memoria:", modelos_disponibles)
 
 # =========================================================
 # Modelos de datos
@@ -65,8 +72,8 @@ class Pregunta(BaseModel):
 @app.get("/")
 def home():
     return {
-        "mensaje": "API de MOTOFIX en ejecución",
-        "modelos_disponibles": modelos_disponibles
+        "mensaje": "API de MOTOFIX en ejecución correctamente",
+        "modelos_disponibles": modelos_disponibles,
     }
 
 @app.get("/modelos")
@@ -76,10 +83,7 @@ def obtener_modelos():
 
 @app.get("/modelos/normalizados")
 def obtener_modelos_normalizados():
-    """
-    Devuelve una lista de modelos en formato legible para el frontend,
-    con nombre y etiqueta, listos para poblar el dropdown.
-    """
+    """Devuelve modelos listos para usar en dropdowns"""
     modelos_normalizados = [
         {
             "value": modelo.upper().replace("_", " ").strip(),
@@ -90,22 +94,34 @@ def obtener_modelos_normalizados():
     return {"modelos": modelos_normalizados}
 
 # =========================================================
+# Endpoint de diagnóstico
+# =========================================================
+@app.get("/health")
+def health_check():
+    return {
+        "ok": True,
+        "ruta_vectores": VECTORES_DIR,
+        "existe": os.path.exists(VECTORES_DIR),
+        "contenido": os.listdir(VECTORES_DIR) if os.path.exists(VECTORES_DIR) else [],
+        "modelos_cargados": list(vectorstores.keys())
+    }
+
+# =========================================================
 # Ruta principal de consulta
 # =========================================================
 @app.post("/preguntar")
 def responder(data: Pregunta):
-    # Normalización del nombre del modelo
     modelo_raw = (
         data.modelo.strip()
         .upper()
         .replace("ITALIKA", "")
-        .replace("_", " ")
-        .strip()
+        .replace("_", "")
+        .replace("-", "")
+        .replace(" ", "")
     )
 
-    # Crear un diccionario de coincidencias flexible
     coincidencias = {
-        m.upper().replace("_", " ").strip(): m
+        m.upper().replace("_", "").replace("-", "").replace(" ", ""): m
         for m in vectorstores.keys()
     }
 
@@ -118,7 +134,7 @@ def responder(data: Pregunta):
     modelo_real = coincidencias[modelo_raw]
     print(f"Consultando modelo: {modelo_real}")
 
-    # Búsqueda semántica en el vectorstore correspondiente
+    # Búsqueda semántica
     docs = vectorstores[modelo_real].similarity_search(data.pregunta, k=3)
     contexto = "\n".join([doc.page_content for doc in docs])
     respuesta = responder_con_llm(data.pregunta, contexto)
@@ -130,7 +146,7 @@ def responder(data: Pregunta):
     }
 
 # =========================================================
-# Punto de entrada (solo si se ejecuta directamente)
+# Ejecución local
 # =========================================================
 if __name__ == "__main__":
     import uvicorn
